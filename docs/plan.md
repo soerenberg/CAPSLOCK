@@ -23,8 +23,10 @@ For a single country the following data is required:
 
 Use Wikipedia as a convenience for initial collection, but the inclusion rule is UN members with ISO 3166-1 codes.
 
-This data for all countries should be inferred and saved a static JSON file. Do not hard code this information into the code. Instead ensure that this data is read from said JSON file. In case any future changes happening (a new sovereign state being created or disbanded) it should be enough to update the JSON file.
-Save all images of flags as static files. Ensure that the images inferred from the internet fall under appropriate licences compatible with the MIT licence. If necessary consider saving several resolutions.
+For flag and country data proceed as follows:
+  1. Add deps `world-countries` (country metadata, UN member flag, aliases) and `country-flag-icons` (flag SVGs).
+  2. Add a script to generate public/data/countries.json and copy all flags into public/flags/ so the app reads only local static files.
+  3. Build the React UI and quiz logic against that JSON.
 
 ### String comparison
 
