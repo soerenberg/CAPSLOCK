@@ -296,12 +296,6 @@ The evaluation screen should be structured as follows:
 * Show a vertically arranged list of wrongly guessed items (that is, <WRONG_GUESSES_LIST>). That is, if the objective was to guess capitals from countries then this should display countries (and vice versa). In case the user chose "Connect capitals and countries" then it should only list countries.
 * Show a vertically arranged list of skipped guessed items (that is, <SKIPPED_GUESSES_LIST>). That is, if the objective was to guess capitals from countries then this should display countries (and vice versa). In case the user chose "Connect capitals and countries" then it should only list countries.
 
-### Function: Side Menu
-
-The app should have a side menu that slides in from the left via a 'tool' (symbol) button in the bottom left.
-
-The side menu should offer the following settings. Use the mentioned subsection as subsection is the menu as well.
-
 #### Appearance
 
 - "Catppuccin Flavor" Make a selection of the 4 Catppuccin Flavors (Latte, Frappe, Macchiato, Mocha) but default to Frappe.
