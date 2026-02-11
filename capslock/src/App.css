@@ -1,38 +1,228 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.app-root {
   min-height: 100vh;
+  background:
+    radial-gradient(circle at 10% 10%, color-mix(in srgb, var(--ctp-blue) 20%, transparent), transparent 40%),
+    radial-gradient(circle at 90% 90%, color-mix(in srgb, var(--ctp-rose) 22%, transparent), transparent 40%),
+    linear-gradient(180deg, var(--ctp-mantle), var(--ctp-base));
+  color: var(--ctp-text);
+  font-family: var(--app-font);
+}
+
+.app-nav {
+  background-color: color-mix(in srgb, var(--ctp-crust) 88%, transparent);
+  border-bottom: 1px solid var(--ctp-border);
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  backdrop-filter: blur(8px);
+}
+
+.app-title {
+  color: var(--ctp-yellow) !important;
+  font-weight: 800;
+  letter-spacing: 0.2rem;
+}
+
+.theme-badge {
+  background-color: var(--ctp-surface) !important;
+  color: var(--ctp-text) !important;
+  border: 1px solid var(--ctp-border);
+}
+
+.app-content {
+  padding-bottom: 2rem;
+}
+
+.panel-card {
+  background-color: color-mix(in srgb, var(--ctp-crust) 72%, transparent);
+  border: 1px solid var(--ctp-border);
+  color: var(--ctp-text);
+}
+
+.panel-card .form-control,
+.panel-card .form-select,
+.panel-card .list-group-item {
+  background-color: var(--ctp-surface);
+  border-color: var(--ctp-border);
+  color: var(--ctp-text);
+}
+
+.menu-section {
+  margin-top: 1rem;
+}
+
+.menu-label {
+  margin-bottom: 0.35rem;
+  color: var(--ctp-subtext);
+  font-size: 0.95rem;
+}
+
+.count-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: 0.5rem;
+}
+
+.tiny-meta {
+  font-size: 0.82rem;
+}
+
+.prompt-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.guess-input {
+  min-width: 260px;
+  flex: 1;
+}
+
+.status-row {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
+  gap: 1rem;
+  color: var(--ctp-subtext);
+  font-size: 0.92rem;
+}
+
+.tiny-feedback {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.flag-medium {
+  height: 42px;
+  border-radius: 3px;
+  border: 1px solid var(--ctp-border);
+}
+
+.flag-large {
+  display: block;
+  width: min(360px, 100%);
+  border: 1px solid var(--ctp-border);
+  border-radius: 6px;
+  margin-inline: auto;
+}
+
+.flag-inline {
+  height: 20px;
+  border-radius: 2px;
+  border: 1px solid var(--ctp-border);
+  margin-right: 0.5rem;
+}
+
+.muted {
+  color: var(--ctp-subtext);
+}
+
+.scroll-box {
+  max-height: 420px;
+  overflow-y: auto;
+  border: 1px solid var(--ctp-border);
+  border-radius: 6px;
+  padding: 0.5rem;
+  background-color: var(--ctp-mantle);
+}
+
+.pair-item {
+  border: 1px dashed var(--ctp-border);
+  border-radius: 6px;
+  padding: 0.55rem 0.65rem;
+  margin-bottom: 0.45rem;
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 0.5rem;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
+.pair-item.selected {
+  border-color: var(--ctp-blue);
+  box-shadow: 0 0 0 1px var(--ctp-blue);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.flag-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(95px, 1fr));
+  gap: 0.5rem;
+  max-height: 380px;
+  overflow-y: auto;
+}
+
+.flag-choice {
+  border: 1px solid var(--ctp-border);
+  border-radius: 6px;
+  background-color: var(--ctp-surface);
+  padding: 0.45rem;
+}
+
+.flag-choice.selected {
+  border-color: var(--ctp-blue);
+  box-shadow: 0 0 0 1px var(--ctp-blue);
+}
+
+.fixed-controls {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.map-shell {
+  border: 1px solid var(--ctp-border);
+  border-radius: 8px;
+  background-color: var(--ctp-mantle);
+  overflow: hidden;
+  touch-action: pan-x pan-y;
+}
+
+.map-svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  aspect-ratio: 2 / 1;
+}
+
+.map-ocean {
+  fill: color-mix(in srgb, var(--ctp-blue) 20%, var(--ctp-base));
+}
+
+.map-grid {
+  stroke: color-mix(in srgb, var(--ctp-surface) 75%, white);
+  stroke-width: 0.8;
+  opacity: 0.4;
+}
+
+.map-country-dot {
+  fill: color-mix(in srgb, var(--ctp-subtext) 70%, white);
+  opacity: 0.5;
+}
+
+.map-marker {
+  fill: var(--ctp-red);
+  stroke: var(--ctp-rose);
+  stroke-width: 1.2;
+}
+
+.table-wrap {
+  max-height: 70vh;
+  overflow: auto;
+  border: 1px solid var(--ctp-border);
+}
+
+.country-table {
+  margin-bottom: 0;
+  color: var(--ctp-text);
+}
+
+.country-table th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--ctp-crust);
+  color: var(--ctp-yellow);
+  font-size: 0.82rem;
+  letter-spacing: 0.05rem;
+}
+
+.cell-lines {
+  white-space: pre-line;
 }
