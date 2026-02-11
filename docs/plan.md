@@ -94,7 +94,7 @@ The initial screen of the web app should be a nice, stylish "main menu" style sc
     e. Guess flags from country names (actual name just a suggestion, feel free to find a better, nicer phrase).
     f. Locate capitals on a map (actual name just a suggestion, feel free to find a better, nicer phrase).
     g. Show countries, capitals, flags (actual name just a suggestion, feel free to find a better, nicer phrase).
-2. "Where?" This should provide a selection to select a part of the world that should be included in the quiz. There should be a clear hierarchy. That is the following things should be selectable (the user can only select one though): 
+2. "Where?" This should provide a selection to select a part of the world that should be included in the quiz. There should be a clear distinction between the following item groups below. That is the following things should be selectable (the user can only select one though):
     a. entire world. This should also be the default
     b. continents: list continents that apply
     c. other: groups such as regions could include things like 'Scandinavia', 'NATO', 'European Union', 'South East Asia', 'Sahel Region', 'Central Europe', 'Balkan States' and so on.
@@ -105,6 +105,8 @@ The initial screen of the web app should be a nice, stylish "main menu" style sc
     d. "25" a random selection of 25 countries/capitals. If the number (called <NUMBER> above) is less than 25 this selection should be disabled and showed as grayed out or otherwise clearly unselectable.
     e. "10" a random selection of 10 countries/capitals. If the number (called <NUMBER> above) is less than 10 this selection should be disabled and showed as grayed out or otherwise clearly unselectable.
     f. Infinity (replaced by the infinity symbol), meaning here "until I stop". In this selection should be ongoing until the user decides to stop. This will inevitably mean that a given countries will appear multiple times in a single run. Such a run can only be ended by the user pressing the 'abort button'. Infinity mode is not applicable if "Connect capitals and countries" is selected above in which case this option should be disabled.
+
+In all 3 of the above selection groups ("What?", "Where?", "How many?") all the selection (e.g. the kind of game to play, or the things in the "Where?") should be represented and rendered using button groups but not using drop-down menus so that all options are visible at all times while the main menu is shown.
 
 Below those selections should be prominent "start" button, which changes the state of the app from being in the main menu to starting a quiz with respect to the selections above.
 
@@ -182,7 +184,7 @@ Now the following behavior should be implemented:
 * A country (from the left column) can be dragged and dropped onto a capital (from the right column).
 * A capital (from the right column) can be dragged and dropped onto a country (from the left column). In case a country has multiple capitals listed, choose the first capital of that country (supposed to be the most common name or alias) at the beginning of the run.
 
-We define 'valid drag and drop' event if either a country item is dropped onto a capital item or a capital item is dropped onto a country item. 
+We define 'valid drag and drop' event if either a country item is dropped onto a capital item or a capital item is dropped onto a country item.
 After a valid drag and drop event occurs (meaning either a country being dropped onto a capital, or a capital being dropped onto a country), exactly one of the two things should happen:
 1. If the guess was correct, i.e. the capital involved belongs to the country involved, then there should be a very quick and subtle green (use Catppuccin colors) flash or alert on the screen letting the user know the guess was correct. Both the correctly guessed country and capitals should be removed from their respective columns, so that after a correct guess the lengths of both columns decreases by one (but have otherwise always equal lengths), where length denotes the number of items (countries or capitals). Also, increase <NUM_CORRECT_GUESSES> by one.
 2. If the guess was incorrect then there should be a quick and subtle red (Catppuccin colors) flash or alert on the screen letting the user know that the guess was incorrect. The drag element should return to its original position so that the state before performing the action is reproduced. Additionally, the country involved in the guess should be added to the list <WRONG_GUESSES_LIST> (unless it is already contained in that list) and <NUM_WRONG_GUESSES> should be increased by one.
@@ -283,7 +285,7 @@ At the very button of the screen frozen, there should be a single buttons "back 
 Once a single quiz run has been finished, either by completing the guesses by guessing all items correctly or by deliberately aborting a single run, the app should advance to the evaluation screen.
 The evaluation screen should be structured as follows:
 * If <GAME_USES_POINT_SCORE> is `false`:
-    Then: Display the number of correct, wrong and skipped guesses: "<NUM_CORRECT_GUESSES> correct, <NUM_WRONG_GUESSES> mistakes, <NUM_SKIPPED_GUESSES> skipped". 
+    Then: Display the number of correct, wrong and skipped guesses: "<NUM_CORRECT_GUESSES> correct, <NUM_WRONG_GUESSES> mistakes, <NUM_SKIPPED_GUESSES> skipped".
   Else if <GAME_USES_POINT_SCORE> is `true`:
     Display "Score: <POINT_SCORE> out of <MAX_POINT_SCORE>".
 * Display the time the user needed to finish the run. That is, the time between the user clicking the "start" button on the main menu and finishing the run (advancing to the evaluation screen). The time should be displayed in format HH:MM:SS.
@@ -298,7 +300,7 @@ The evaluation screen should be structured as follows:
 
 #### Appearance
 
-- Use "Catppuccin Flavor" Frappe.
+Use "Catppuccin Flavor" Frappe.
 
 ## Design and Aesthetic choices
 
@@ -307,4 +309,4 @@ The evaluation screen should be structured as follows:
 - The webapp should use bootstrap and react-bootstrap for design elements.
 - The webapp should be minimalistic, clean, lean and functional first.
 - Ideally, a coding associated font should be used throughout to give the app a friendly and nerdy feel.
-- Where possible iconographics and symbols should be used. 
+- Where possible iconographics and symbols should be used.
