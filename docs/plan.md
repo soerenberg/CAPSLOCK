@@ -298,8 +298,7 @@ The evaluation screen should be structured as follows:
 
 #### Appearance
 
-- "Catppuccin Flavor" Make a selection of the 4 Catppuccin Flavors (Latte, Frappe, Macchiato, Mocha) but default to Frappe.
-- Have a selection to select the font for the app. Offer a good variety of choices for the reader of freely available fonts permissive license compatible with MIT distribution; store license + attribution requirements and show attribution if required.
+- Use "Catppuccin Flavor" Frappe.
 
 ## Design and Aesthetic choices
 
