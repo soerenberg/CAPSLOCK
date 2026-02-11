@@ -1,0 +1,8100 @@
+[
+  {
+    "id": "AG",
+    "name": "Antigua and Barbuda",
+    "aliases": [
+      "Antigua and Barbuda",
+      "AG",
+      "أنتيغوا وباربودا",
+      "Antigua a Barbuda",
+      "Antigua und Barbuda",
+      "Antigua ja Barbuda",
+      "Antigua-et-Barbuda",
+      "Antigva i Barbuda",
+      "Antigua és Barbuda",
+      "Antigua e Barbuda",
+      "アンティグア・バーブーダ",
+      "앤티가 바부다",
+      "Antigua en Barbuda",
+      "آنتیگوا و باربودا",
+      "Antigua i Barbuda",
+      "Antígua e Barbuda",
+      "Антигуа и Барбуда",
+      "Antigua y Barbuda",
+      "Antigua och Barbuda",
+      "Antigua ve Barbuda",
+      "اینٹیگوا و باربوڈا",
+      "安提瓜和巴布达"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Saint John's"
+    ],
+    "flag": {
+      "path": "/flags/AG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "EG",
+    "name": "Arab Republic of Egypt",
+    "aliases": [
+      "Egypt",
+      "EG",
+      "Arab Republic of Egypt",
+      "مصر",
+      "Ägypten",
+      "Egiptus",
+      "Egypti",
+      "Égypte",
+      "Egipat",
+      "Egyiptom",
+      "Egitto",
+      "エジプト",
+      "이집트",
+      "Egypte",
+      "Egipt",
+      "Egito",
+      "Египет",
+      "Egipto",
+      "Egypten",
+      "Mısır",
+      "埃及"
+    ],
+    "continents": [
+      "Africa",
+      "Asia"
+    ],
+    "groups": [
+      "Northern Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Cairo"
+    ],
+    "flag": {
+      "path": "/flags/EG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AR",
+    "name": "Argentine Republic",
+    "aliases": [
+      "Argentina",
+      "AR",
+      "Argentine Republic",
+      "República Argentina",
+      "الأرجنتين",
+      "Argentinien",
+      "Argentiina",
+      "Argentine",
+      "Argentína",
+      "アルゼンチン",
+      "아르헨티나",
+      "Argentinië",
+      "آرژانتین",
+      "Argentyna",
+      "Аргентина",
+      "Arjantin",
+      "ارجنٹائن",
+      "阿根廷"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Buenos Aires"
+    ],
+    "flag": {
+      "path": "/flags/AR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BB",
+    "name": "Barbados",
+    "aliases": [
+      "Barbados",
+      "BB",
+      "باربادوس",
+      "Barbade",
+      "バルバドス",
+      "바베이도스",
+      "Барбадос",
+      "بارباڈوس",
+      "巴巴多斯"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Bridgetown"
+    ],
+    "flag": {
+      "path": "/flags/BB.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BZ",
+    "name": "Belize",
+    "aliases": [
+      "Belize",
+      "BZ",
+      "بليز",
+      "ベリーズ",
+      "벨리즈",
+      "بلیز",
+      "Белиз",
+      "Belice",
+      "بیلیز",
+      "伯利兹"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Central America",
+      "Latin American and Caribbean Group",
+      "Caribbean",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Belmopan"
+    ],
+    "flag": {
+      "path": "/flags/BZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "VE",
+    "name": "Bolivarian Republic of Venezuela",
+    "aliases": [
+      "Venezuela",
+      "VE",
+      "Bolivarian Republic of Venezuela",
+      "Venezuela, Bolivarian Republic of",
+      "República Bolivariana de Venezuela",
+      "فنزويلا",
+      "ベネズエラ",
+      "베네수엘라",
+      "ونزوئلا",
+      "Wenezuela",
+      "Венесуэла",
+      "Venecuela",
+      "وینیزویلا",
+      "委内瑞拉"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Caracas"
+    ],
+    "flag": {
+      "path": "/flags/VE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BA",
+    "name": "Bosnia and Herzegovina",
+    "aliases": [
+      "Bosnia and Herzegovina",
+      "BA",
+      "Bosnia-Herzegovina",
+      "Босна и Херцеговина",
+      "البوسنة والهرسك",
+      "Bosna a Hercegovina",
+      "Bosnien und Herzegowina",
+      "Bosnia ja Hertsegoviina",
+      "Bosnia ja Hertsegovina",
+      "Bosnie-Herzégovine",
+      "Bosna i Hercegovina",
+      "Bosznia-Hercegovina",
+      "Bosnia ed Erzegovina",
+      "ボスニア・ヘルツェゴビナ",
+      "보스니아 헤르체고비나",
+      "Bosnië en Herzegovina",
+      "بوسنی و هرزگوین",
+      "Bośnia i Hercegowina",
+      "Bósnia e Herzegovina",
+      "Босния и Герцеговина",
+      "Bosnia y Herzegovina",
+      "Bosnien och Hercegovina",
+      "Bosna-Hersek",
+      "بوسنیا و ہرزیگووینا",
+      "波斯尼亚和黑塞哥维那"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southeast Europe",
+      "Eastern European Group",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Sarajevo"
+    ],
+    "flag": {
+      "path": "/flags/BA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BF",
+    "name": "Burkina Faso",
+    "aliases": [
+      "Burkina Faso",
+      "BF",
+      "بوركينا فاسو",
+      "Burkina",
+      "ブルキナファソ",
+      "부르키나파소",
+      "بورکینافاسو",
+      "Буркина-Фасо",
+      "برکینا فاسو",
+      "布基纳法索"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "Ouagadougou"
+    ],
+    "flag": {
+      "path": "/flags/BF.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CA",
+    "name": "Canada",
+    "aliases": [
+      "Canada",
+      "CA",
+      "كندا",
+      "Kanada",
+      "カナダ",
+      "캐나다",
+      "کانادا",
+      "Canadá",
+      "Канада",
+      "کینیڈا",
+      "加拿大"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "North America",
+      "Western European and Others Group",
+      "NATO",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Ottawa"
+    ],
+    "flag": {
+      "path": "/flags/CA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CF",
+    "name": "Central African Republic",
+    "aliases": [
+      "Central African Republic",
+      "CF",
+      "République centrafricaine",
+      "جمهورية أفريقيا الوسطى",
+      "Středoafrická republika",
+      "Zentralafrikanische Republik",
+      "Kesk-Aafrika Vabariik",
+      "Keski-Afrikan tasavalta",
+      "Srednjoafrička Republika",
+      "Közép-afrikai Köztársaság",
+      "Repubblica Centrafricana",
+      "中央アフリカ",
+      "중앙아프리카 공화국",
+      "Centraal-Afrikaanse Republiek",
+      "جمهوری آفریقای مرکزی",
+      "Republika Środkowoafrykańska",
+      "República Centro-Africana",
+      "Центральноафриканская Республика",
+      "Stredoafrická republika",
+      "República Centroafricana",
+      "Centralnoafrička Republika",
+      "Centralafrikanska republiken",
+      "Orta Afrika Cumhuriyeti",
+      "وسطی افریقی جمہوریہ",
+      "中非共和国"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "Bangui"
+    ],
+    "flag": {
+      "path": "/flags/CF.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GY",
+    "name": "Co-operative Republic of Guyana",
+    "aliases": [
+      "Guyana",
+      "GY",
+      "Co-operative Republic of Guyana",
+      "غيانا",
+      "Guayana",
+      "Gvajana",
+      "ガイアナ",
+      "가이아나",
+      "گویان",
+      "Gujana",
+      "Guiana",
+      "Гайана",
+      "گیانا",
+      "圭亚那"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Georgetown"
+    ],
+    "flag": {
+      "path": "/flags/GY.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AU",
+    "name": "Commonwealth of Australia",
+    "aliases": [
+      "Australia",
+      "AU",
+      "أستراليا",
+      "Austrálie",
+      "Australien",
+      "Austraalia",
+      "Australie",
+      "Australija",
+      "Ausztrália",
+      "オーストラリア",
+      "호주",
+      "Australië",
+      "استرالیا",
+      "Austrália",
+      "Австралия",
+      "Avustralya",
+      "آسٹریلیا",
+      "澳大利亚"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Australia and New Zealand",
+      "Western European and Others Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Canberra"
+    ],
+    "flag": {
+      "path": "/flags/AU.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "DM",
+    "name": "Commonwealth of Dominica",
+    "aliases": [
+      "Dominica",
+      "DM",
+      "Dominique",
+      "Wai‘tu kubuli",
+      "Commonwealth of Dominica",
+      "دومينيكا",
+      "Dominika",
+      "Dominikai Közösség",
+      "ドミニカ国",
+      "도미니카 공화국",
+      "دومینیکا",
+      "Доминика",
+      "ڈومینیکا",
+      "多米尼加"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Roseau"
+    ],
+    "flag": {
+      "path": "/flags/DM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BS",
+    "name": "Commonwealth of the Bahamas",
+    "aliases": [
+      "Bahamas",
+      "BS",
+      "Commonwealth of the Bahamas",
+      "البهاما",
+      "Bahamy",
+      "Bahama",
+      "Bahamasaaret",
+      "Bahami",
+      "Bahama-szigetek",
+      "バハマ",
+      "바하마",
+      "Bahama’s",
+      "باهاما",
+      "Багамские Острова",
+      "Bahamalar",
+      "بہاماس",
+      "巴哈马"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Nassau"
+    ],
+    "flag": {
+      "path": "/flags/BS.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CZ",
+    "name": "Czech Republic",
+    "aliases": [
+      "Czechia",
+      "CZ",
+      "Česká republika",
+      "Česko",
+      "التشيك",
+      "Tschechien",
+      "Tšehhi",
+      "Tšekki",
+      "Tchéquie",
+      "Češka",
+      "Csehország",
+      "Cechia",
+      "チェコ",
+      "체코",
+      "Tsjechië",
+      "جمهوری چک",
+      "Czechy",
+      "Chéquia",
+      "Чехия",
+      "Chequia",
+      "Tjeckien",
+      "çekya",
+      "چيک",
+      "捷克"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Central Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Prague"
+    ],
+    "flag": {
+      "path": "/flags/CZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KP",
+    "name": "Democratic People's Republic of Korea",
+    "aliases": [
+      "North Korea",
+      "KP",
+      "Democratic People's Republic of Korea",
+      "DPRK",
+      "조선민주주의인민공화국",
+      "Chosŏn Minjujuŭi Inmin Konghwaguk",
+      "Korea, Democratic People's Republic of",
+      "북한",
+      "북조선",
+      "كوريا الشمالية",
+      "Severní Korea",
+      "Nordkorea",
+      "Põhja-Korea",
+      "Pohjois-Korea",
+      "Corée du Nord",
+      "Sjeverna Koreja",
+      "Észak-Korea",
+      "Corea del Nord",
+      "北朝鮮",
+      "조선",
+      "Noord-Korea",
+      "کُره شمالی",
+      "Korea Północna",
+      "Coreia do Norte",
+      "Северная Корея",
+      "Kórejská ľudovodemokratická republika (KĽR, Severná Kórea)",
+      "Corea del Norte",
+      "Severna Koreja",
+      "Kuzey Kore",
+      "شمالی کوریا",
+      "朝鲜"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Eastern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Pyongyang"
+    ],
+    "flag": {
+      "path": "/flags/KP.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ST",
+    "name": "Democratic Republic of São Tomé and Príncipe",
+    "aliases": [
+      "São Tomé and Príncipe",
+      "ST",
+      "Democratic Republic of São Tomé and Príncipe",
+      "Sao Tome and Principe",
+      "República Democrática de São Tomé e Príncipe",
+      "ساو تومي وبرينسيب",
+      "Svatý Tomáš a Princův ostrov",
+      "São Tomé und Príncipe",
+      "São Tomé ja Príncipe",
+      "São Téme ja Príncipe",
+      "São Tomé et Príncipe",
+      "Sveti Toma i Princip",
+      "São Tomé és Príncipe",
+      "São Tomé e Príncipe",
+      "サントメ・プリンシペ",
+      "상투메 프린시페",
+      "Sao Tomé en Principe",
+      "سائوتومه و پرنسیپ",
+      "Wyspy Świętego Tomasza i Książęca",
+      "Сан-Томе и Принсипи",
+      "Svätý Tomáš a Princov ostrov",
+      "Santo Tomé y Príncipe",
+      "Sao Tome i Prinsipe",
+      "São Tomé och Príncipe",
+      "São Tomé ve Príncipe",
+      "ساؤ ٹومے و پرنسپے",
+      "圣多美和普林西比"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "São Tomé",
+      "Sao Tome"
+    ],
+    "flag": {
+      "path": "/flags/ST.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CD",
+    "name": "Democratic Republic of the Congo",
+    "aliases": [
+      "DR Congo",
+      "CD",
+      "Congo-Kinshasa",
+      "Congo, the Democratic Republic of the",
+      "Democratic Republic of Congo",
+      "DRC",
+      "الكونغو",
+      "DR Kongo",
+      "Kongo (Dem. Rep.)",
+      "Kongo DV",
+      "Kongon demokraattinen tasavalta",
+      "Congo (Rép. dém.)",
+      "Kongo, Demokratska Republika",
+      "Kongói Demokratikus Köztársaság",
+      "Congo (Rep. Dem.)",
+      "コンゴ民主共和国",
+      "콩고 민주 공화국",
+      "Congo (DRC)",
+      "کنگو دموکراتیک",
+      "Demokratyczna Republika Konga",
+      "República Democrática do Congo",
+      "Демократическая Республика Конго",
+      "Kongo",
+      "Kongo-Kinshasa",
+      "Kongo Demokratik Cumhuriyeti",
+      "کانگو",
+      "民主刚果"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Kinshasa"
+    ],
+    "flag": {
+      "path": "/flags/CD.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TL",
+    "name": "Democratic Republic of Timor-Leste",
+    "aliases": [
+      "Timor-Leste",
+      "TL",
+      "East Timor",
+      "Timor",
+      "Democratic Republic of Timor-Leste",
+      "República Democrática de Timor-Leste",
+      "Repúblika Demokrátika Timór-Leste",
+      "Timór Lorosa'e",
+      "Timor Lorosae",
+      "تيمور الشرقية",
+      "Východní Timor",
+      "Osttimor",
+      "Ida-Timor",
+      "Itä-Timor",
+      "Timor oriental",
+      "Istočni Timor",
+      "Kelet-Timor",
+      "Timor Est",
+      "東ティモール",
+      "동티모르",
+      "Oost-Timor",
+      "تیمور شرقی",
+      "Timor Wschodni",
+      "Восточный Тимор",
+      "Východný Timor",
+      "Timor Oriental",
+      "Östtimor",
+      "Doğu Timor",
+      "مشرقی تیمور",
+      "东帝汶"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia"
+    ],
+    "capitals": [
+      "Dili"
+    ],
+    "flag": {
+      "path": "/flags/TL.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LK",
+    "name": "Democratic Socialist Republic of Sri Lanka",
+    "aliases": [
+      "Sri Lanka",
+      "LK",
+      "ilaṅkai",
+      "Democratic Socialist Republic of Sri Lanka",
+      "سريلانكا",
+      "Srí Lanka",
+      "Šri Lanka",
+      "スリランカ",
+      "스리랑카",
+      "سری‌لانکا",
+      "Шри-Ланка",
+      "سری لنکا",
+      "斯里兰卡"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Southern Asia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Colombo"
+    ],
+    "flag": {
+      "path": "/flags/LK.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "DO",
+    "name": "Dominican Republic",
+    "aliases": [
+      "Dominican Republic",
+      "DO",
+      "جمهورية الدومينيكان",
+      "Dominikánská republika",
+      "Dominikanische Republik",
+      "Dominikaani Vabariik",
+      "Dominikaaninen tasavalta",
+      "République dominicaine",
+      "Dominikanska Republika",
+      "Dominikai Köztársaság",
+      "Repubblica Dominicana",
+      "ドミニカ共和国",
+      "도미니카 공화국",
+      "Dominicaanse Republiek",
+      "جمهوری دومینیکن",
+      "Dominikana",
+      "República Dominicana",
+      "Доминиканская Республика",
+      "Dominikánska republika",
+      "Dominikanska republiken",
+      "Dominik Cumhuriyeti",
+      "ڈومینیکن",
+      "多明尼加"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group"
+    ],
+    "capitals": [
+      "Santo Domingo"
+    ],
+    "flag": {
+      "path": "/flags/DO.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ET",
+    "name": "Federal Democratic Republic of Ethiopia",
+    "aliases": [
+      "Ethiopia",
+      "ET",
+      "ʾĪtyōṗṗyā",
+      "Federal Democratic Republic of Ethiopia",
+      "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ",
+      "إثيوبيا",
+      "Etiopie",
+      "Äthiopien",
+      "Etioopia",
+      "Etiopia",
+      "Éthiopie",
+      "Etiopija",
+      "Etiópia",
+      "エチオピア",
+      "에티오피아",
+      "Ethiopië",
+      "اِتیوپی",
+      "Эфиопия",
+      "Etiopía",
+      "Etiopien",
+      "Etiyopya",
+      "ایتھوپیا",
+      "埃塞俄比亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Addis Ababa"
+    ],
+    "flag": {
+      "path": "/flags/ET.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "NP",
+    "name": "Federal Democratic Republic of Nepal",
+    "aliases": [
+      "Nepal",
+      "NP",
+      "Federal Democratic Republic of Nepal",
+      "Loktāntrik Ganatantra Nepāl",
+      "نيبال",
+      "Nepál",
+      "Népal",
+      "ネパール",
+      "네팔",
+      "نپال",
+      "Непал",
+      "نیپال",
+      "尼泊尔"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Southern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Kathmandu"
+    ],
+    "flag": {
+      "path": "/flags/NP.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "DE",
+    "name": "Federal Republic of Germany",
+    "aliases": [
+      "Germany",
+      "DE",
+      "Federal Republic of Germany",
+      "Bundesrepublik Deutschland",
+      "ألمانيا",
+      "Německo",
+      "Deutschland",
+      "Saksamaa",
+      "Saksa",
+      "Allemagne",
+      "Njemačka",
+      "Németország",
+      "Germania",
+      "ドイツ",
+      "독일",
+      "Duitsland",
+      "آلمان",
+      "Niemcy",
+      "Alemanha",
+      "Германия",
+      "Nemecko",
+      "Alemania",
+      "Nemačka",
+      "Tyskland",
+      "Almanya",
+      "جرمنی",
+      "德国"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Western Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO",
+      "Central Europe"
+    ],
+    "capitals": [
+      "Berlin"
+    ],
+    "flag": {
+      "path": "/flags/DE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "NG",
+    "name": "Federal Republic of Nigeria",
+    "aliases": [
+      "Nigeria",
+      "NG",
+      "Nijeriya",
+      "Naíjíríà",
+      "Federal Republic of Nigeria",
+      "نيجيريا",
+      "Nigérie",
+      "Nigeeria",
+      "Nigéria",
+      "Nigerija",
+      "ナイジェリア",
+      "나이지리아",
+      "نیجریه",
+      "Нигерия",
+      "Nijerya",
+      "نائجیریا",
+      "尼日利亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Sahel Region",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Abuja"
+    ],
+    "flag": {
+      "path": "/flags/NG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SO",
+    "name": "Federal Republic of Somalia",
+    "aliases": [
+      "Somalia",
+      "SO",
+      "aṣ-Ṣūmāl",
+      "Federal Republic of Somalia",
+      "Jamhuuriyadda Federaalka Soomaaliya",
+      "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya",
+      "الصومال",
+      "Somálsko",
+      "Somaalia",
+      "Somalie",
+      "Somalija",
+      "Szomália",
+      "ソマリア",
+      "소말리아",
+      "Somalië",
+      "سومالی",
+      "Somália",
+      "Сомали",
+      "Somali",
+      "صومالیہ",
+      "索马里"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Mogadishu"
+    ],
+    "flag": {
+      "path": "/flags/SO.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "FM",
+    "name": "Federated States of Micronesia",
+    "aliases": [
+      "Micronesia",
+      "FM",
+      "Federated States of Micronesia",
+      "Micronesia, Federated States of",
+      "ميكرونيسيا",
+      "Mikronésie",
+      "Mikronesien",
+      "Mikroneesia",
+      "Mikronesia",
+      "Micronésie",
+      "Mikronezija",
+      "Mikronéziai Szövetségi Államok",
+      "ミクロネシア",
+      "미크로네시아",
+      "Micronesië",
+      "میکرونزی",
+      "Mikronezja",
+      "Micronésia",
+      "Федеративные Штаты Микронезии",
+      "Mikronézia",
+      "Mikronesiska federationen",
+      "Mikronezya",
+      "مائکرونیشیا",
+      "密克罗尼西亚"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Micronesia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Palikir"
+    ],
+    "flag": {
+      "path": "/flags/FM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KN",
+    "name": "Federation of Saint Christopher and Nevis",
+    "aliases": [
+      "Saint Kitts and Nevis",
+      "KN",
+      "Federation of Saint Christopher and Nevis",
+      "سانت كيتس ونيفيس",
+      "Svatý Kryštof a Nevis",
+      "St. Kitts und Nevis",
+      "Saint Kitts ja Nevis",
+      "Saint-Christophe-et-Niévès",
+      "Sveti Kristof i Nevis",
+      "Saint Kitts és Nevis",
+      "Saint Kitts e Nevis",
+      "セントキッツ・ネーヴィス連邦",
+      "세인트키츠 네비스",
+      "Saint Kitts en Nevis",
+      "سنت کیتس و نویس",
+      "Saint Kitts i Nevis",
+      "São Cristóvão e Nevis",
+      "Сент-Китс и Невис",
+      "Svätý Krištof a Nevis",
+      "San Cristóbal y Nieves",
+      "Sveti Kits i Nevis",
+      "Saint Kitts och Nevis",
+      "Saint Kitts ve Nevis",
+      "سینٹ کیٹز و ناویس",
+      "圣基茨和尼维斯"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Basseterre"
+    ],
+    "flag": {
+      "path": "/flags/KN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BR",
+    "name": "Federative Republic of Brazil",
+    "aliases": [
+      "Brazil",
+      "BR",
+      "Brasil",
+      "Federative Republic of Brazil",
+      "República Federativa do Brasil",
+      "البرازيل",
+      "Brazílie",
+      "Brasilien",
+      "Brasiilia",
+      "Brasilia",
+      "Brésil",
+      "Brazília",
+      "Brasile",
+      "ブラジル",
+      "브라질",
+      "Brazilië",
+      "برزیل",
+      "Brazylia",
+      "Бразилия",
+      "Brezilya",
+      "برازیل",
+      "巴西"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Brasília",
+      "Brasilia"
+    ],
+    "flag": {
+      "path": "/flags/BR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "FR",
+    "name": "French Republic",
+    "aliases": [
+      "France",
+      "FR",
+      "French Republic",
+      "République française",
+      "فرنسا",
+      "Francie",
+      "Frankreich",
+      "Prantsusmaa",
+      "Ranska",
+      "Francuska",
+      "Franciaország",
+      "Francia",
+      "フランス",
+      "프랑스",
+      "Frankrijk",
+      "فرانسه",
+      "Francja",
+      "França",
+      "Франция",
+      "Francúzsko",
+      "Frankrike",
+      "Fransa",
+      "فرانس",
+      "法国"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Western Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Paris"
+    ],
+    "flag": {
+      "path": "/flags/FR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GA",
+    "name": "Gabonese Republic",
+    "aliases": [
+      "Gabon",
+      "GA",
+      "Gabonese Republic",
+      "République Gabonaise",
+      "الغابون",
+      "Gabun",
+      "ガボン",
+      "가봉",
+      "گابن",
+      "Gabão",
+      "Габон",
+      "Gabón",
+      "گیبون",
+      "加蓬"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Libreville"
+    ],
+    "flag": {
+      "path": "/flags/GA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GE",
+    "name": "Georgia",
+    "aliases": [
+      "Georgia",
+      "GE",
+      "Sakartvelo",
+      "جورجيا",
+      "Gruzie",
+      "Georgien",
+      "Gruusia",
+      "Géorgie",
+      "Gruzija",
+      "Grúzia",
+      "ジョージア",
+      "조지아",
+      "Georgië",
+      "گرجستان",
+      "Gruzja",
+      "Geórgia",
+      "Грузия",
+      "Gruzínsko",
+      "Gürcistan",
+      "جارجیا",
+      "格鲁吉亚"
+    ],
+    "continents": [
+      "Europe",
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Eastern European Group"
+    ],
+    "capitals": [
+      "Tbilisi"
+    ],
+    "flag": {
+      "path": "/flags/GE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LU",
+    "name": "Grand Duchy of Luxembourg",
+    "aliases": [
+      "Luxembourg",
+      "LU",
+      "Grand Duchy of Luxembourg",
+      "Grand-Duché de Luxembourg",
+      "Großherzogtum Luxemburg",
+      "Groussherzogtum Lëtzebuerg",
+      "لوكسمبورغ",
+      "Lucembursko",
+      "Luxemburg",
+      "Luksemburg",
+      "Lussemburgo",
+      "ルクセンブルク",
+      "룩셈부르크",
+      "لوکزامبورگ",
+      "Luxemburgo",
+      "Люксембург",
+      "Luxembursko",
+      "Lüksemburg",
+      "لکسمبرگ",
+      "卢森堡"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Western Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Luxembourg"
+    ],
+    "flag": {
+      "path": "/flags/LU.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GD",
+    "name": "Grenada",
+    "aliases": [
+      "Grenada",
+      "GD",
+      "غرينادا",
+      "Grenade",
+      "グレナダ",
+      "그레나다",
+      "گرنادا",
+      "Granada",
+      "Гренада",
+      "گریناڈا",
+      "格林纳达"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "St. George's"
+    ],
+    "flag": {
+      "path": "/flags/GD.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "JO",
+    "name": "Hashemite Kingdom of Jordan",
+    "aliases": [
+      "Jordan",
+      "JO",
+      "Hashemite Kingdom of Jordan",
+      "al-Mamlakah al-Urdunīyah al-Hāshimīyah",
+      "الأردن",
+      "Jordánsko",
+      "Jordanien",
+      "Jordaania",
+      "Jordania",
+      "Jordanie",
+      "Jordánia",
+      "Giordania",
+      "ヨルダン",
+      "요르단",
+      "Jordanië",
+      "اردن",
+      "Jordânia",
+      "Иордания",
+      "ürdün",
+      "约旦"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Amman"
+    ],
+    "flag": {
+      "path": "/flags/JO.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GR",
+    "name": "Hellenic Republic",
+    "aliases": [
+      "Greece",
+      "GR",
+      "Elláda",
+      "Hellenic Republic",
+      "Ελληνική Δημοκρατία",
+      "اليونان",
+      "Řecko",
+      "Griechenland",
+      "Kreeka",
+      "Kreikka",
+      "Grèce",
+      "Grčka",
+      "Görögország",
+      "Grecia",
+      "ギリシャ",
+      "그리스",
+      "Griekenland",
+      "یونان",
+      "Grecja",
+      "Grécia",
+      "Греция",
+      "Greécko",
+      "Grekland",
+      "Yunanistan",
+      "希腊"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southern Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Athens"
+    ],
+    "flag": {
+      "path": "/flags/GR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "HU",
+    "name": "Hungary",
+    "aliases": [
+      "Hungary",
+      "HU",
+      "المجر",
+      "Maďarsko",
+      "Ungarn",
+      "Ungari",
+      "Unkari",
+      "Hongrie",
+      "Mađarska",
+      "Magyarország",
+      "Ungheria",
+      "ハンガリー",
+      "헝가리",
+      "Hongarije",
+      "مجارستان",
+      "Węgry",
+      "Hungria",
+      "Венгрия",
+      "Hungría",
+      "Madjarska",
+      "Ungern",
+      "Macaristan",
+      "匈牙利"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Central Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Budapest"
+    ],
+    "flag": {
+      "path": "/flags/HU.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "IS",
+    "name": "Iceland",
+    "aliases": [
+      "Iceland",
+      "IS",
+      "Island",
+      "Republic of Iceland",
+      "Lýðveldið Ísland",
+      "آيسلندا",
+      "Islanti",
+      "Islande",
+      "Izland",
+      "Islanda",
+      "アイスランド",
+      "아이슬란드",
+      "IJsland",
+      "ایسلند",
+      "Islandia",
+      "Islândia",
+      "Исландия",
+      "İzlanda",
+      "آئس لینڈ",
+      "冰岛"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Western European and Others Group",
+      "NATO",
+      "Nordics"
+    ],
+    "capitals": [
+      "Reykjavik"
+    ],
+    "flag": {
+      "path": "/flags/IS.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KI",
+    "name": "Independent and Sovereign Republic of Kiribati",
+    "aliases": [
+      "Kiribati",
+      "KI",
+      "Republic of Kiribati",
+      "Ribaberiki Kiribati",
+      "كيريباتي",
+      "キリバス",
+      "키리바시",
+      "کیریباتی",
+      "Кирибати",
+      "基里巴斯"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Micronesia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "South Tarawa"
+    ],
+    "flag": {
+      "path": "/flags/KI.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "PG",
+    "name": "Independent State of Papua New Guinea",
+    "aliases": [
+      "Papua New Guinea",
+      "PG",
+      "Independent State of Papua New Guinea",
+      "Independen Stet bilong Papua Niugini",
+      "بابوا غينيا الجديدة",
+      "Papua-Nová Guinea",
+      "Papua-Neuguinea",
+      "Paapua Uus-Guinea",
+      "Papua-Uusi-Guinea",
+      "Papouasie-Nouvelle-Guinée",
+      "Papua Nova Gvineja",
+      "Pápua Új-Guinea",
+      "Papua Nuova Guinea",
+      "パプアニューギニア",
+      "파푸아뉴기니",
+      "Papoea-Nieuw-Guinea",
+      "پاپوآ گینه نو",
+      "Papua-Nowa Gwinea",
+      "Papua Nova Guiné",
+      "Папуа — Новая Гвинея",
+      "Papúa Nueva Guinea",
+      "Papua Nya Guinea",
+      "Papua Yeni Gine",
+      "پاپوا نیو گنی",
+      "巴布亚新几内亚"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Melanesia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Port Moresby"
+    ],
+    "flag": {
+      "path": "/flags/PG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "WS",
+    "name": "Independent State of Samoa",
+    "aliases": [
+      "Samoa",
+      "WS",
+      "Independent State of Samoa",
+      "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+      "ساموا",
+      "Szamoa",
+      "サモア",
+      "사모아",
+      "ساموآ",
+      "Самоа",
+      "Bağımsız Samoa Devleti",
+      "سامووا",
+      "萨摩亚"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Polynesia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Apia"
+    ],
+    "flag": {
+      "path": "/flags/WS.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AF",
+    "name": "Islamic Republic of Afghanistan",
+    "aliases": [
+      "Afghanistan",
+      "AF",
+      "Afġānistān",
+      "أفغانستان",
+      "Afghánistán",
+      "Afganistan",
+      "Afganisztán",
+      "アフガニスタン",
+      "아프가니스탄",
+      "افغانستان",
+      "Afeganistão",
+      "Афганистан",
+      "Afganistán",
+      "Avganistan",
+      "阿富汗"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Southern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Kabul"
+    ],
+    "flag": {
+      "path": "/flags/AF.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "IR",
+    "name": "Islamic Republic of Iran",
+    "aliases": [
+      "Iran",
+      "IR",
+      "Islamic Republic of Iran",
+      "Iran, Islamic Republic of",
+      "Jomhuri-ye Eslāmi-ye Irān",
+      "إيران",
+      "Írán",
+      "Iraan",
+      "Irán",
+      "イラン",
+      "이란",
+      "ایران",
+      "Irão",
+      "Иран",
+      "İran",
+      "伊朗"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Southern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Tehran"
+    ],
+    "flag": {
+      "path": "/flags/IR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MR",
+    "name": "Islamic Republic of Mauritania",
+    "aliases": [
+      "Mauritania",
+      "MR",
+      "Islamic Republic of Mauritania",
+      "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah",
+      "موريتانيا",
+      "Mauritánie",
+      "Mauretanien",
+      "Mauritaania",
+      "Mauritanie",
+      "Mauritanija",
+      "Mauritánia",
+      "モーリタニア",
+      "모리타니",
+      "Mauritanië",
+      "موریتانی",
+      "Mauretania",
+      "Mauritânia",
+      "Мавритания",
+      "Moritanya",
+      "موریتانیہ",
+      "毛里塔尼亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Sahel Region",
+      "Maghreb"
+    ],
+    "capitals": [
+      "Nouakchott"
+    ],
+    "flag": {
+      "path": "/flags/MR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "PK",
+    "name": "Islamic Republic of Pakistan",
+    "aliases": [
+      "Pakistan",
+      "PK",
+      "Pākistān",
+      "Islamic Republic of Pakistan",
+      "Islāmī Jumhūriya'eh Pākistān",
+      "باكستان",
+      "Pákistán",
+      "Pakisztán",
+      "パキスタン",
+      "파키스탄",
+      "پاکستان",
+      "Paquistão",
+      "Пакистан",
+      "Pakistán",
+      "巴基斯坦"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Southern Asia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Islamabad"
+    ],
+    "flag": {
+      "path": "/flags/PK.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "IT",
+    "name": "Italian Republic",
+    "aliases": [
+      "Italy",
+      "IT",
+      "Italian Republic",
+      "Repubblica italiana",
+      "إيطاليا",
+      "Itálie",
+      "Italien",
+      "Itaalia",
+      "Italia",
+      "Italie",
+      "Italija",
+      "Olaszország",
+      "イタリア",
+      "이탈리아",
+      "Italië",
+      "ایتالیا",
+      "Włochy",
+      "Itália",
+      "Италия",
+      "Taliansko",
+      "İtalya",
+      "اطالیہ",
+      "意大利"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southern Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Rome"
+    ],
+    "flag": {
+      "path": "/flags/IT.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "JM",
+    "name": "Jamaica",
+    "aliases": [
+      "Jamaica",
+      "JM",
+      "جامايكا",
+      "Jamajka",
+      "Jamaika",
+      "Jamaïque",
+      "Giamaica",
+      "ジャマイカ",
+      "자메이카",
+      "جامائیکا",
+      "Ямайка",
+      "جمیکا",
+      "牙买加"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Kingston"
+    ],
+    "flag": {
+      "path": "/flags/JM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "JP",
+    "name": "Japan",
+    "aliases": [
+      "Japan",
+      "JP",
+      "Nippon",
+      "Nihon",
+      "اليابان",
+      "Japonsko",
+      "Jaapan",
+      "Japani",
+      "Japon",
+      "Japán",
+      "Giappone",
+      "日本",
+      "일본",
+      "ژاپن",
+      "Japonia",
+      "Japão",
+      "Япония",
+      "Japón",
+      "Japonya",
+      "جاپان"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Eastern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Tokyo"
+    ],
+    "flag": {
+      "path": "/flags/JP.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BH",
+    "name": "Kingdom of Bahrain",
+    "aliases": [
+      "Bahrain",
+      "BH",
+      "Kingdom of Bahrain",
+      "Mamlakat al-Baḥrayn",
+      "البحرين",
+      "Bahrajn",
+      "Bahrein",
+      "Bahreïn",
+      "バーレーン",
+      "바레인",
+      "بحرین",
+      "Бахрейн",
+      "Bahreyn",
+      "巴林"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group",
+      "Gulf Cooperation Council"
+    ],
+    "capitals": [
+      "Manama"
+    ],
+    "flag": {
+      "path": "/flags/BH.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BE",
+    "name": "Kingdom of Belgium",
+    "aliases": [
+      "Belgium",
+      "BE",
+      "België",
+      "Belgie",
+      "Belgien",
+      "Belgique",
+      "Kingdom of Belgium",
+      "Koninkrijk België",
+      "Royaume de Belgique",
+      "Königreich Belgien",
+      "بلجيكا",
+      "Belgia",
+      "Belgija",
+      "Belgio",
+      "ベルギー",
+      "벨기에",
+      "بلژیک",
+      "Bélgica",
+      "Бельгия",
+      "Belgicko",
+      "Belçika",
+      "بلجئیم",
+      "比利时"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Western Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Brussels"
+    ],
+    "flag": {
+      "path": "/flags/BE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BT",
+    "name": "Kingdom of Bhutan",
+    "aliases": [
+      "Bhutan",
+      "BT",
+      "Kingdom of Bhutan",
+      "بوتان",
+      "Bhútán",
+      "Bhoutan",
+      "Butan",
+      "Bhután",
+      "ブータン",
+      "부탄",
+      "Butão",
+      "Бутан",
+      "Bután",
+      "بھوٹان",
+      "不丹"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Southern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Thimphu"
+    ],
+    "flag": {
+      "path": "/flags/BT.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KH",
+    "name": "Kingdom of Cambodia",
+    "aliases": [
+      "Cambodia",
+      "KH",
+      "Kingdom of Cambodia",
+      "كمبوديا",
+      "Kambodža",
+      "Kambodscha",
+      "Cambodge",
+      "Kambodzsa",
+      "Cambogia",
+      "カンボジア",
+      "캄보디아",
+      "Cambodja",
+      "کامبوج",
+      "Kambodża",
+      "Camboja",
+      "Камбоджа",
+      "Kamboǆa",
+      "Camboya",
+      "Kambodja",
+      "Kamboçya",
+      "کمبوڈیا",
+      "柬埔寨"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia"
+    ],
+    "capitals": [
+      "Phnom Penh"
+    ],
+    "flag": {
+      "path": "/flags/KH.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "DK",
+    "name": "Kingdom of Denmark",
+    "aliases": [
+      "Denmark",
+      "DK",
+      "Danmark",
+      "Kingdom of Denmark",
+      "Kongeriget Danmark",
+      "الدنمارك",
+      "Dánsko",
+      "Dänemark",
+      "Taani",
+      "Tanska",
+      "Danemark",
+      "Danska",
+      "Dánia",
+      "Danimarca",
+      "デンマーク",
+      "덴마크",
+      "Denemarken",
+      "دانمارک",
+      "Dania",
+      "Dinamarca",
+      "Дания",
+      "Danimarka",
+      "ڈنمارک",
+      "丹麦"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO",
+      "Nordics",
+      "Scandinavia"
+    ],
+    "capitals": [
+      "Copenhagen"
+    ],
+    "flag": {
+      "path": "/flags/DK.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SZ",
+    "name": "Kingdom of Eswatini",
+    "aliases": [
+      "Eswatini",
+      "SZ",
+      "Swaziland",
+      "weSwatini",
+      "Swatini",
+      "Ngwane",
+      "Kingdom of Eswatini",
+      "Umbuso weSwatini",
+      "إسواتيني",
+      "Svazijsko",
+      "Swasiland",
+      "Svaasimaa",
+      "Swazimaa",
+      "Svazi",
+      "Szváziföld",
+      "エスワティニ",
+      "에스와티니",
+      "اسواتینی",
+      "Suazi",
+      "Suazilândia",
+      "Свазиленд",
+      "Suazilandia",
+      "Esvatini",
+      "سوازی لینڈ",
+      "斯威士兰"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Southern Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Lobamba"
+    ],
+    "flag": {
+      "path": "/flags/SZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LS",
+    "name": "Kingdom of Lesotho",
+    "aliases": [
+      "Lesotho",
+      "LS",
+      "Kingdom of Lesotho",
+      "Muso oa Lesotho",
+      "ليسوتو",
+      "Lesoto",
+      "レソト",
+      "레소토",
+      "لسوتو",
+      "Лесото",
+      "لیسوتھو",
+      "莱索托"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Southern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Maseru"
+    ],
+    "flag": {
+      "path": "/flags/LS.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MA",
+    "name": "Kingdom of Morocco",
+    "aliases": [
+      "Morocco",
+      "MA",
+      "Kingdom of Morocco",
+      "Al-Mamlakah al-Maġribiyah",
+      "المغرب",
+      "Maroko",
+      "Marokko",
+      "Maroc",
+      "Marokkó",
+      "Marocco",
+      "モロッコ",
+      "모로코",
+      "مراکش",
+      "Marrocos",
+      "Марокко",
+      "Marruecos",
+      "Marocko",
+      "Fas",
+      "摩洛哥"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Northern Africa",
+      "African Group",
+      "Maghreb"
+    ],
+    "capitals": [
+      "Rabat"
+    ],
+    "flag": {
+      "path": "/flags/MA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "NO",
+    "name": "Kingdom of Norway",
+    "aliases": [
+      "Norway",
+      "NO",
+      "Norge",
+      "Noreg",
+      "Kingdom of Norway",
+      "Kongeriket Norge",
+      "Kongeriket Noreg",
+      "النرويج",
+      "Norsko",
+      "Norwegen",
+      "Norra",
+      "Norja",
+      "Norvège",
+      "Norveška",
+      "Norvégia",
+      "Norvegia",
+      "ノルウェー",
+      "노르웨이",
+      "Noorwegen",
+      "نروژ",
+      "Norwegia",
+      "Noruega",
+      "Норвегия",
+      "Nórsko",
+      "Norveç",
+      "ناروے",
+      "挪威"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Western European and Others Group",
+      "NATO",
+      "Nordics",
+      "Scandinavia"
+    ],
+    "capitals": [
+      "Oslo"
+    ],
+    "flag": {
+      "path": "/flags/NO.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SA",
+    "name": "Kingdom of Saudi Arabia",
+    "aliases": [
+      "Saudi Arabia",
+      "Saudi",
+      "SA",
+      "Kingdom of Saudi Arabia",
+      "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah",
+      "السعودية",
+      "Saúdská Arábie",
+      "Saudi-Arabien",
+      "Saudi Araabia",
+      "Saudi-Arabia",
+      "Arabie Saoudite",
+      "Saudijska Arabija",
+      "Szaúd-Arábia",
+      "Arabia Saudita",
+      "サウジアラビア",
+      "사우디아라비아",
+      "Saoedi-Arabië",
+      "عربستان سعودی",
+      "Arabia Saudyjska",
+      "Arábia Saudita",
+      "Саудовская Аравия",
+      "Saudská Arábia",
+      "Arabia Saudí",
+      "Saudiarabien",
+      "Suudi Arabistan",
+      "سعودی عرب",
+      "沙特阿拉伯"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group",
+      "Gulf Cooperation Council"
+    ],
+    "capitals": [
+      "Riyadh"
+    ],
+    "flag": {
+      "path": "/flags/SA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ES",
+    "name": "Kingdom of Spain",
+    "aliases": [
+      "Spain",
+      "ES",
+      "Kingdom of Spain",
+      "Reino de España",
+      "إسبانيا",
+      "Španělsko",
+      "Spanien",
+      "Hispaania",
+      "Espanja",
+      "Espagne",
+      "Španjolska",
+      "Spanyolország",
+      "Spagna",
+      "スペイン",
+      "스페인",
+      "Spanje",
+      "اسپانیا",
+      "Hiszpania",
+      "Espanha",
+      "Испания",
+      "Španielsko",
+      "España",
+      "Španija",
+      "İspanya",
+      "ہسپانیہ",
+      "西班牙"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southern Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Madrid"
+    ],
+    "flag": {
+      "path": "/flags/ES.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SE",
+    "name": "Kingdom of Sweden",
+    "aliases": [
+      "Sweden",
+      "SE",
+      "Kingdom of Sweden",
+      "Konungariket Sverige",
+      "السويد",
+      "Švédsko",
+      "Schweden",
+      "Rootsi",
+      "Ruotsi",
+      "Suède",
+      "Švedska",
+      "Svédország",
+      "Svezia",
+      "スウェーデン",
+      "스웨덴",
+      "Zweden",
+      "سوئد",
+      "Szwecja",
+      "Suécia",
+      "Швеция",
+      "Suecia",
+      "Sverige",
+      "İsveç",
+      "سویڈن",
+      "瑞典"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO",
+      "Nordics",
+      "Scandinavia"
+    ],
+    "capitals": [
+      "Stockholm"
+    ],
+    "flag": {
+      "path": "/flags/SE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TH",
+    "name": "Kingdom of Thailand",
+    "aliases": [
+      "Thailand",
+      "TH",
+      "Prathet",
+      "Thai",
+      "Kingdom of Thailand",
+      "ราชอาณาจักรไทย",
+      "Ratcha Anachak Thai",
+      "تايلند",
+      "Thajsko",
+      "Tai",
+      "Thaimaa",
+      "Thaïlande",
+      "Tajland",
+      "Thaiföld",
+      "Tailandia",
+      "タイ",
+      "태국",
+      "تایلند",
+      "Tajlandia",
+      "Tailândia",
+      "Таиланд",
+      "Tayland",
+      "تھائی لینڈ",
+      "泰国"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia"
+    ],
+    "capitals": [
+      "Bangkok"
+    ],
+    "flag": {
+      "path": "/flags/TH.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "NL",
+    "name": "Kingdom of the Netherlands",
+    "aliases": [
+      "Netherlands",
+      "NL",
+      "Holland",
+      "Nederland",
+      "The Netherlands",
+      "هولندا",
+      "Nizozemsko",
+      "Niederlande",
+      "Alankomaat",
+      "Pays-Bas",
+      "Nizozemska",
+      "Hollandia",
+      "Paesi Bassi",
+      "オランダ",
+      "네덜란드",
+      "هلند",
+      "Holandia",
+      "Holanda",
+      "Нидерланды",
+      "Holansko",
+      "Países Bajos",
+      "Holandija",
+      "Nederländerna",
+      "Hollanda",
+      "نیدرلینڈز",
+      "荷兰"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Western Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Amsterdam"
+    ],
+    "flag": {
+      "path": "/flags/NL.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TO",
+    "name": "Kingdom of Tonga",
+    "aliases": [
+      "Tonga",
+      "TO",
+      "تونغا",
+      "トンガ",
+      "통가",
+      "تونگا",
+      "Тонга",
+      "ٹونگا",
+      "汤加"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Polynesia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Nuku'alofa"
+    ],
+    "flag": {
+      "path": "/flags/TO.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KG",
+    "name": "Kyrgyz Republic",
+    "aliases": [
+      "Kyrgyzstan",
+      "KG",
+      "Киргизия",
+      "Kyrgyz Republic",
+      "Кыргыз Республикасы",
+      "Kyrgyz Respublikasy",
+      "قيرغيزستان",
+      "Kyrgyzstán",
+      "Kirgisistan",
+      "Kõrgõzstan",
+      "Kirgisia",
+      "Kirghizistan",
+      "Kirgistan",
+      "Kirgizisztán",
+      "キルギス",
+      "키르기스스탄",
+      "Kirgizië",
+      "قرقیزستان",
+      "Quirguistão",
+      "Kirgizsko",
+      "Kirguizistán",
+      "Kirgizistan",
+      "Kırgızistan",
+      "کرغیزستان",
+      "吉尔吉斯斯坦"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Central Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Bishkek"
+    ],
+    "flag": {
+      "path": "/flags/KG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LA",
+    "name": "Lao People's Democratic Republic",
+    "aliases": [
+      "Laos",
+      "LA",
+      "Lao",
+      "Lao People's Democratic Republic",
+      "Sathalanalat Paxathipatai Paxaxon Lao",
+      "لاوس",
+      "Laosz",
+      "ラオス",
+      "라오스",
+      "لائوس",
+      "Лаос",
+      "لاؤس",
+      "老挝"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia"
+    ],
+    "capitals": [
+      "Vientiane"
+    ],
+    "flag": {
+      "path": "/flags/LA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LB",
+    "name": "Lebanese Republic",
+    "aliases": [
+      "Lebanon",
+      "LB",
+      "Lebanese Republic",
+      "Al-Jumhūrīyah Al-Libnānīyah",
+      "لبنان",
+      "Libanon",
+      "Liibanon",
+      "Liban",
+      "Libano",
+      "レバノン",
+      "레바논",
+      "Líbano",
+      "Ливан",
+      "Lübnan",
+      "黎巴嫩"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Beirut"
+    ],
+    "flag": {
+      "path": "/flags/LB.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MY",
+    "name": "Malaysia",
+    "aliases": [
+      "Malaysia",
+      "MY",
+      "ماليزيا",
+      "Malajsie",
+      "Malaisia",
+      "Malesia",
+      "Malaisie",
+      "Malezija",
+      "Malajzia",
+      "マレーシア",
+      "말레이시아",
+      "Maleisië",
+      "مالزی",
+      "Malezja",
+      "Malásia",
+      "Малайзия",
+      "Malasia",
+      "Malezya",
+      "ملائیشیا",
+      "马来西亚"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Kuala Lumpur"
+    ],
+    "flag": {
+      "path": "/flags/MY.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MN",
+    "name": "Mongolia",
+    "aliases": [
+      "Mongolia",
+      "MN",
+      "منغوليا",
+      "Mongolsko",
+      "Mongolei",
+      "Mongoolia",
+      "Mongolie",
+      "Mongolija",
+      "Mongólia",
+      "モンゴル",
+      "몽골국",
+      "Mongolië",
+      "مغولستان",
+      "Монголия",
+      "Mongoliet",
+      "Moğolistan",
+      "منگولیا",
+      "蒙古"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Eastern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Ulan Bator"
+    ],
+    "flag": {
+      "path": "/flags/MN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ME",
+    "name": "Montenegro",
+    "aliases": [
+      "Montenegro",
+      "ME",
+      "Crna Gora",
+      "الجبل الاسود",
+      "Černá Hora",
+      "Monténégro",
+      "Montenegró",
+      "モンテネグロ",
+      "몬테네그로",
+      "مونته‌نگرو",
+      "Czarnogóra",
+      "Черногория",
+      "Čierna Hora",
+      "Karadağ",
+      "مونٹینیگرو",
+      "黑山"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southeast Europe",
+      "Eastern European Group",
+      "NATO",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Podgorica"
+    ],
+    "flag": {
+      "path": "/flags/ME.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SM",
+    "name": "Most Serene Republic of San Marino",
+    "aliases": [
+      "San Marino",
+      "SM",
+      "Republic of San Marino",
+      "Repubblica di San Marino",
+      "سان مارينو",
+      "Saint-Marin",
+      "サンマリノ",
+      "산마리노",
+      "سان مارینو",
+      "Сан-Марино",
+      "San Maríno",
+      "圣马力诺"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southern Europe",
+      "Western European and Others Group"
+    ],
+    "capitals": [
+      "City of San Marino"
+    ],
+    "flag": {
+      "path": "/flags/SM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BN",
+    "name": "Nation of Brunei, Abode of Peace",
+    "aliases": [
+      "Brunei",
+      "BN",
+      "Brunei Darussalam",
+      "Nation of Brunei",
+      "the Abode of Peace",
+      "بروناي",
+      "Brunej",
+      "ブルネイ",
+      "브루나이",
+      "برونئی",
+      "Бруней",
+      "برونائی",
+      "文莱"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Bandar Seri Begawan"
+    ],
+    "flag": {
+      "path": "/flags/BN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "NZ",
+    "name": "New Zealand",
+    "aliases": [
+      "New Zealand",
+      "NZ",
+      "Aotearoa",
+      "نيوزيلندا",
+      "Nový Zéland",
+      "Neuseeland",
+      "Uus-Meremaa",
+      "Uusi-Seelanti",
+      "Nouvelle-Zélande",
+      "Novi Zeland",
+      "Új-Zéland",
+      "Nuova Zelanda",
+      "ニュージーランド",
+      "뉴질랜드",
+      "Nieuw-Zeeland",
+      "نیوزیلند",
+      "Nowa Zelandia",
+      "Nova Zelândia",
+      "Новая Зеландия",
+      "Nueva Zelanda",
+      "Nya Zeeland",
+      "Yeni Zelanda",
+      "نیوزی لینڈ",
+      "新西兰"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Australia and New Zealand",
+      "Western European and Others Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Wellington"
+    ],
+    "flag": {
+      "path": "/flags/NZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "UY",
+    "name": "Oriental Republic of Uruguay",
+    "aliases": [
+      "Uruguay",
+      "UY",
+      "Oriental Republic of Uruguay",
+      "República Oriental del Uruguay",
+      "الأوروغواي",
+      "Urugvaj",
+      "ウルグアイ",
+      "우루과이",
+      "اروگوئه",
+      "Urugwaj",
+      "Uruguai",
+      "Уругвай",
+      "Uruguaj",
+      "یوراگوئے",
+      "乌拉圭"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Montevideo"
+    ],
+    "flag": {
+      "path": "/flags/UY.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "DZ",
+    "name": "People's Democratic Republic of Algeria",
+    "aliases": [
+      "Algeria",
+      "DZ",
+      "Dzayer",
+      "Algérie",
+      "الجزائر",
+      "Alžírsko",
+      "Algerien",
+      "Alžeeria",
+      "Alžir",
+      "Algéria",
+      "アルジェリア",
+      "알제리",
+      "Algerije",
+      "الجزایر",
+      "Algieria",
+      "Argélia",
+      "Алжир",
+      "Argelia",
+      "Algeriet",
+      "Cezayir",
+      "阿尔及利亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Northern Africa",
+      "African Group",
+      "Maghreb"
+    ],
+    "capitals": [
+      "Algiers"
+    ],
+    "flag": {
+      "path": "/flags/DZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BD",
+    "name": "People's Republic of Bangladesh",
+    "aliases": [
+      "Bangladesh",
+      "BD",
+      "People's Republic of Bangladesh",
+      "Gônôprôjatôntri Bangladesh",
+      "بنغلاديش",
+      "Bangladéš",
+      "Bangladesch",
+      "Bangladeš",
+      "Banglades",
+      "バングラデシュ",
+      "방글라데시",
+      "بنگلادش",
+      "Bangladesz",
+      "Бангладеш",
+      "Bangladeş",
+      "بنگلہ دیش",
+      "孟加拉国"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Southern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Dhaka"
+    ],
+    "flag": {
+      "path": "/flags/BD.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CN",
+    "name": "People's Republic of China",
+    "aliases": [
+      "China",
+      "CN",
+      "Zhōngguó",
+      "Zhongguo",
+      "Zhonghua",
+      "People's Republic of China",
+      "中华人民共和国",
+      "Zhōnghuá Rénmín Gònghéguó",
+      "الصين",
+      "Čína",
+      "Hiina",
+      "Kiina",
+      "Chine",
+      "Kina",
+      "Kína",
+      "Cina",
+      "中国",
+      "중국",
+      "چین",
+      "Chiny",
+      "Китай",
+      "çin"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Eastern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Beijing"
+    ],
+    "flag": {
+      "path": "/flags/CN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BO",
+    "name": "Plurinational State of Bolivia",
+    "aliases": [
+      "Bolivia",
+      "BO",
+      "Buliwya",
+      "Wuliwya",
+      "Bolivia, Plurinational State of",
+      "Plurinational State of Bolivia",
+      "Estado Plurinacional de Bolivia",
+      "Buliwya Mamallaqta",
+      "Wuliwya Suyu",
+      "Tetã Volívia",
+      "بوليفيا",
+      "Bolívie",
+      "Bolivien",
+      "Boliivia",
+      "Bolivie",
+      "Bolivija",
+      "Bolívia",
+      "ボリビア",
+      "볼리비아",
+      "بولیوی",
+      "Boliwia",
+      "Боливия",
+      "Bolivya",
+      "بولیویا",
+      "玻利维亚"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Sucre"
+    ],
+    "flag": {
+      "path": "/flags/BO.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "PT",
+    "name": "Portuguese Republic",
+    "aliases": [
+      "Portugal",
+      "PT",
+      "Portuguesa",
+      "Portuguese Republic",
+      "República Portuguesa",
+      "البرتغال",
+      "Portugalsko",
+      "Portugali",
+      "Portugália",
+      "Portogallo",
+      "ポルトガル",
+      "포르투갈",
+      "پرتغال",
+      "Portugalia",
+      "Португалия",
+      "Portekiz",
+      "پرتگال",
+      "葡萄牙"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southern Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Lisbon"
+    ],
+    "flag": {
+      "path": "/flags/PT.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AD",
+    "name": "Principality of Andorra",
+    "aliases": [
+      "Andorra",
+      "AD",
+      "Principality of Andorra",
+      "Principat d'Andorra",
+      "أندورا",
+      "Andorre",
+      "Andora",
+      "アンドラ",
+      "안도라",
+      "آندورا",
+      "Андорра",
+      "انڈورا",
+      "安道尔"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southern Europe",
+      "Western European and Others Group"
+    ],
+    "capitals": [
+      "Andorra la Vella"
+    ],
+    "flag": {
+      "path": "/flags/AD.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LI",
+    "name": "Principality of Liechtenstein",
+    "aliases": [
+      "Liechtenstein",
+      "LI",
+      "Principality of Liechtenstein",
+      "Fürstentum Liechtenstein",
+      "ليختنشتاين",
+      "Lichtenštejnsko",
+      "Liechenstein",
+      "Lihtenštajn",
+      "リヒテンシュタイン",
+      "리히텐슈타인",
+      "لیختن‌اشتاین",
+      "Лихтенштейн",
+      "Lichtenštajnsko",
+      "Lihtenştayn",
+      "لیختینستائن",
+      "列支敦士登"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Western Europe",
+      "Western European and Others Group",
+      "Central Europe"
+    ],
+    "capitals": [
+      "Vaduz"
+    ],
+    "flag": {
+      "path": "/flags/LI.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MC",
+    "name": "Principality of Monaco",
+    "aliases": [
+      "Monaco",
+      "MC",
+      "Principality of Monaco",
+      "Principauté de Monaco",
+      "موناكو",
+      "Monako",
+      "Principato di Monaco",
+      "モナコ",
+      "모나코",
+      "موناکو",
+      "Mónaco",
+      "Монако",
+      "摩纳哥"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Western Europe",
+      "Western European and Others Group"
+    ],
+    "capitals": [
+      "Monaco"
+    ],
+    "flag": {
+      "path": "/flags/MC.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AL",
+    "name": "Republic of Albania",
+    "aliases": [
+      "Albania",
+      "AL",
+      "Shqipëri",
+      "Shqipëria",
+      "Shqipnia",
+      "ألبانيا",
+      "Albánie",
+      "Albanien",
+      "Albaania",
+      "Albanie",
+      "Albanija",
+      "Albánia",
+      "アルバニア",
+      "알바니아",
+      "Albanië",
+      "آلبانی",
+      "Albânia",
+      "Албания",
+      "Albánsko",
+      "Arnavutluk",
+      "البانیا",
+      "阿尔巴尼亚"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southeast Europe",
+      "Eastern European Group",
+      "NATO",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Tirana"
+    ],
+    "flag": {
+      "path": "/flags/AL.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AO",
+    "name": "Republic of Angola",
+    "aliases": [
+      "Angola",
+      "AO",
+      "República de Angola",
+      "ʁɛpublika de an'ɡɔla",
+      "جمهورية أنغولا",
+      "アンゴラ",
+      "앙골라",
+      "آنگولا",
+      "Ангола",
+      "انگولہ",
+      "安哥拉"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Luanda"
+    ],
+    "flag": {
+      "path": "/flags/AO.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AM",
+    "name": "Republic of Armenia",
+    "aliases": [
+      "Armenia",
+      "AM",
+      "Hayastan",
+      "Republic of Armenia",
+      "Հայաստանի Հանրապետություն",
+      "أرمينيا",
+      "Arménie",
+      "Armenien",
+      "Armeenia",
+      "Armenija",
+      "Örményország",
+      "アルメニア",
+      "아르메니아",
+      "Armenië",
+      "ارمنستان",
+      "Arménia",
+      "Армения",
+      "Arménsko",
+      "Jermenija",
+      "Ermenistan",
+      "آرمینیا",
+      "亚美尼亚"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Eastern European Group"
+    ],
+    "capitals": [
+      "Yerevan"
+    ],
+    "flag": {
+      "path": "/flags/AM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AT",
+    "name": "Republic of Austria",
+    "aliases": [
+      "Austria",
+      "AT",
+      "Osterreich",
+      "Oesterreich",
+      "النمسا",
+      "Rakousko",
+      "Österreich",
+      "Itävalta",
+      "Autriche",
+      "Austrija",
+      "Ausztria",
+      "オーストリア",
+      "오스트리아",
+      "Oostenrijk",
+      "اتریش",
+      "Áustria",
+      "Австрия",
+      "Rakúsko",
+      "Österrike",
+      "Avusturya",
+      "آسٹریا",
+      "奥地利"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Central Europe",
+      "Western European and Others Group",
+      "European Union"
+    ],
+    "capitals": [
+      "Vienna"
+    ],
+    "flag": {
+      "path": "/flags/AT.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AZ",
+    "name": "Republic of Azerbaijan",
+    "aliases": [
+      "Azerbaijan",
+      "AZ",
+      "Republic of Azerbaijan",
+      "Azərbaycan Respublikası",
+      "أذربيجان",
+      "Ázerbájdžán",
+      "Aserbaidschan",
+      "Aserbaidžaan",
+      "Azerbaidzan",
+      "Azerbaïdjan",
+      "Azerbajdžan",
+      "Azerbajdzsán",
+      "アゼルバイジャン",
+      "아제르바이잔",
+      "Azerbeidzjan",
+      "جمهوری آذربایجان",
+      "Azerbejdżan",
+      "Azerbeijão",
+      "Азербайджан",
+      "AzerbajǇan",
+      "Azerbaiyán",
+      "Azerbejdžan",
+      "Azerbajdzjan",
+      "Azerbaycan",
+      "آذربائیجان",
+      "阿塞拜疆"
+    ],
+    "continents": [
+      "Europe",
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Eastern European Group"
+    ],
+    "capitals": [
+      "Baku"
+    ],
+    "flag": {
+      "path": "/flags/AZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BY",
+    "name": "Republic of Belarus",
+    "aliases": [
+      "Belarus",
+      "BY",
+      "Bielaruś",
+      "Republic of Belarus",
+      "Белоруссия",
+      "Республика Белоруссия",
+      "بيلاروسيا",
+      "Bělorusko",
+      "Valgevene",
+      "Valko-Venäjä",
+      "Biélorussie",
+      "Bjelorusija",
+      "Fehéroroszország",
+      "Bielorussia",
+      "ベラルーシ",
+      "벨라루스",
+      "Wit-Rusland",
+      "بلاروس",
+      "Białoruś",
+      "Bielorússia",
+      "Беларусь",
+      "Bielorusko",
+      "Bielorrusia",
+      "Belorusija",
+      "بیلاروس",
+      "白俄罗斯"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Eastern Europe",
+      "Eastern European Group"
+    ],
+    "capitals": [
+      "Minsk"
+    ],
+    "flag": {
+      "path": "/flags/BY.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BJ",
+    "name": "Republic of Benin",
+    "aliases": [
+      "Benin",
+      "BJ",
+      "Republic of Benin",
+      "République du Bénin",
+      "بنين",
+      "Bénin",
+      "ベナン",
+      "베냉",
+      "بنین",
+      "Бенин",
+      "Benín",
+      "بینن",
+      "贝宁"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Porto-Novo"
+    ],
+    "flag": {
+      "path": "/flags/BJ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BW",
+    "name": "Republic of Botswana",
+    "aliases": [
+      "Botswana",
+      "BW",
+      "Republic of Botswana",
+      "Lefatshe la Botswana",
+      "بوتسوانا",
+      "Bocvana",
+      "ボツワナ",
+      "보츠와나",
+      "Ботсвана",
+      "Botsvana",
+      "بوٹسوانا",
+      "博茨瓦纳"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Southern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Gaborone"
+    ],
+    "flag": {
+      "path": "/flags/BW.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BG",
+    "name": "Republic of Bulgaria",
+    "aliases": [
+      "Bulgaria",
+      "BG",
+      "Republic of Bulgaria",
+      "Република България",
+      "بلغاريا",
+      "Bulharsko",
+      "Bulgarien",
+      "Bulgaaria",
+      "Bulgarie",
+      "Bugarska",
+      "Bulgária",
+      "ブルガリア",
+      "불가리아",
+      "Bulgarije",
+      "بلغارستان",
+      "Bułgaria",
+      "Болгария",
+      "Bulgaristan",
+      "بلغاریہ",
+      "保加利亚"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southeast Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Sofia"
+    ],
+    "flag": {
+      "path": "/flags/BG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "BI",
+    "name": "Republic of Burundi",
+    "aliases": [
+      "Burundi",
+      "BI",
+      "Republic of Burundi",
+      "Republika y'Uburundi",
+      "République du Burundi",
+      "بوروندي",
+      "ブルンジ",
+      "부룬디",
+      "بوروندی",
+      "Бурунди",
+      "برونڈی",
+      "布隆迪"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Gitega"
+    ],
+    "flag": {
+      "path": "/flags/BI.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CV",
+    "name": "Republic of Cabo Verde",
+    "aliases": [
+      "Cape Verde",
+      "CV",
+      "Republic of Cabo Verde",
+      "República de Cabo Verde",
+      "كابو فيردي",
+      "Kapverdy",
+      "Kap Verde",
+      "Roheneemesaared",
+      "Îles du Cap-Vert",
+      "Zelenortska Republika",
+      "Zöld-foki Köztársaság",
+      "Capo Verde",
+      "カーボベルデ",
+      "카보베르데",
+      "Kaapverdië",
+      "دماغهٔ سبز",
+      "Republika Zielonego Przylądka",
+      "Cabo Verde",
+      "Кабо-Верде",
+      "Zelenortska Ostrva",
+      "Yeşil Burun",
+      "کیپ ورڈی",
+      "佛得角"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Praia"
+    ],
+    "flag": {
+      "path": "/flags/CV.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CM",
+    "name": "Republic of Cameroon",
+    "aliases": [
+      "Cameroon",
+      "CM",
+      "Republic of Cameroon",
+      "République du Cameroun",
+      "الكاميرون",
+      "Kamerun",
+      "Cameroun",
+      "Camerun",
+      "カメルーン",
+      "카메룬",
+      "Kameroen",
+      "کامِرون",
+      "WybrzeŻe Kości Słoniowej",
+      "Camarões",
+      "Камерун",
+      "Camerún",
+      "کیمرون",
+      "喀麦隆"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Yaoundé",
+      "Yaounde"
+    ],
+    "flag": {
+      "path": "/flags/CM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TD",
+    "name": "Republic of Chad",
+    "aliases": [
+      "Chad",
+      "TD",
+      "Tchad",
+      "Republic of Chad",
+      "République du Tchad",
+      "تشاد",
+      "Čad",
+      "Tschad",
+      "Tšaad",
+      "Tšad",
+      "Csád",
+      "Ciad",
+      "チャド",
+      "차드",
+      "Tsjaad",
+      "چاد",
+      "Czad",
+      "Chade",
+      "Чад",
+      "çad",
+      "چاڈ",
+      "乍得"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "N'Djamena"
+    ],
+    "flag": {
+      "path": "/flags/TD.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CL",
+    "name": "Republic of Chile",
+    "aliases": [
+      "Chile",
+      "CL",
+      "Republic of Chile",
+      "República de Chile",
+      "تشيلي",
+      "Tšiili",
+      "Chili",
+      "Čile",
+      "Cile",
+      "チリ",
+      "칠레",
+      "شیلی",
+      "Чили",
+      "şili",
+      "چلی",
+      "智利"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Santiago"
+    ],
+    "flag": {
+      "path": "/flags/CL.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CO",
+    "name": "Republic of Colombia",
+    "aliases": [
+      "Colombia",
+      "CO",
+      "Republic of Colombia",
+      "República de Colombia",
+      "كولومبيا",
+      "Kolumbie",
+      "Kolumbien",
+      "Kolumbia",
+      "Colombie",
+      "Kolumbija",
+      "コロンビア",
+      "콜롬비아",
+      "کلمبیا",
+      "Colômbia",
+      "Колумбия",
+      "Kolombiya",
+      "کولمبیا",
+      "哥伦比亚"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Bogotá",
+      "Bogota"
+    ],
+    "flag": {
+      "path": "/flags/CO.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CR",
+    "name": "Republic of Costa Rica",
+    "aliases": [
+      "Costa Rica",
+      "CR",
+      "Republic of Costa Rica",
+      "República de Costa Rica",
+      "كوستاريكا",
+      "Kostarika",
+      "コスタリカ",
+      "코스타리카",
+      "کاستاریکا",
+      "Kostaryka",
+      "Коста-Рика",
+      "Kosta Rika",
+      "کوسٹاریکا",
+      "哥斯达黎加"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Central America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "San José",
+      "San Jose"
+    ],
+    "flag": {
+      "path": "/flags/CR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CI",
+    "name": "Republic of Côte d'Ivoire",
+    "aliases": [
+      "Ivory Coast",
+      "CI",
+      "Côte d'Ivoire",
+      "Cote d'Ivoire",
+      "Republic of Côte d'Ivoire",
+      "République de Côte d'Ivoire",
+      "ساحل العاج",
+      "Pobřeží slonoviny",
+      "Elevandiluurannik",
+      "Norsunluurannikko",
+      "Obala Bjelokosti",
+      "Elefántcsontpart",
+      "Costa d'Avorio",
+      "コートジボワール",
+      "코트디부아르",
+      "Ivoorkust",
+      "ساحل عاج",
+      "WybrzeŻe Kości Słoniowej",
+      "Costa do Marfim",
+      "Кот-д’Ивуар",
+      "Pobržie Slonoviny",
+      "Costa de Marfil",
+      "Obala Slonovače",
+      "Elfenbenskusten",
+      "Fildişi Sahili",
+      "آئیوری کوسٹ",
+      "科特迪瓦"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Yamoussoukro"
+    ],
+    "flag": {
+      "path": "/flags/CI.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "HR",
+    "name": "Republic of Croatia",
+    "aliases": [
+      "Croatia",
+      "HR",
+      "Hrvatska",
+      "Republic of Croatia",
+      "Republika Hrvatska",
+      "كرواتيا",
+      "Chorvatsko",
+      "Kroatien",
+      "Horvaatia",
+      "Kroatia",
+      "Croatie",
+      "Horvátország",
+      "Croazia",
+      "クロアチア",
+      "크로아티아",
+      "Kroatië",
+      "کرُواسی",
+      "Chorwacja",
+      "Croácia",
+      "Хорватия",
+      "Chorvátsko",
+      "Croacia",
+      "Hırvatistan",
+      "کرویئشا",
+      "克罗地亚"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southeast Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Zagreb"
+    ],
+    "flag": {
+      "path": "/flags/HR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CU",
+    "name": "Republic of Cuba",
+    "aliases": [
+      "Cuba",
+      "CU",
+      "Republic of Cuba",
+      "República de Cuba",
+      "كوبا",
+      "Kuba",
+      "Kuuba",
+      "キューバ",
+      "쿠바",
+      "کوبا",
+      "Куба",
+      "Küba",
+      "کیوبا",
+      "古巴"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group"
+    ],
+    "capitals": [
+      "Havana"
+    ],
+    "flag": {
+      "path": "/flags/CU.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CY",
+    "name": "Republic of Cyprus",
+    "aliases": [
+      "Cyprus",
+      "CY",
+      "Kýpros",
+      "Kıbrıs",
+      "Republic of Cyprus",
+      "Κυπριακή Δημοκρατία",
+      "Kıbrıs Cumhuriyeti",
+      "قبرص",
+      "Kypr",
+      "Zypern",
+      "Küpros",
+      "Kypros",
+      "Chypre",
+      "Cipar",
+      "Ciprus",
+      "Cipro",
+      "キプロス",
+      "키프로스",
+      "قِبرِس",
+      "Cypr",
+      "Chipre",
+      "Кипр",
+      "Kipar",
+      "Cypern",
+      "塞浦路斯"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southern Europe",
+      "Asia and the Pacific Group",
+      "European Union",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Nicosia"
+    ],
+    "flag": {
+      "path": "/flags/CY.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "DJ",
+    "name": "Republic of Djibouti",
+    "aliases": [
+      "Djibouti",
+      "DJ",
+      "Jabuuti",
+      "Gabuuti",
+      "Republic of Djibouti",
+      "République de Djibouti",
+      "Gabuutih Ummuuno",
+      "Jamhuuriyadda Jabuuti",
+      "جيبوتي",
+      "Džibutsko",
+      "Dschibuti",
+      "Dijibouti",
+      "Džibuti",
+      "Dzsibuti",
+      "Gibuti",
+      "ジブチ",
+      "지부티",
+      "جیبوتی",
+      "Dżibuti",
+      "Джибути",
+      "ǅibutsko",
+      "Cibuti",
+      "جبوتی",
+      "吉布提"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Djibouti"
+    ],
+    "flag": {
+      "path": "/flags/DJ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "EC",
+    "name": "Republic of Ecuador",
+    "aliases": [
+      "Ecuador",
+      "EC",
+      "Republic of Ecuador",
+      "República del Ecuador",
+      "الإكوادور",
+      "Ekvádor",
+      "Équateur",
+      "Ekvador",
+      "エクアドル",
+      "에콰도르",
+      "اکوادور",
+      "Ekwador",
+      "Equador",
+      "Эквадор",
+      "ایکواڈور",
+      "厄瓜多尔"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Quito"
+    ],
+    "flag": {
+      "path": "/flags/EC.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SV",
+    "name": "Republic of El Salvador",
+    "aliases": [
+      "El Salvador",
+      "SV",
+      "Republic of El Salvador",
+      "República de El Salvador",
+      "السلفادور",
+      "Salvador",
+      "エルサルバドル",
+      "엘살바도르",
+      "السالوادور",
+      "Salwador",
+      "Сальвадор",
+      "Salvádor",
+      "ایل سیلواڈور",
+      "萨尔瓦多"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Central America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "San Salvador"
+    ],
+    "flag": {
+      "path": "/flags/SV.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GQ",
+    "name": "Republic of Equatorial Guinea",
+    "aliases": [
+      "Equatorial Guinea",
+      "GQ",
+      "Republic of Equatorial Guinea",
+      "República de Guinea Ecuatorial",
+      "République de Guinée équatoriale",
+      "República da Guiné Equatorial",
+      "غينيا الاستوائية",
+      "Rovníková Guinea",
+      "Äquatorialguinea",
+      "Ekvatoriaal-Guinea",
+      "Päiväntasaajan Guinea",
+      "Guinée équatoriale",
+      "Ekvatorijalna Gvineja",
+      "Egyenlítői-Guinea",
+      "Guinea Equatoriale",
+      "赤道ギニア",
+      "적도 기니",
+      "Equatoriaal-Guinea",
+      "گینه استوایی",
+      "Gwinea Równikowa",
+      "Guiné Equatorial",
+      "Экваториальная Гвинея",
+      "Guinea Ecuatorial",
+      "Ekvatorialguinea",
+      "Ekvator Ginesi",
+      "استوائی گنی",
+      "赤道几内亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Malabo"
+    ],
+    "flag": {
+      "path": "/flags/GQ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "EE",
+    "name": "Republic of Estonia",
+    "aliases": [
+      "Estonia",
+      "EE",
+      "Eesti",
+      "Republic of Estonia",
+      "Eesti Vabariik",
+      "إستونيا",
+      "Estonsko",
+      "Estland",
+      "Viro",
+      "Estonie",
+      "Estonija",
+      "Észtország",
+      "エストニア",
+      "에스토니아",
+      "اِستونی",
+      "Estónia",
+      "Эстония",
+      "Estónsko",
+      "Estonya",
+      "اسٹونیا",
+      "爱沙尼亚"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO",
+      "Baltics"
+    ],
+    "capitals": [
+      "Tallinn"
+    ],
+    "flag": {
+      "path": "/flags/EE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "FJ",
+    "name": "Republic of Fiji",
+    "aliases": [
+      "Fiji",
+      "FJ",
+      "Viti",
+      "Republic of Fiji",
+      "Matanitu ko Viti",
+      "Fijī Gaṇarājya",
+      "فيجي",
+      "Fidži",
+      "Fidschi",
+      "Fidji",
+      "Fiđi",
+      "Fidzsi-szigetek",
+      "Figi",
+      "フィジー",
+      "피지",
+      "فیجی",
+      "Fidżi",
+      "Фиджи",
+      "Fiǆi",
+      "Fiyi",
+      "فجی",
+      "斐济"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Melanesia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Suva"
+    ],
+    "flag": {
+      "path": "/flags/FJ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "FI",
+    "name": "Republic of Finland",
+    "aliases": [
+      "Finland",
+      "FI",
+      "Suomi",
+      "Republic of Finland",
+      "Suomen tasavalta",
+      "Republiken Finland",
+      "فنلندا",
+      "Finsko",
+      "Finnland",
+      "Soome",
+      "Finlande",
+      "Finska",
+      "Finnország",
+      "Finlandia",
+      "フィンランド",
+      "핀란드",
+      "فنلاند",
+      "Finlândia",
+      "Финляндия",
+      "Fínsko",
+      "Finlandiya",
+      "فن لینڈ",
+      "芬兰"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Western European and Others Group",
+      "European Union",
+      "NATO",
+      "Nordics"
+    ],
+    "capitals": [
+      "Helsinki"
+    ],
+    "flag": {
+      "path": "/flags/FI.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GH",
+    "name": "Republic of Ghana",
+    "aliases": [
+      "Ghana",
+      "GH",
+      "غانا",
+      "Gana",
+      "Ghána",
+      "ガーナ",
+      "가나",
+      "غنا",
+      "Гана",
+      "گھانا",
+      "加纳"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Accra"
+    ],
+    "flag": {
+      "path": "/flags/GH.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GT",
+    "name": "Republic of Guatemala",
+    "aliases": [
+      "Guatemala",
+      "GT",
+      "غواتيمالا",
+      "Gvatemala",
+      "グアテマラ",
+      "과테말라",
+      "گواتِمالا",
+      "Gwatemala",
+      "Гватемала",
+      "گواتیمالا",
+      "危地马拉"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Central America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Guatemala City"
+    ],
+    "flag": {
+      "path": "/flags/GT.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GN",
+    "name": "Republic of Guinea",
+    "aliases": [
+      "Guinea",
+      "GN",
+      "Republic of Guinea",
+      "République de Guinée",
+      "غينيا",
+      "Guinée",
+      "Gvineja",
+      "ギニア",
+      "기니",
+      "Guinee",
+      "پاپوآ گینه نو",
+      "Gwinea",
+      "Guiné",
+      "Гвинея",
+      "Gine",
+      "گنی",
+      "几内亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "Conakry"
+    ],
+    "flag": {
+      "path": "/flags/GN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GW",
+    "name": "Republic of Guinea-Bissau",
+    "aliases": [
+      "Guinea-Bissau",
+      "GW",
+      "Republic of Guinea-Bissau",
+      "República da Guiné-Bissau",
+      "غينيا بيساو",
+      "Guinée-Bissau",
+      "Gvineja Bisau",
+      "Bissau-Guinea",
+      "ギニアビサウ",
+      "기니비사우",
+      "Guinee-Bissau",
+      "گینه بیسائو",
+      "Gwinea Bissau",
+      "Guiné-Bissau",
+      "Гвинея-Бисау",
+      "Guinea-Bisáu",
+      "Gvineja Bisao",
+      "Gine-Bissau",
+      "گنی بساؤ",
+      "几内亚比绍"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Bissau"
+    ],
+    "flag": {
+      "path": "/flags/GW.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "HT",
+    "name": "Republic of Haiti",
+    "aliases": [
+      "Haiti",
+      "HT",
+      "Republic of Haiti",
+      "République d'Haïti",
+      "Repiblik Ayiti",
+      "هايتي",
+      "Haïti",
+      "ハイチ",
+      "아이티",
+      "هائیتی",
+      "Гаити",
+      "Haití",
+      "ہیٹی",
+      "海地"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group"
+    ],
+    "capitals": [
+      "Port-au-Prince"
+    ],
+    "flag": {
+      "path": "/flags/HT.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "HN",
+    "name": "Republic of Honduras",
+    "aliases": [
+      "Honduras",
+      "HN",
+      "Republic of Honduras",
+      "República de Honduras",
+      "هندوراس",
+      "ホンジュラス",
+      "온두라스",
+      "هُندوراس",
+      "Гондурас",
+      "ہونڈوراس",
+      "洪都拉斯"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Central America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Tegucigalpa"
+    ],
+    "flag": {
+      "path": "/flags/HN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "IN",
+    "name": "Republic of India",
+    "aliases": [
+      "India",
+      "IN",
+      "Bhārat",
+      "Republic of India",
+      "Bharat Ganrajya",
+      "இந்தியா",
+      "الهند",
+      "Indie",
+      "Indien",
+      "Intia",
+      "Inde",
+      "Indija",
+      "インド",
+      "인도",
+      "هند",
+      "Índia",
+      "Индия",
+      "Hindistan",
+      "بھارت",
+      "印度"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Southern Asia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "New Delhi"
+    ],
+    "flag": {
+      "path": "/flags/IN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ID",
+    "name": "Republic of Indonesia",
+    "aliases": [
+      "Indonesia",
+      "ID",
+      "Republic of Indonesia",
+      "Republik Indonesia",
+      "إندونيسيا",
+      "Indonésie",
+      "Indonesien",
+      "Indoneesia",
+      "Indonezija",
+      "Indonézia",
+      "インドネシア",
+      "인도네시아",
+      "Indonesië",
+      "اندونزی",
+      "Indonezja",
+      "Indonésia",
+      "Индонезия",
+      "Endonezya",
+      "انڈونیشیا",
+      "印度尼西亚"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia"
+    ],
+    "capitals": [
+      "Jakarta"
+    ],
+    "flag": {
+      "path": "/flags/ID.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "IQ",
+    "name": "Republic of Iraq",
+    "aliases": [
+      "Iraq",
+      "IQ",
+      "Republic of Iraq",
+      "Jumhūriyyat al-‘Irāq",
+      "العراق",
+      "Irák",
+      "Irak",
+      "Iraak",
+      "イラク",
+      "이라크",
+      "عراق",
+      "Iraque",
+      "Ирак",
+      "伊拉克"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Baghdad"
+    ],
+    "flag": {
+      "path": "/flags/IQ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "IE",
+    "name": "Republic of Ireland",
+    "aliases": [
+      "Ireland",
+      "IE",
+      "Éire",
+      "Republic of Ireland",
+      "Poblacht na hÉireann",
+      "أيرلندا",
+      "Irsko",
+      "Irland",
+      "Iirimaa",
+      "Irlanti",
+      "Irlande",
+      "Irska",
+      "Írország",
+      "Irlanda",
+      "アイルランド",
+      "아일랜드",
+      "Ierland",
+      "ایرلند",
+      "Irlandia",
+      "Ирландия",
+      "Írsko",
+      "İrlanda",
+      "جزیرہ آئرلینڈ",
+      "爱尔兰"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Western European and Others Group",
+      "European Union",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Dublin"
+    ],
+    "flag": {
+      "path": "/flags/IE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KZ",
+    "name": "Republic of Kazakhstan",
+    "aliases": [
+      "Kazakhstan",
+      "KZ",
+      "Qazaqstan",
+      "Казахстан",
+      "Republic of Kazakhstan",
+      "Қазақстан Республикасы",
+      "Qazaqstan Respublïkası",
+      "Республика Казахстан",
+      "Respublika Kazakhstan",
+      "كازاخستان",
+      "Kazachstán",
+      "Kasachstan",
+      "Kasahstan",
+      "Kazakstan",
+      "Kazahstan",
+      "Kazahsztán",
+      "Kazakistan",
+      "カザフスタン",
+      "카자흐스탄",
+      "Kazachstan",
+      "قزاقستان",
+      "Cazaquistão",
+      "Kazajistán",
+      "قازقستان",
+      "哈萨克斯坦"
+    ],
+    "continents": [
+      "Europe",
+      "Asia"
+    ],
+    "groups": [
+      "Central Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Astana"
+    ],
+    "flag": {
+      "path": "/flags/KZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KE",
+    "name": "Republic of Kenya",
+    "aliases": [
+      "Kenya",
+      "KE",
+      "Republic of Kenya",
+      "Jamhuri ya Kenya",
+      "كينيا",
+      "Keňa",
+      "Kenia",
+      "Keenia",
+      "Kenija",
+      "ケニア",
+      "케냐",
+      "کنیا",
+      "Quénia",
+      "Кения",
+      "کینیا",
+      "肯尼亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Nairobi"
+    ],
+    "flag": {
+      "path": "/flags/KE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KR",
+    "name": "Republic of Korea",
+    "aliases": [
+      "South Korea",
+      "KR",
+      "Korea, Republic of",
+      "Republic of Korea",
+      "남한",
+      "남조선",
+      "كوريا الجنوبية",
+      "Jižní Korea",
+      "Südkorea",
+      "Lõuna-Korea",
+      "Etelä-Korea",
+      "Corée du Sud",
+      "Južna Koreja",
+      "Dél-Korea",
+      "Corea del Sud",
+      "韓国",
+      "한국",
+      "Zuid-Korea",
+      "کرهٔ جنوبی",
+      "Korea Południowa",
+      "Coreia do Sul",
+      "Южная Корея",
+      "Južná Kórea",
+      "Corea del Sur",
+      "Sydkorea",
+      "Güney Kore",
+      "جنوبی کوریا",
+      "韩国"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Eastern Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Seoul"
+    ],
+    "flag": {
+      "path": "/flags/KR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LV",
+    "name": "Republic of Latvia",
+    "aliases": [
+      "Latvia",
+      "LV",
+      "Republic of Latvia",
+      "Latvijas Republika",
+      "لاتفيا",
+      "Lotyšsko",
+      "Lettland",
+      "Läti",
+      "Lettonie",
+      "Latvija",
+      "Lettország",
+      "Lettonia",
+      "ラトビア",
+      "라트비아",
+      "Letland",
+      "لتونی",
+      "Łotwa",
+      "Letónia",
+      "Латвия",
+      "Letonia",
+      "Letonija",
+      "Letonya",
+      "لٹویا",
+      "拉脱维亚"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO",
+      "Baltics"
+    ],
+    "capitals": [
+      "Riga"
+    ],
+    "flag": {
+      "path": "/flags/LV.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LR",
+    "name": "Republic of Liberia",
+    "aliases": [
+      "Liberia",
+      "LR",
+      "Republic of Liberia",
+      "ليبيريا",
+      "Libérie",
+      "Libeeria",
+      "Liberija",
+      "Libéria",
+      "リベリア",
+      "라이베리아",
+      "لیبـِریا",
+      "Либерия",
+      "Liberya",
+      "لائبیریا",
+      "利比里亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Monrovia"
+    ],
+    "flag": {
+      "path": "/flags/LR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LT",
+    "name": "Republic of Lithuania",
+    "aliases": [
+      "Lithuania",
+      "LT",
+      "Republic of Lithuania",
+      "Lietuvos Respublika",
+      "ليتوانيا",
+      "Litva",
+      "Litauen",
+      "Leedu",
+      "Liettua",
+      "Lituanie",
+      "Litvánia",
+      "Lituania",
+      "リトアニア",
+      "리투아니아",
+      "Litouwen",
+      "لیتوانیایی‌ها",
+      "Litwa",
+      "Lituânia",
+      "Литва",
+      "Litvanija",
+      "Litvanya",
+      "لتھووینیا",
+      "立陶宛"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO",
+      "Baltics"
+    ],
+    "capitals": [
+      "Vilnius"
+    ],
+    "flag": {
+      "path": "/flags/LT.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MG",
+    "name": "Republic of Madagascar",
+    "aliases": [
+      "Madagascar",
+      "MG",
+      "Republic of Madagascar",
+      "Repoblikan'i Madagasikara",
+      "République de Madagascar",
+      "مدغشقر",
+      "Madagaskar",
+      "Madagaszkár",
+      "マダガスカル",
+      "마다가스카르",
+      "ماداگاسکار",
+      "Madagáscar",
+      "Мадагаскар",
+      "مڈغاسکر",
+      "马达加斯加"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Antananarivo"
+    ],
+    "flag": {
+      "path": "/flags/MG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MW",
+    "name": "Republic of Malawi",
+    "aliases": [
+      "Malawi",
+      "MW",
+      "Republic of Malawi",
+      "مالاوي",
+      "Malavi",
+      "マラウイ",
+      "말라위",
+      "مالاوی",
+      "Малави",
+      "ملاوی",
+      "马拉维"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Lilongwe"
+    ],
+    "flag": {
+      "path": "/flags/MW.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ML",
+    "name": "Republic of Mali",
+    "aliases": [
+      "Mali",
+      "ML",
+      "Republic of Mali",
+      "République du Mali",
+      "مالي",
+      "マリ",
+      "말리",
+      "مالی",
+      "Мали",
+      "马里"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "Bamako"
+    ],
+    "flag": {
+      "path": "/flags/ML.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MT",
+    "name": "Republic of Malta",
+    "aliases": [
+      "Malta",
+      "MT",
+      "Republic of Malta",
+      "Repubblika ta' Malta",
+      "مالطا",
+      "Malte",
+      "Málta",
+      "マルタ",
+      "몰타",
+      "مالت",
+      "Мальта",
+      "مالٹا",
+      "马耳他"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southern Europe",
+      "Western European and Others Group",
+      "European Union",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Valletta"
+    ],
+    "flag": {
+      "path": "/flags/MT.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MU",
+    "name": "Republic of Mauritius",
+    "aliases": [
+      "Mauritius",
+      "MU",
+      "Republic of Mauritius",
+      "République de Maurice",
+      "موريشيوس",
+      "Mauricius",
+      "Île Maurice",
+      "Mauricijus",
+      "モーリシャス",
+      "모리셔스",
+      "موریس",
+      "Maurício",
+      "Маврикий",
+      "Maurícius",
+      "Mauricio",
+      "موریشس",
+      "毛里求斯"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Port Louis"
+    ],
+    "flag": {
+      "path": "/flags/MU.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MD",
+    "name": "Republic of Moldova",
+    "aliases": [
+      "Moldova",
+      "MD",
+      "Moldova, Republic of",
+      "Republic of Moldova",
+      "Republica Moldova",
+      "مولدوڤا",
+      "Moldavsko",
+      "Moldawien",
+      "Moldavie",
+      "Moldavia",
+      "モルドバ",
+      "몰도바",
+      "Moldavië",
+      "مولداوی",
+      "Mołdawia",
+      "Moldávia",
+      "Молдавия",
+      "Moldavija",
+      "Moldavien",
+      "مالدووا",
+      "摩尔多瓦"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Eastern Europe",
+      "Eastern European Group"
+    ],
+    "capitals": [
+      "Chișinău",
+      "Chisinau"
+    ],
+    "flag": {
+      "path": "/flags/MD.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MZ",
+    "name": "Republic of Mozambique",
+    "aliases": [
+      "Mozambique",
+      "MZ",
+      "Republic of Mozambique",
+      "República de Moçambique",
+      "موزمبيق",
+      "Mosambik",
+      "Mosambiik",
+      "Mozambik",
+      "Mozambico",
+      "モザンビーク",
+      "모잠비크",
+      "موزامبیک",
+      "Moçambique",
+      "Мозамбик",
+      "موزمبیق",
+      "莫桑比克"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Maputo"
+    ],
+    "flag": {
+      "path": "/flags/MZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "NA",
+    "name": "Republic of Namibia",
+    "aliases": [
+      "Namibia",
+      "NA",
+      "Namibië",
+      "Republic of Namibia",
+      "ناميبيا",
+      "Namibie",
+      "Namiibia",
+      "Namibija",
+      "Namíbia",
+      "ナミビア",
+      "나미비아",
+      "نامیبیا",
+      "Намибия",
+      "Namibya",
+      "نمیبیا",
+      "纳米比亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Southern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Windhoek"
+    ],
+    "flag": {
+      "path": "/flags/NA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "NR",
+    "name": "Republic of Nauru",
+    "aliases": [
+      "Nauru",
+      "NR",
+      "Naoero",
+      "Pleasant Island",
+      "Republic of Nauru",
+      "Ripublik Naoero",
+      "ناورو",
+      "ナウル",
+      "나우루",
+      "نائورو",
+      "Науру",
+      "瑙鲁"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Micronesia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Yaren"
+    ],
+    "flag": {
+      "path": "/flags/NR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "NI",
+    "name": "Republic of Nicaragua",
+    "aliases": [
+      "Nicaragua",
+      "NI",
+      "Republic of Nicaragua",
+      "República de Nicaragua",
+      "نيكاراغوا",
+      "Nikaragua",
+      "Nikaragva",
+      "ニカラグア",
+      "니카라과",
+      "نیکاراگوئه",
+      "Nicarágua",
+      "Никарагуа",
+      "نکاراگوا",
+      "尼加拉瓜"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Central America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Managua"
+    ],
+    "flag": {
+      "path": "/flags/NI.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "NE",
+    "name": "Republic of Niger",
+    "aliases": [
+      "Niger",
+      "NE",
+      "Nijar",
+      "النيجر",
+      "ニジェール",
+      "니제르",
+      "نیجر",
+      "Níger",
+      "Нигер",
+      "Nijer",
+      "نائجر",
+      "尼日尔"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "Niamey"
+    ],
+    "flag": {
+      "path": "/flags/NE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MK",
+    "name": "Republic of North Macedonia",
+    "aliases": [
+      "North Macedonia",
+      "MK",
+      "The former Yugoslav Republic of Macedonia",
+      "Republic of North Macedonia",
+      "Macedonia, The Former Yugoslav Republic of",
+      "Република Северна Македонија",
+      "Macedonia",
+      "شمال مقدونيا",
+      "Severní Makedonie",
+      "Nordmazedonien",
+      "Põhja-Makedoonia",
+      "Pohjois-Makedonia",
+      "Macédoine du Nord",
+      "Sjeverna Makedonija",
+      "Észak-Macedónia",
+      "Macedonia del Nord",
+      "北マケドニア",
+      "북마케도니아",
+      "Noord-Macedonië",
+      "مقدونیه شمالی",
+      "Macedonia Północna",
+      "Macedónia do Norte",
+      "Северная Македония",
+      "Severné Macedónsko",
+      "Macedonia del Norte",
+      "Severna Makedonija",
+      "Nordmakedonien",
+      "Kuzey Makedonya",
+      "شمالی مقدونیہ",
+      "北馬其頓"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southeast Europe",
+      "Eastern European Group",
+      "NATO",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Skopje"
+    ],
+    "flag": {
+      "path": "/flags/MK.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "PW",
+    "name": "Republic of Palau",
+    "aliases": [
+      "Palau",
+      "PW",
+      "Republic of Palau",
+      "Beluu er a Belau",
+      "بالاو",
+      "Belau",
+      "Palaos (Palau)",
+      "パラオ",
+      "팔라우",
+      "پالائو",
+      "Палау",
+      "پلاؤ",
+      "帕劳"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Micronesia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Ngerulmud"
+    ],
+    "flag": {
+      "path": "/flags/PW.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "PA",
+    "name": "Republic of Panama",
+    "aliases": [
+      "Panama",
+      "PA",
+      "Republic of Panama",
+      "República de Panamá",
+      "بنما",
+      "パナマ",
+      "파나마",
+      "پاناما",
+      "Panamá",
+      "Панама",
+      "巴拿马"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Central America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Panama City"
+    ],
+    "flag": {
+      "path": "/flags/PA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "PY",
+    "name": "Republic of Paraguay",
+    "aliases": [
+      "Paraguay",
+      "PY",
+      "Republic of Paraguay",
+      "República del Paraguay",
+      "Tetã Paraguái",
+      "باراغواي",
+      "Paragvaj",
+      "パラグアイ",
+      "파라과이",
+      "پاراگوئه",
+      "Paragwaj",
+      "Paraguai",
+      "Парагвай",
+      "Paraguaj",
+      "پیراگوئے",
+      "巴拉圭"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Asunción",
+      "Asuncion"
+    ],
+    "flag": {
+      "path": "/flags/PY.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "PE",
+    "name": "Republic of Peru",
+    "aliases": [
+      "Peru",
+      "PE",
+      "Republic of Peru",
+      "República del Perú",
+      "بيرو",
+      "Peruu",
+      "Pérou",
+      "Perù",
+      "ペルー",
+      "페루",
+      "پرو",
+      "Perú",
+      "Перу",
+      "پیرو",
+      "秘鲁"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Lima"
+    ],
+    "flag": {
+      "path": "/flags/PE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "PL",
+    "name": "Republic of Poland",
+    "aliases": [
+      "Poland",
+      "PL",
+      "Republic of Poland",
+      "Rzeczpospolita Polska",
+      "بولندا",
+      "Polsko",
+      "Polen",
+      "Poola",
+      "Puola",
+      "Pologne",
+      "Poljska",
+      "Lengyelország",
+      "Polonia",
+      "ポーランド",
+      "폴란드",
+      "لهستان",
+      "Polska",
+      "Polónia",
+      "Польша",
+      "Poľsko",
+      "Polonya",
+      "پولینڈ",
+      "波兰"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Central Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Warsaw"
+    ],
+    "flag": {
+      "path": "/flags/PL.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "RW",
+    "name": "Republic of Rwanda",
+    "aliases": [
+      "Rwanda",
+      "RW",
+      "Republic of Rwanda",
+      "Repubulika y'u Rwanda",
+      "République du Rwanda",
+      "رواندا",
+      "Ruanda",
+      "ルワンダ",
+      "르완다",
+      "Руанда",
+      "روانڈا",
+      "卢旺达"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Kigali"
+    ],
+    "flag": {
+      "path": "/flags/RW.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SN",
+    "name": "Republic of Senegal",
+    "aliases": [
+      "Senegal",
+      "SN",
+      "Republic of Senegal",
+      "République du Sénégal",
+      "السنغال",
+      "Sénégal",
+      "Szenegál",
+      "セネガル",
+      "세네갈",
+      "سنگال",
+      "Сенегал",
+      "سینیگال",
+      "塞内加尔"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "Dakar"
+    ],
+    "flag": {
+      "path": "/flags/SN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "RS",
+    "name": "Republic of Serbia",
+    "aliases": [
+      "Serbia",
+      "RS",
+      "Srbija",
+      "Republika Srbija",
+      "Србија",
+      "Република Србија",
+      "Republic of Serbia",
+      "صيربيا",
+      "Srbsko",
+      "Serbien",
+      "Serbie",
+      "Szerbia",
+      "セルビア",
+      "세르비아",
+      "Servië",
+      "صربستان",
+      "Sérvia",
+      "Сербия",
+      "Sırbistan",
+      "سربیا",
+      "塞尔维亚"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southeast Europe",
+      "Eastern European Group",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Belgrade"
+    ],
+    "flag": {
+      "path": "/flags/RS.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SC",
+    "name": "Republic of Seychelles",
+    "aliases": [
+      "Seychelles",
+      "SC",
+      "Republic of Seychelles",
+      "Repiblik Sesel",
+      "République des Seychelles",
+      "سيشل",
+      "Seychely",
+      "Seychellen",
+      "Seišellid",
+      "Seychellit",
+      "Sejšeli",
+      "Seychelle-szigetek",
+      "セーシェル",
+      "세이셸",
+      "سیشل",
+      "Seszele",
+      "Seicheles",
+      "Сейшельские Острова",
+      "Seychellerna",
+      "Seyşeller",
+      "سیچیلیس",
+      "塞舌尔"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Victoria"
+    ],
+    "flag": {
+      "path": "/flags/SC.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SL",
+    "name": "Republic of Sierra Leone",
+    "aliases": [
+      "Sierra Leone",
+      "SL",
+      "Republic of Sierra Leone",
+      "سيراليون",
+      "Sijera Leone",
+      "シエラレオネ",
+      "시에라리온",
+      "سیرالئون",
+      "Serra Leoa",
+      "Сьерра-Леоне",
+      "سیرالیون",
+      "塞拉利昂"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Freetown"
+    ],
+    "flag": {
+      "path": "/flags/SL.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SG",
+    "name": "Republic of Singapore",
+    "aliases": [
+      "Singapore",
+      "SG",
+      "Singapura",
+      "Republik Singapura",
+      "新加坡共和国",
+      "سنغافورة",
+      "Singapur",
+      "Singapour",
+      "Szingapúr",
+      "シンガポール",
+      "싱가포르",
+      "سنگاپور",
+      "Сингапур",
+      "新加坡"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Singapore"
+    ],
+    "flag": {
+      "path": "/flags/SG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SI",
+    "name": "Republic of Slovenia",
+    "aliases": [
+      "Slovenia",
+      "SI",
+      "Republic of Slovenia",
+      "Republika Slovenija",
+      "سلوفينيا",
+      "Slovinsko",
+      "Slowenien",
+      "Sloveenia",
+      "Slovénie",
+      "Slovenija",
+      "Szlovénia",
+      "スロベニア",
+      "슬로베니아",
+      "Slovenië",
+      "اسلوونی",
+      "Słowenia",
+      "Eslovénia",
+      "Словения",
+      "Eslovenia",
+      "Slovenien",
+      "Slovenya",
+      "سلووینیا",
+      "斯洛文尼亚"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Central Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Ljubljana"
+    ],
+    "flag": {
+      "path": "/flags/SI.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ZA",
+    "name": "Republic of South Africa",
+    "aliases": [
+      "South Africa",
+      "ZA",
+      "RSA",
+      "Suid-Afrika",
+      "Republic of South Africa",
+      "جنوب أفريقيا",
+      "Jihoafrická republika",
+      "Südafrika",
+      "Lõuna-Aafrika Vabariik",
+      "Etelä-Afrikka",
+      "Afrique du Sud",
+      "Južnoafrička Republika",
+      "Dél-afrikai Köztársaság",
+      "Sud Africa",
+      "南アフリカ",
+      "남아프리카",
+      "Zuid-Afrika",
+      "آفریقای جنوبی",
+      "Południowa Afryka",
+      "África do Sul",
+      "Южно-Африканская Республика",
+      "Juhoafrická republika",
+      "Sudáfrica",
+      "Sydafrika",
+      "Güney Afrika",
+      "جنوبی افریقا",
+      "南非"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Southern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "flag": {
+      "path": "/flags/ZA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SS",
+    "name": "Republic of South Sudan",
+    "aliases": [
+      "South Sudan",
+      "SS",
+      "جنوب السودان",
+      "Jižní Súdán",
+      "Südsudan",
+      "Lõuna-Sudaan",
+      "Etelä-Sudan",
+      "Soudan du Sud",
+      "Južni Sudan",
+      "Dél-Szudán",
+      "Sudan del sud",
+      "南スーダン",
+      "남수단",
+      "Zuid-Soedan",
+      "سودان جنوبی",
+      "Sudan",
+      "Sudão do Sul",
+      "Южный Судан",
+      "Južný Sudán",
+      "Sudán del Sur",
+      "Sydsudan",
+      "Güney Sudan",
+      "جنوبی سوڈان",
+      "南苏丹"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "Juba"
+    ],
+    "flag": {
+      "path": "/flags/SS.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SR",
+    "name": "Republic of Suriname",
+    "aliases": [
+      "Suriname",
+      "SR",
+      "Sarnam",
+      "Sranangron",
+      "Republic of Suriname",
+      "Republiek Suriname",
+      "سورينام",
+      "Surinam",
+      "スリナム",
+      "수리남",
+      "سورینام",
+      "Суринам",
+      "سرینام",
+      "苏里南"
+    ],
+    "continents": [
+      "South America"
+    ],
+    "groups": [
+      "South America",
+      "Latin American and Caribbean Group"
+    ],
+    "capitals": [
+      "Paramaribo"
+    ],
+    "flag": {
+      "path": "/flags/SR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TJ",
+    "name": "Republic of Tajikistan",
+    "aliases": [
+      "Tajikistan",
+      "TJ",
+      "Toçikiston",
+      "Republic of Tajikistan",
+      "Ҷумҳурии Тоҷикистон",
+      "Çumhuriyi Toçikiston",
+      "طاجيكستان",
+      "Tádžikistán",
+      "Tadschikistan",
+      "Tadžikistan",
+      "Tadjikistan",
+      "Tađikistan",
+      "Tádzsikisztán",
+      "Tagikistan",
+      "タジキスタン",
+      "타지키스탄",
+      "Tadzjikistan",
+      "تاجیکِستان",
+      "Tadżykistan",
+      "Tajiquistão",
+      "Таджикистан",
+      "Taǆikistan",
+      "Tayikistán",
+      "Tacikistan",
+      "تاجکستان",
+      "塔吉克斯坦"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Central Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Dushanbe"
+    ],
+    "flag": {
+      "path": "/flags/TJ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CG",
+    "name": "Republic of the Congo",
+    "aliases": [
+      "Republic of the Congo",
+      "CG",
+      "Congo",
+      "Congo-Brazzaville",
+      "جمهورية الكونغو",
+      "Kongo",
+      "Kongo Vabariik",
+      "Kongo-Brazzaville",
+      "Kongói Köztársaság",
+      "コンゴ共和国",
+      "콩고",
+      "جمهوری کُنگو",
+      "Республика Конго",
+      "Kongo, Republika",
+      "Kongo Cumhuriyeti",
+      "جمہوریہ کانگو",
+      "刚果"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Middle Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Brazzaville"
+    ],
+    "flag": {
+      "path": "/flags/CG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GM",
+    "name": "Republic of the Gambia",
+    "aliases": [
+      "Gambia",
+      "GM",
+      "Republic of the Gambia",
+      "غامبيا",
+      "Gambie",
+      "Gambija",
+      "ガンビア",
+      "감비아",
+      "گامبیا",
+      "Gâmbia",
+      "Гамбия",
+      "Gambiya",
+      "گیمبیا",
+      "冈比亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group",
+      "Sahel Region",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Banjul"
+    ],
+    "flag": {
+      "path": "/flags/GM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MV",
+    "name": "Republic of the Maldives",
+    "aliases": [
+      "Maldives",
+      "MV",
+      "Maldive Islands",
+      "Republic of the Maldives",
+      "Dhivehi Raajjeyge Jumhooriyya",
+      "المالديف",
+      "Maledivy",
+      "Malediven",
+      "Maldiivid",
+      "Malediivit",
+      "Maldivi",
+      "Maldív-szigetek",
+      "Maldive",
+      "モルディブ",
+      "몰디브",
+      "Maldiven",
+      "مالدیو",
+      "Malediwy",
+      "Maldivas",
+      "Мальдивы",
+      "Maldivy",
+      "Maldiverna",
+      "Maldivler",
+      "مالدیپ",
+      "马尔代夫"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Southern Asia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Malé",
+      "Male"
+    ],
+    "flag": {
+      "path": "/flags/MV.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MH",
+    "name": "Republic of the Marshall Islands",
+    "aliases": [
+      "Marshall Islands",
+      "MH",
+      "Republic of the Marshall Islands",
+      "Aolepān Aorōkin M̧ajeļ",
+      "جزر مارشال",
+      "Marshallovy ostrovy",
+      "Marshallinseln",
+      "Marshalli Saared",
+      "Marshallinsaaret",
+      "Îles Marshall",
+      "Maršalovi Otoci",
+      "Marshall-szigetek",
+      "Isole Marshall",
+      "マーシャル諸島",
+      "마셜 제도",
+      "Marshalleilanden",
+      "جزایر مارشال",
+      "Wyspy Marshalla",
+      "Ilhas Marshall",
+      "Маршалловы Острова",
+      "Marshallove ostrovy",
+      "Islas Marshall",
+      "Maršalska Ostrva",
+      "Marshallöarna",
+      "Marshall Adaları",
+      "جزائر مارشل",
+      "马绍尔群岛"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Micronesia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Majuro"
+    ],
+    "flag": {
+      "path": "/flags/MH.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "PH",
+    "name": "Republic of the Philippines",
+    "aliases": [
+      "Philippines",
+      "PH",
+      "Republic of the Philippines",
+      "Repúblika ng Pilipinas",
+      "الفلبين",
+      "Filipíny",
+      "Philippinen",
+      "Filipiinid",
+      "Filippiinit",
+      "Filipini",
+      "Fülöp-szigetek",
+      "Filippine",
+      "フィリピン",
+      "필리핀",
+      "Filipijnen",
+      "فیلیپین",
+      "Filipiny",
+      "Filipinas",
+      "Филиппины",
+      "Filippinerna",
+      "Filipinler",
+      "فلپائن",
+      "菲律宾"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia"
+    ],
+    "capitals": [
+      "Manila"
+    ],
+    "flag": {
+      "path": "/flags/PH.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SD",
+    "name": "Republic of the Sudan",
+    "aliases": [
+      "Sudan",
+      "SD",
+      "Republic of the Sudan",
+      "Jumhūrīyat as-Sūdān",
+      "السودان",
+      "Súdán",
+      "Sudaan",
+      "Soudan",
+      "Szudán",
+      "スーダン",
+      "수단",
+      "Soedan",
+      "سودان",
+      "Sudão",
+      "Судан",
+      "Sudán",
+      "苏丹"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Northern Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "Khartoum"
+    ],
+    "flag": {
+      "path": "/flags/SD.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MM",
+    "name": "Republic of the Union of Myanmar",
+    "aliases": [
+      "Myanmar",
+      "MM",
+      "Burma",
+      "Republic of the Union of Myanmar",
+      "Pyidaunzu Thanmăda Myăma Nainngandaw",
+      "ميانمار",
+      "Birmanie",
+      "Mijanmar",
+      "Mianmar",
+      "Birmania",
+      "ミャンマー",
+      "미얀마",
+      "میانمار",
+      "Mjanma",
+      "Мьянма",
+      "Mjanmarsko",
+      "Mjanmar",
+      "缅甸"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia"
+    ],
+    "capitals": [
+      "Naypyidaw"
+    ],
+    "flag": {
+      "path": "/flags/MM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TT",
+    "name": "Republic of Trinidad and Tobago",
+    "aliases": [
+      "Trinidad and Tobago",
+      "TT",
+      "Republic of Trinidad and Tobago",
+      "ترينيداد وتوباغو",
+      "Trinidad a Tobago",
+      "Trinidad und Tobago",
+      "Trinidad ja Tobago",
+      "Trinité-et-Tobago",
+      "Trinidad i Tobago",
+      "Trinidad és Tobago",
+      "Trinidad e Tobago",
+      "トリニダード・トバゴ",
+      "트리니다드 토바고",
+      "Trinidad en Tobago",
+      "ترینیداد و توباگو",
+      "Trynidad i Tobago",
+      "Trinidade e Tobago",
+      "Тринидад и Тобаго",
+      "Trinidad y Tobago",
+      "Trinidad och Tobago",
+      "Trinidad ve Tobago",
+      "ٹرینیڈاڈ و ٹوباگو",
+      "特立尼达和多巴哥"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Port of Spain"
+    ],
+    "flag": {
+      "path": "/flags/TT.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TR",
+    "name": "Republic of Türkiye",
+    "aliases": [
+      "Türkiye",
+      "TR",
+      "Turkiye",
+      "Republic of Turkey",
+      "Türkiye Cumhuriyeti",
+      "تركيا",
+      "Turecko",
+      "Türkei",
+      "Türgi",
+      "Turkki",
+      "Turquie",
+      "Turska",
+      "Törökország",
+      "Turchia",
+      "トルコ",
+      "터키",
+      "Turkije",
+      "ترکیه",
+      "Turcja",
+      "Turquia",
+      "Турция",
+      "Turquía",
+      "Turkiet",
+      "ترکی",
+      "土耳其"
+    ],
+    "continents": [
+      "Europe",
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Western European and Others Group",
+      "NATO"
+    ],
+    "capitals": [
+      "Ankara"
+    ],
+    "flag": {
+      "path": "/flags/TR.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "UG",
+    "name": "Republic of Uganda",
+    "aliases": [
+      "Uganda",
+      "UG",
+      "Republic of Uganda",
+      "Jamhuri ya Uganda",
+      "أوغندا",
+      "Ouganda",
+      "ウガンダ",
+      "우간다",
+      "Oeganda",
+      "اوگاندا",
+      "Уганда",
+      "یوگنڈا",
+      "乌干达"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Kampala"
+    ],
+    "flag": {
+      "path": "/flags/UG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "UZ",
+    "name": "Republic of Uzbekistan",
+    "aliases": [
+      "Uzbekistan",
+      "UZ",
+      "Republic of Uzbekistan",
+      "O‘zbekiston Respublikasi",
+      "Ўзбекистон Республикаси",
+      "أوزباكستان",
+      "Uzbekistán",
+      "Usbekistan",
+      "Ouzbékistan",
+      "Üzbegisztán",
+      "ウズベキスタン",
+      "우즈베키스탄",
+      "Oezbekistan",
+      "ازبکستان",
+      "Uzbequistão",
+      "Узбекистан",
+      "özbekistan",
+      "乌兹别克斯坦"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Central Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Tashkent"
+    ],
+    "flag": {
+      "path": "/flags/UZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "VU",
+    "name": "Republic of Vanuatu",
+    "aliases": [
+      "Vanuatu",
+      "VU",
+      "Republic of Vanuatu",
+      "Ripablik blong Vanuatu",
+      "République de Vanuatu",
+      "فانواتو",
+      "バヌアツ",
+      "바누아투",
+      "وانواتو",
+      "Вануату",
+      "瓦努阿图"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Melanesia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Port Vila"
+    ],
+    "flag": {
+      "path": "/flags/VU.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "YE",
+    "name": "Republic of Yemen",
+    "aliases": [
+      "Yemen",
+      "YE",
+      "Yemeni Republic",
+      "al-Jumhūriyyah al-Yamaniyyah",
+      "اليمن",
+      "Jemen",
+      "Jeemen",
+      "Yémen",
+      "イエメン",
+      "예멘",
+      "یمن",
+      "Iémen",
+      "Йемен",
+      "也门"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Sana'a"
+    ],
+    "flag": {
+      "path": "/flags/YE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ZM",
+    "name": "Republic of Zambia",
+    "aliases": [
+      "Zambia",
+      "ZM",
+      "Republic of Zambia",
+      "زامبيا",
+      "Zambie",
+      "Sambia",
+      "Zambija",
+      "ザンビア",
+      "잠비아",
+      "زامبیا",
+      "Zâmbia",
+      "Замбия",
+      "Zambiya",
+      "زیمبیا",
+      "赞比亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Lusaka"
+    ],
+    "flag": {
+      "path": "/flags/ZM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ZW",
+    "name": "Republic of Zimbabwe",
+    "aliases": [
+      "Zimbabwe",
+      "ZW",
+      "Republic of Zimbabwe",
+      "زيمبابوي",
+      "Simbabwe",
+      "Zimbabve",
+      "ジンバブエ",
+      "짐바브웨",
+      "زیمبابوه",
+      "Зимбабве",
+      "Zimbabue",
+      "زمبابوے",
+      "津巴布韦"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Harare"
+    ],
+    "flag": {
+      "path": "/flags/ZW.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "RO",
+    "name": "Romania",
+    "aliases": [
+      "Romania",
+      "RO",
+      "Rumania",
+      "Roumania",
+      "România",
+      "رومانيا",
+      "Rumunsko",
+      "Rumänien",
+      "Rumeenia",
+      "Roumanie",
+      "Rumunjska",
+      "Románia",
+      "ルーマニア",
+      "루마니아",
+      "Roemenië",
+      "رومانی",
+      "Rumunia",
+      "Roménia",
+      "Румыния",
+      "Rumunija",
+      "Romanya",
+      "رومانیہ",
+      "罗马尼亚"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Southeast Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO",
+      "Balkan States"
+    ],
+    "capitals": [
+      "Bucharest"
+    ],
+    "flag": {
+      "path": "/flags/RO.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "RU",
+    "name": "Russian Federation",
+    "aliases": [
+      "Russia",
+      "RU",
+      "Russian Federation",
+      "Российская Федерация",
+      "روسيا",
+      "Rusko",
+      "Russland",
+      "Venemaa",
+      "Venäjä",
+      "Russie",
+      "Rusija",
+      "Oroszország",
+      "ロシア",
+      "러시아",
+      "Rusland",
+      "روسیه",
+      "Rosja",
+      "Rússia",
+      "Россия",
+      "Rusia",
+      "Ryssland",
+      "Rusya",
+      "روس",
+      "俄罗斯"
+    ],
+    "continents": [
+      "Europe",
+      "Asia"
+    ],
+    "groups": [
+      "Eastern Europe",
+      "Eastern European Group"
+    ],
+    "capitals": [
+      "Moscow"
+    ],
+    "flag": {
+      "path": "/flags/RU.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LC",
+    "name": "Saint Lucia",
+    "aliases": [
+      "Saint Lucia",
+      "LC",
+      "سانت لوسيا",
+      "Svatá Lucie",
+      "St. Lucia",
+      "Sainte-Lucie",
+      "Sveta Lucija",
+      "Santa Lucia",
+      "セントルシア",
+      "세인트루시아",
+      "سنت لوسیا",
+      "Santa Lúcia",
+      "Сент-Люсия",
+      "Svätá Lucia",
+      "Santa Lucía",
+      "سینٹ لوسیا",
+      "圣卢西亚"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Castries"
+    ],
+    "flag": {
+      "path": "/flags/LC.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "aliases": [
+      "Saint Vincent and the Grenadines",
+      "VC",
+      "سانت فينسنت والغرينادين",
+      "Svatý Vincenc a Grenadiny",
+      "St. Vincent und die Grenadinen",
+      "Saint Vincent",
+      "Saint Vincent ja Grenadiinit",
+      "Saint-Vincent-et-les-Grenadines",
+      "Sveti Vincent i Grenadini",
+      "Saint Vincent és a Grenadine-szigetek",
+      "Saint Vincent e Grenadine",
+      "セントビンセント・グレナディーン",
+      "세인트빈센트 그레나딘",
+      "Saint Vincent en de Grenadines",
+      "سنت وینسنت و گرنادین‌ها",
+      "Saint Vincent i Grenadyny",
+      "São Vincente e Granadinas",
+      "Сент-Винсент и Гренадины",
+      "Svätý Vincent a Grenadíny",
+      "San Vicente y Granadinas",
+      "Sveti Vinsent i Grenadini",
+      "Saint Vincent och Grenadinerna",
+      "Saint Vincent ve Grenadinler",
+      "سینٹ وینسینٹ و گریناڈائنز",
+      "圣文森特和格林纳丁斯"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "Caribbean",
+      "Latin American and Caribbean Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Kingstown"
+    ],
+    "flag": {
+      "path": "/flags/VC.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SK",
+    "name": "Slovak Republic",
+    "aliases": [
+      "Slovakia",
+      "SK",
+      "Slovak Republic",
+      "Slovenská republika",
+      "سلوفاكيا",
+      "Slovensko",
+      "Slowakei",
+      "Slovakkia",
+      "Slovaquie",
+      "Slovačka",
+      "Szlovákia",
+      "Slovacchia",
+      "スロバキア",
+      "슬로바키아",
+      "Slowakije",
+      "اِسلُواکی",
+      "Słowacja",
+      "Eslováquia",
+      "Словакия",
+      "Eslovaquia",
+      "Slovakien",
+      "Slovakya",
+      "سلوواکیہ",
+      "斯洛伐克"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Central Europe",
+      "Eastern European Group",
+      "European Union",
+      "NATO"
+    ],
+    "capitals": [
+      "Bratislava"
+    ],
+    "flag": {
+      "path": "/flags/SK.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "VN",
+    "name": "Socialist Republic of Vietnam",
+    "aliases": [
+      "Vietnam",
+      "VN",
+      "Socialist Republic of Vietnam",
+      "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+      "Viet Nam",
+      "فيتنام",
+      "Viêt Nam",
+      "Vijetnam",
+      "Vietnám",
+      "ベトナム",
+      "베트남",
+      "ویتنام",
+      "Wietnam",
+      "Vietname",
+      "Вьетнам",
+      "越南"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "South-Eastern Asia",
+      "Asia and the Pacific Group",
+      "Southeast Asia"
+    ],
+    "capitals": [
+      "Hanoi"
+    ],
+    "flag": {
+      "path": "/flags/VN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SB",
+    "name": "Solomon Islands",
+    "aliases": [
+      "Solomon Islands",
+      "SB",
+      "جزر سليمان",
+      "Šalamounovy ostrovy",
+      "Salomonen",
+      "Saalomoni Saared",
+      "Salomonsaaret",
+      "Îles Salomon",
+      "Solomonski Otoci",
+      "Salamon-szigetek",
+      "Isole Salomone",
+      "ソロモン諸島",
+      "솔로몬 제도",
+      "Salomonseilanden",
+      "جزایر سلیمان",
+      "Wyspy Salomona",
+      "Ilhas Salomão",
+      "Соломоновы Острова",
+      "Salomonove ostrovy",
+      "Islas Salomón",
+      "Solomonova Ostrva",
+      "Salomonöarna",
+      "Solomon Adaları",
+      "جزائر سلیمان",
+      "所罗门群岛"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Melanesia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Honiara"
+    ],
+    "flag": {
+      "path": "/flags/SB.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "ER",
+    "name": "State of Eritrea",
+    "aliases": [
+      "Eritrea",
+      "ER",
+      "State of Eritrea",
+      "ሃገረ ኤርትራ",
+      "Dawlat Iritriyá",
+      "ʾErtrā",
+      "Iritriyā",
+      "إريتريا",
+      "Érythrée",
+      "Eritreja",
+      "エリトリア",
+      "에리트레아",
+      "اریتره",
+      "Erytrea",
+      "Eritreia",
+      "Эритрея",
+      "Eritre",
+      "ارتریا",
+      "厄立特里亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Sahel Region"
+    ],
+    "capitals": [
+      "Asmara"
+    ],
+    "flag": {
+      "path": "/flags/ER.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "IL",
+    "name": "State of Israel",
+    "aliases": [
+      "Israel",
+      "IL",
+      "State of Israel",
+      "Medīnat Yisrā'el",
+      "إسرائيل",
+      "Izrael",
+      "Iisrael",
+      "Israël",
+      "Israele",
+      "イスラエル",
+      "이스라엘",
+      "فلسطين اشغالی",
+      "Израиль",
+      "İsrail",
+      "اسرائیل",
+      "以色列"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Western European and Others Group"
+    ],
+    "capitals": [
+      "Jerusalem"
+    ],
+    "flag": {
+      "path": "/flags/IL.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KW",
+    "name": "State of Kuwait",
+    "aliases": [
+      "Kuwait",
+      "KW",
+      "State of Kuwait",
+      "Dawlat al-Kuwait",
+      "الكويت",
+      "Kuvajt",
+      "Kuveit",
+      "Koweït",
+      "Kuvait",
+      "クウェート",
+      "쿠웨이트",
+      "Koeweit",
+      "کُویت",
+      "Kuwejt",
+      "Кувейт",
+      "Kuveyt",
+      "کویت",
+      "科威特"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group",
+      "Gulf Cooperation Council"
+    ],
+    "capitals": [
+      "Kuwait City"
+    ],
+    "flag": {
+      "path": "/flags/KW.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "LY",
+    "name": "State of Libya",
+    "aliases": [
+      "Libya",
+      "LY",
+      "State of Libya",
+      "Dawlat Libya",
+      "ليبيا",
+      "Libye",
+      "Libyen",
+      "Liibüa",
+      "Libija",
+      "Líbia",
+      "Libia",
+      "リビア",
+      "리비아",
+      "Libië",
+      "لیبی",
+      "Ливия",
+      "Líbya",
+      "لیبیا",
+      "利比亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Northern Africa",
+      "African Group",
+      "Maghreb"
+    ],
+    "capitals": [
+      "Tripoli"
+    ],
+    "flag": {
+      "path": "/flags/LY.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "QA",
+    "name": "State of Qatar",
+    "aliases": [
+      "Qatar",
+      "QA",
+      "State of Qatar",
+      "Dawlat Qaṭar",
+      "قطر",
+      "Katar",
+      "カタール",
+      "카타르",
+      "Catar",
+      "Катар",
+      "卡塔尔"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group",
+      "Gulf Cooperation Council"
+    ],
+    "capitals": [
+      "Doha"
+    ],
+    "flag": {
+      "path": "/flags/QA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "OM",
+    "name": "Sultanate of Oman",
+    "aliases": [
+      "Oman",
+      "OM",
+      "Sultanate of Oman",
+      "Salṭanat ʻUmān",
+      "عمان",
+      "Omán",
+      "Omaan",
+      "oman",
+      "オマーン",
+      "오만",
+      "Omã",
+      "Оман",
+      "Umman",
+      "阿曼"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group",
+      "Gulf Cooperation Council"
+    ],
+    "capitals": [
+      "Muscat"
+    ],
+    "flag": {
+      "path": "/flags/OM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "CH",
+    "name": "Swiss Confederation",
+    "aliases": [
+      "Switzerland",
+      "CH",
+      "Swiss Confederation",
+      "Schweiz",
+      "Suisse",
+      "Svizzera",
+      "Svizra",
+      "سويسرا",
+      "Švýcarsko",
+      "Šveits",
+      "Sveitsi",
+      "Švicarska",
+      "Svájc",
+      "スイス",
+      "스위스",
+      "Zwitserland",
+      "سوئیس",
+      "Szwajcaria",
+      "Suíça",
+      "Швейцария",
+      "Švajčiarsko",
+      "Suiza",
+      "Švajcarska",
+      "İsviçre",
+      "سویٹذرلینڈ",
+      "瑞士"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Western Europe",
+      "Western European and Others Group",
+      "Central Europe"
+    ],
+    "capitals": [
+      "Bern"
+    ],
+    "flag": {
+      "path": "/flags/CH.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "SY",
+    "name": "Syrian Arab Republic",
+    "aliases": [
+      "Syria",
+      "SY",
+      "Syrian Arab Republic",
+      "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah",
+      "سوريا",
+      "Sýrie",
+      "Syrien",
+      "Süüria",
+      "Syyria",
+      "Syrie",
+      "Sirija",
+      "Szíria",
+      "Siria",
+      "シリア",
+      "시리아",
+      "Syrië",
+      "سوریه",
+      "Síria",
+      "Сирия",
+      "Sýria",
+      "Suriye",
+      "سوریہ",
+      "叙利亚"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Damascus"
+    ],
+    "flag": {
+      "path": "/flags/SY.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TG",
+    "name": "Togolese Republic",
+    "aliases": [
+      "Togo",
+      "TG",
+      "Togolese",
+      "Togolese Republic",
+      "République Togolaise",
+      "توغو",
+      "トーゴ",
+      "토고",
+      "توگو",
+      "Того",
+      "ٹوگو",
+      "多哥"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Western Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Lomé",
+      "Lome"
+    ],
+    "flag": {
+      "path": "/flags/TG.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TN",
+    "name": "Tunisian Republic",
+    "aliases": [
+      "Tunisia",
+      "TN",
+      "Republic of Tunisia",
+      "al-Jumhūriyyah at-Tūnisiyyah",
+      "تونس",
+      "Tunisko",
+      "Tunesien",
+      "Tuneesia",
+      "Tunisie",
+      "Tunis",
+      "Tunézia",
+      "チュニジア",
+      "튀니지",
+      "Tunesië",
+      "Tunezja",
+      "Tunísia",
+      "Тунис",
+      "Túnez",
+      "Tunisien",
+      "Tunus",
+      "突尼斯"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Northern Africa",
+      "African Group",
+      "Maghreb"
+    ],
+    "capitals": [
+      "Tunis"
+    ],
+    "flag": {
+      "path": "/flags/TN.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TM",
+    "name": "Turkmenistan",
+    "aliases": [
+      "Turkmenistan",
+      "TM",
+      "تركمانستان",
+      "Turkmenistán",
+      "Türkmenistan",
+      "Turkménistan",
+      "Türkmenisztán",
+      "トルクメニスタン",
+      "투르크메니스탄",
+      "ترکمنستان",
+      "Turquemenistão",
+      "Туркмения",
+      "Turkménsko",
+      "ترکمانستان",
+      "土库曼斯坦"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Central Asia",
+      "Asia and the Pacific Group"
+    ],
+    "capitals": [
+      "Ashgabat"
+    ],
+    "flag": {
+      "path": "/flags/TM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TV",
+    "name": "Tuvalu",
+    "aliases": [
+      "Tuvalu",
+      "TV",
+      "توفالو",
+      "ツバル",
+      "투발루",
+      "تووالو",
+      "Тувалу",
+      "图瓦卢"
+    ],
+    "continents": [
+      "Oceania"
+    ],
+    "groups": [
+      "Polynesia",
+      "Asia and the Pacific Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Funafuti"
+    ],
+    "flag": {
+      "path": "/flags/TV.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "UA",
+    "name": "Ukraine",
+    "aliases": [
+      "Ukraine",
+      "UA",
+      "Ukrayina",
+      "أوكرانيا",
+      "Ukrajina",
+      "Ukraina",
+      "Ukrajna",
+      "Ucraina",
+      "ウクライナ",
+      "우크라이나",
+      "Oekraïne",
+      "اوکراین",
+      "Ucrânia",
+      "Украина",
+      "Ucrania",
+      "Ukrayna",
+      "یوکرین",
+      "乌克兰"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Eastern Europe",
+      "Eastern European Group"
+    ],
+    "capitals": [
+      "Kyiv"
+    ],
+    "flag": {
+      "path": "/flags/UA.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "KM",
+    "name": "Union of the Comoros",
+    "aliases": [
+      "Comoros",
+      "KM",
+      "Union of the Comoros",
+      "Union des Comores",
+      "Udzima wa Komori",
+      "al-Ittiḥād al-Qumurī",
+      "جزر القمر",
+      "Komory",
+      "Komoren",
+      "Komoorid",
+      "Komorit",
+      "Comores",
+      "Komori",
+      "Comore-szigetek",
+      "Comore",
+      "コモロ",
+      "코모로",
+      "Comoren",
+      "اتحاد قُمُر",
+      "Коморы",
+      "Comoras",
+      "Komorerna",
+      "Komorlar",
+      "القمری",
+      "科摩罗"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group"
+    ],
+    "capitals": [
+      "Moroni"
+    ],
+    "flag": {
+      "path": "/flags/KM.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "AE",
+    "name": "United Arab Emirates",
+    "aliases": [
+      "United Arab Emirates",
+      "AE",
+      "UAE",
+      "Emirates",
+      "الإمارات",
+      "Spojené arabské emiráty",
+      "Vereinigte Arabische Emirate",
+      "Araabia Ühendemiraadid",
+      "Arabiemiraatit",
+      "Émirats arabes unis",
+      "Ujedinjeni Arapski Emirati",
+      "Egyesült Arab Emírségek",
+      "Emirati Arabi Uniti",
+      "아랍에미리트",
+      "Verenigde Arabische Emiraten",
+      "امارات",
+      "Zjednoczone Emiraty Arabskie",
+      "Emirados Árabes Unidos",
+      "Объединённые Арабские Эмираты",
+      "Emiratos Árabes Unidos",
+      "Förenade Arabemiraten",
+      "Birleşik Arap Emirlikleri",
+      "متحدہ عرب امارات",
+      "阿拉伯联合酋长国"
+    ],
+    "continents": [
+      "Asia"
+    ],
+    "groups": [
+      "Western Asia",
+      "Asia and the Pacific Group",
+      "Gulf Cooperation Council"
+    ],
+    "capitals": [
+      "Abu Dhabi"
+    ],
+    "flag": {
+      "path": "/flags/AE.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "GB",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "aliases": [
+      "United Kingdom",
+      "GB",
+      "UK",
+      "Great Britain",
+      "المملكة المتحدة",
+      "Spojené království",
+      "Vereinigtes Königreich",
+      "Suurbritannia",
+      "Yhdistynyt kuningaskunta",
+      "Royaume-Uni",
+      "Ujedinjeno Kraljevstvo",
+      "Egyesült Királyság",
+      "Regno Unito",
+      "イギリス",
+      "영국",
+      "Verenigd Koninkrijk",
+      "انگلیس",
+      "Zjednoczone Królestwo",
+      "Reino Unido",
+      "Великобритания",
+      "Veľká Británia (Spojené kráľovstvo)",
+      "Storbritannien",
+      "Birleşik Krallık",
+      "مملکتِ متحدہ",
+      "英国"
+    ],
+    "continents": [
+      "Europe"
+    ],
+    "groups": [
+      "Northern Europe",
+      "Western European and Others Group",
+      "NATO",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "London"
+    ],
+    "flag": {
+      "path": "/flags/GB.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "MX",
+    "name": "United Mexican States",
+    "aliases": [
+      "Mexico",
+      "MX",
+      "Mexicanos",
+      "United Mexican States",
+      "Estados Unidos Mexicanos",
+      "المسكيك",
+      "Mexiko",
+      "Mehhiko",
+      "Meksiko",
+      "Mexique",
+      "Mexikó",
+      "Messico",
+      "メキシコ",
+      "멕시코",
+      "مکزیک",
+      "Meksyk",
+      "México",
+      "Мексика",
+      "Meksika",
+      "میکسیکو",
+      "墨西哥"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "North America",
+      "Latin American and Caribbean Group",
+      "Latin America"
+    ],
+    "capitals": [
+      "Mexico City"
+    ],
+    "flag": {
+      "path": "/flags/MX.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "TZ",
+    "name": "United Republic of Tanzania",
+    "aliases": [
+      "Tanzania",
+      "TZ",
+      "Tanzania, United Republic of",
+      "United Republic of Tanzania",
+      "Jamhuri ya Muungano wa Tanzania",
+      "تنزانيا",
+      "Tanzanie",
+      "Tansania",
+      "Tansaania",
+      "Tanzanija",
+      "Tádzsikisztán",
+      "タンザニア",
+      "탄자니아",
+      "تانزانیا",
+      "Tanzânia",
+      "Танзания",
+      "Tanzánia",
+      "Tanzanya",
+      "تنزانیہ",
+      "坦桑尼亚"
+    ],
+    "continents": [
+      "Africa"
+    ],
+    "groups": [
+      "Eastern Africa",
+      "African Group",
+      "Commonwealth of Nations"
+    ],
+    "capitals": [
+      "Dodoma"
+    ],
+    "flag": {
+      "path": "/flags/TZ.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  },
+  {
+    "id": "US",
+    "name": "United States of America",
+    "aliases": [
+      "United States",
+      "US",
+      "USA",
+      "United States of America",
+      "الولايات المتحدة",
+      "Spojené státy",
+      "Vereinigte Staaten",
+      "Ameerika Ühendriigid",
+      "Yhdysvallat",
+      "États-Unis",
+      "Sjedinjene Američke Države",
+      "Amerikai Egyesült Államok",
+      "Stati Uniti d'America",
+      "アメリカ",
+      "미국",
+      "Verenigde Staten",
+      "ایالات متحده آمریکا",
+      "Stany Zjednoczone",
+      "Estados Unidos",
+      "Соединённые Штаты Америки",
+      "Spojené štáty americké",
+      "SAD",
+      "Amerika Birleşik Devletleri",
+      "ریاستہائے متحدہ",
+      "美国"
+    ],
+    "continents": [
+      "North America"
+    ],
+    "groups": [
+      "North America",
+      "Western European and Others Group",
+      "NATO"
+    ],
+    "capitals": [
+      "Washington D.C."
+    ],
+    "flag": {
+      "path": "/flags/US.svg",
+      "source": "country-flag-icons",
+      "license": "MIT",
+      "attributionRequired": false
+    }
+  }
+]

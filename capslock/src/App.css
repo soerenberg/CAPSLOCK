@@ -1,38 +1,379 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=IBM+Plex+Mono:wght@400;600&family=JetBrains+Mono:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap');
+
+.app-shell {
+  min-height: 100vh;
+  color: var(--text);
+  font-family: var(--app-font, 'JetBrains Mono', monospace);
+  background: radial-gradient(circle at top, var(--surface), var(--bg));
+  padding: 32px 16px 80px;
+}
+
+.app-shell[data-theme='latte'] {
+  --bg: #eff1f5;
+  --surface: #e6e9ef;
+  --surface-strong: #ccd0da;
+  --text: #4c4f69;
+  --muted: #6c6f85;
+  --accent: #1e66f5;
+  --green: #40a02b;
+  --red: #d20f39;
+}
+
+.app-shell[data-theme='frappe'] {
+  --bg: #303446;
+  --surface: #292c3c;
+  --surface-strong: #414559;
+  --text: #c6d0f5;
+  --muted: #a5adce;
+  --accent: #8caaee;
+  --green: #a6d189;
+  --red: #e78284;
+}
+
+.app-shell[data-theme='macchiato'] {
+  --bg: #24273a;
+  --surface: #1e2030;
+  --surface-strong: #363a4f;
+  --text: #cad3f5;
+  --muted: #a5adcb;
+  --accent: #8aadf4;
+  --green: #a6da95;
+  --red: #ed8796;
+}
+
+.app-shell[data-theme='mocha'] {
+  --bg: #1e1e2e;
+  --surface: #181825;
+  --surface-strong: #313244;
+  --text: #cdd6f4;
+  --muted: #a6adc8;
+  --accent: #89b4fa;
+  --green: #a6e3a1;
+  --red: #f38ba8;
+}
+
+.app-container {
+  max-width: 1100px;
+}
+
+.app-title {
+  text-align: center;
+  font-size: 2.4rem;
+  letter-spacing: 0.4rem;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.app-card {
+  background: color-mix(in srgb, var(--surface) 85%, transparent);
+  border: 1px solid color-mix(in srgb, var(--surface-strong) 70%, transparent);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+  border-radius: 18px;
+}
+
+.app-card .list-group-item {
+  background: color-mix(in srgb, var(--surface) 70%, transparent);
+  color: var(--text);
+  border: 1px solid color-mix(in srgb, var(--surface-strong) 60%, transparent);
+}
+
+.btn-primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--bg);
+}
+
+.btn-outline-light {
+  color: var(--text);
+  border-color: color-mix(in srgb, var(--surface-strong) 70%, transparent);
+}
+
+.btn-outline-light:hover {
+  background: color-mix(in srgb, var(--surface-strong) 25%, transparent);
+  color: var(--text);
+}
+
+.btn-outline-light:disabled,
+.btn-outline-light.disabled {
+  color: color-mix(in srgb, var(--muted) 70%, transparent);
+  border-color: color-mix(in srgb, var(--surface-strong) 30%, transparent);
+}
+
+.menu-block {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.menu-label {
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.2rem;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.menu-sub {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.12rem;
+}
+
+.menu-scroll {
+  max-height: 160px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-right: 4px;
+}
+
+.menu-button {
+  text-align: left;
+  border-radius: 12px;
+  font-weight: 600;
+}
+
+.start-button {
+  padding: 12px 40px;
+  font-size: 1.1rem;
+  background: var(--accent);
+  border: none;
+}
+
+.menu-start {
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+}
+
+.quiz-card {
+  position: relative;
+}
+
+.prompt-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.prompt-label {
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.prompt-value {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.flag-large {
+  width: 120px;
+  border-radius: 8px;
+  border: 1px solid color-mix(in srgb, var(--surface-strong) 60%, transparent);
+}
+
+.flag-inline {
+  width: 28px;
+  margin-right: 10px;
+  border-radius: 4px;
+  border: 1px solid color-mix(in srgb, var(--surface-strong) 60%, transparent);
+}
+
+.input-row {
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+  flex-wrap: wrap;
+}
+
+.guess-input {
+  flex: 1 1 220px;
+  background: transparent;
+  color: var(--text);
+  border: 1px solid color-mix(in srgb, var(--surface-strong) 70%, transparent);
+  border-radius: 12px;
+  padding: 10px 14px;
+}
+
+.guess-input.state-correct {
+  border-color: var(--green);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--green) 40%, transparent);
+}
+
+.guess-input.state-wrong {
+  border-color: var(--red);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--red) 40%, transparent);
+}
+
+.action-button {
+  border-radius: 12px;
+}
+
+.status-line {
+  margin-top: 12px;
+  color: var(--muted);
+}
+
+.quiz-footer {
+  margin-top: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.abort-button {
+  border-radius: 12px;
+  padding: 10px 22px;
+}
+
+.timer {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.connect-card {
+  position: relative;
+}
+
+.connect-card.state-correct::after,
+.connect-card.state-wrong::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 18px;
+  pointer-events: none;
+  opacity: 0;
+  animation: flash 0.4s ease;
+}
+
+.connect-card.state-correct::after {
+  background: color-mix(in srgb, var(--green) 18%, transparent);
+}
+
+.connect-card.state-wrong::after {
+  background: color-mix(in srgb, var(--red) 18%, transparent);
+}
+
+@keyframes flash {
+  0% {
+    opacity: 0.2;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.connect-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.connect-item {
+  border-radius: 12px;
+  border: 1px solid color-mix(in srgb, var(--surface-strong) 70%, transparent);
+  background: color-mix(in srgb, var(--surface) 70%, transparent);
+  color: var(--text);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: grab;
+}
+
+.connect-item.is-over {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+.connect-item.is-dragging {
+  opacity: 0.6;
+}
+
+.eval-card {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.eval-summary {
+  font-size: 1.4rem;
+  font-weight: 600;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.eval-time {
+  margin-top: 8px;
+  color: var(--muted);
 }
 
-.App-header {
-  background-color: #282c34;
+.eval-actions {
+  margin: 24px auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+
+.eval-lists {
+  margin-top: 12px;
+}
+
+.eval-empty {
+  color: var(--muted);
+  background: transparent;
+}
+
+.tool-button {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  border-radius: 999px;
+  padding: 10px 18px;
+  z-index: 10;
+}
+
+.side-menu {
+  background: var(--surface);
+  color: var(--text);
+}
+
+.side-menu .offcanvas-header,
+.side-menu .offcanvas-body {
+  background: var(--surface);
+  color: var(--text);
+}
+
+.font-select {
+  background: transparent;
+  color: var(--text);
+  border-radius: 12px;
+  border: 1px solid color-mix(in srgb, var(--surface-strong) 70%, transparent);
+  margin-top: 8px;
+}
+
+.app-loading {
   min-height: 100vh;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: var(--text);
+  font-size: 1.2rem;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media (max-width: 768px) {
+  .app-shell {
+    padding: 24px 12px 80px;
   }
-  to {
-    transform: rotate(360deg);
+
+  .prompt-value {
+    font-size: 1.4rem;
+  }
+
+  .quiz-footer {
+    flex-direction: column;
+    gap: 12px;
   }
 }
