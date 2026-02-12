@@ -249,6 +249,29 @@ const buildGroups = (country) => {
   return unique(groups);
 };
 
+const inferContinents = (country) => {
+  if (Array.isArray(country.continents) && country.continents.length) {
+    return country.continents;
+  }
+
+  const region = country.region;
+  if (region === 'Americas') {
+    const sub = country.subregion || '';
+    if (['South America'].includes(sub)) return ['South America'];
+    if (['Northern America', 'Central America', 'Caribbean'].includes(sub)) {
+      return ['North America'];
+    }
+    return ['North America'];
+  }
+
+  if (region === 'Asia') return ['Asia'];
+  if (region === 'Europe') return ['Europe'];
+  if (region === 'Africa') return ['Africa'];
+  if (region === 'Oceania') return ['Oceania'];
+  if (region === 'Antarctic') return ['Antarctica'];
+  return [];
+};
+
 const buildAliases = (country) => {
   const aliases = [];
   if (country.name?.common) aliases.push(country.name.common);
@@ -275,7 +298,7 @@ const buildCountryEntry = (country) => ({
   id: country.cca2,
   name: country.name?.official || country.name?.common || country.cca2,
   aliases: buildAliases(country),
-  continents: country.continents || [],
+  continents: inferContinents(country),
   groups: buildGroups(country),
   capitals: buildCapitals(country),
   flag: {

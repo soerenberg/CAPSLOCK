@@ -27,7 +27,9 @@
       "اینٹیگوا و باربوڈا",
       "安提瓜和巴布达"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -94,7 +96,9 @@
       "埃及",
       "阿拉伯埃及共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Northern Africa"
     ],
@@ -155,7 +159,9 @@
       "阿根廷",
       "阿根廷共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -187,7 +193,9 @@
       "بارباڈوس",
       "巴巴多斯"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -222,7 +230,9 @@
       "بیلیز",
       "伯利兹"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Central America",
       "Latin America",
@@ -282,7 +292,9 @@
       "委内瑞拉",
       "委内瑞拉玻利瓦尔共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -335,7 +347,9 @@
       "بوسنیا و ہرزیگووینا",
       "波斯尼亚和黑塞哥维那"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Balkan States",
       "Southeast Europe"
@@ -370,7 +384,9 @@
       "برکینا فاسو",
       "布基纳法索"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Sahel Region"
@@ -404,7 +420,9 @@
       "کینیڈا",
       "加拿大"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "NATO",
       "Commonwealth of Nations"
@@ -456,7 +474,9 @@
       "وسطی افریقی جمہوریہ",
       "中非共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa"
     ],
@@ -515,7 +535,9 @@
       "圭亚那",
       "圭亚那共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America",
@@ -579,7 +601,9 @@
       "澳大利亚",
       "澳大利亚联邦"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Commonwealth of Nations"
@@ -636,7 +660,9 @@
       "多米尼加",
       "多米尼加共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -700,7 +726,9 @@
       "巴哈马",
       "巴哈马联邦"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -767,7 +795,9 @@
       "捷克",
       "捷克共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Central Europe",
       "NATO",
@@ -842,7 +872,9 @@
       "朝鲜",
       "朝鲜人民民主共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "East Asia"
@@ -914,7 +946,9 @@
       "圣多美和普林西比",
       "圣多美和普林西比民主共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa",
       "Island States"
@@ -979,7 +1013,9 @@
       "民主刚果",
       "刚果民主共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa"
     ],
@@ -1052,7 +1088,9 @@
       "东帝汶",
       "东帝汶民主共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia",
@@ -1111,7 +1149,9 @@
       "斯里兰卡",
       "斯里兰卡民主社会主义共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "South Asia",
@@ -1163,7 +1203,9 @@
       "多明尼加",
       "多明尼加共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -1232,7 +1274,9 @@
       "埃塞俄比亚",
       "埃塞俄比亚联邦民主共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa"
     ],
@@ -1289,7 +1333,9 @@
       "尼泊尔",
       "尼泊尔联邦民主共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "South Asia"
@@ -1361,7 +1407,9 @@
       "德国",
       "德意志联邦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Western Europe",
       "Central Europe",
@@ -1424,7 +1472,9 @@
       "尼日利亚",
       "尼日利亚联邦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Sahel Region",
@@ -1492,7 +1542,9 @@
       "索马里",
       "索马里共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa"
     ],
@@ -1557,7 +1609,9 @@
       "密克罗尼西亚",
       "密克罗尼西亚联邦"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Micronesian",
@@ -1629,7 +1683,9 @@
       "圣基茨和尼维斯",
       "圣克里斯托弗和尼维斯联邦"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -1697,7 +1753,9 @@
       "巴西",
       "巴西联邦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -1765,7 +1823,9 @@
       "法国",
       "法兰西共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Western Europe",
       "NATO",
@@ -1825,7 +1885,9 @@
       "加蓬",
       "加蓬共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa"
     ],
@@ -1869,7 +1931,9 @@
       "جارجیا",
       "格鲁吉亚"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia",
@@ -1934,7 +1998,9 @@
       "卢森堡",
       "卢森堡大公国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Western Europe",
       "NATO",
@@ -1969,7 +2035,9 @@
       "گریناڈا",
       "格林纳达"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -2036,7 +2104,9 @@
       "约旦",
       "约旦哈希姆王国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -2106,7 +2176,9 @@
       "希腊",
       "希腊共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Southern Europe",
       "Balkan States",
@@ -2157,7 +2229,9 @@
       "Macaristan",
       "匈牙利"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Central Europe",
       "NATO",
@@ -2208,7 +2282,9 @@
       "آئس لینڈ",
       "冰岛"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "Nordics",
@@ -2265,7 +2341,9 @@
       "基里巴斯",
       "基里巴斯共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Micronesian",
@@ -2337,7 +2415,9 @@
       "آزاد ریاستِ پاپوا نیو گنی",
       "巴布亚新几内亚"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Commonwealth of Nations",
@@ -2394,7 +2474,9 @@
       "萨摩亚",
       "萨摩亚独立国"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Polynesia",
@@ -2458,7 +2540,9 @@
       "阿富汗",
       "阿富汗伊斯兰共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "South Asia"
@@ -2519,7 +2603,9 @@
       "伊朗",
       "伊朗伊斯兰共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "South Asia"
@@ -2585,7 +2671,9 @@
       "毛里塔尼亚",
       "毛里塔尼亚伊斯兰共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Sahel Region"
@@ -2644,7 +2732,9 @@
       "巴基斯坦",
       "巴基斯坦伊斯兰共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "South Asia",
@@ -2712,7 +2802,9 @@
       "意大利",
       "意大利共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Southern Europe",
       "NATO",
@@ -2749,7 +2841,9 @@
       "جمیکا",
       "牙买加"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -2796,7 +2890,9 @@
       "Japonya",
       "جاپان"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "East Asia",
@@ -2856,7 +2952,9 @@
       "巴林",
       "巴林王国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia",
@@ -2922,7 +3020,9 @@
       "比利时",
       "比利时王国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Western Europe",
       "NATO",
@@ -2982,7 +3082,9 @@
       "不丹",
       "不丹王国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "South Asia"
@@ -3049,7 +3151,9 @@
       "柬埔寨",
       "柬埔寨王国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia"
@@ -3118,7 +3222,9 @@
       "丹麦",
       "丹麦王国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "Scandinavia",
@@ -3191,7 +3297,9 @@
       "斯威士兰",
       "斯威士兰王国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Southern Africa",
       "Commonwealth of Nations"
@@ -3248,7 +3356,9 @@
       "莱索托",
       "莱索托王国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Southern Africa",
       "Commonwealth of Nations"
@@ -3312,7 +3422,9 @@
       "摩洛哥",
       "摩洛哥王国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Northern Africa"
     ],
@@ -3383,7 +3495,9 @@
       "挪威",
       "挪威王国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "Scandinavia",
@@ -3455,7 +3569,9 @@
       "沙特阿拉伯",
       "沙特阿拉伯王国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -3525,7 +3641,9 @@
       "西班牙",
       "西班牙王国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Southern Europe",
       "NATO",
@@ -3595,7 +3713,9 @@
       "瑞典",
       "瑞典王国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "Scandinavia",
@@ -3667,7 +3787,9 @@
       "泰国",
       "泰王国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia"
@@ -3727,7 +3849,9 @@
       "مملکتِ نیدرلینڈز",
       "荷兰"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Western Europe",
       "NATO",
@@ -3782,7 +3906,9 @@
       "汤加",
       "汤加王国"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Polynesia",
@@ -3854,7 +3980,9 @@
       "吉尔吉斯斯坦",
       "吉尔吉斯斯坦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Central Asia",
@@ -3914,7 +4042,9 @@
       "老挝",
       "老挝人民民主共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia"
@@ -3973,7 +4103,9 @@
       "黎巴嫩",
       "黎巴嫩共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -4018,7 +4150,9 @@
       "ملائیشیا",
       "马来西亚"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia",
@@ -4065,7 +4199,9 @@
       "منگولیا",
       "蒙古"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "East Asia"
@@ -4104,7 +4240,9 @@
       "مونٹینیگرو",
       "黑山"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Balkan States",
       "Southeast Europe",
@@ -4162,7 +4300,9 @@
       "圣马力诺",
       "圣马力诺共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Southern Europe"
     ],
@@ -4220,7 +4360,9 @@
       "文莱",
       "文莱和平之国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia",
@@ -4271,7 +4413,9 @@
       "نیوزی لینڈ",
       "新西兰"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Commonwealth of Nations",
@@ -4332,7 +4476,9 @@
       "乌拉圭",
       "乌拉圭东岸共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -4399,7 +4545,9 @@
       "阿尔及利亚",
       "阿尔及利亚人民民主共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Northern Africa"
     ],
@@ -4459,7 +4607,9 @@
       "孟加拉国",
       "孟加拉人民共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "South Asia",
@@ -4526,7 +4676,9 @@
       "çin Halk Cumhuriyeti",
       "عوامی جمہوریہ چین"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "East Asia"
@@ -4595,7 +4747,9 @@
       "玻利维亚",
       "多民族玻利维亚国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -4657,7 +4811,9 @@
       "葡萄牙",
       "葡萄牙共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Southern Europe",
       "NATO",
@@ -4714,7 +4870,9 @@
       "安道尔",
       "安道尔公国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Southern Europe"
     ],
@@ -4772,7 +4930,9 @@
       "列支敦士登",
       "列支敦士登公国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Western Europe",
       "Central Europe"
@@ -4828,7 +4988,9 @@
       "摩纳哥",
       "摩纳哥公国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Western Europe"
     ],
@@ -4895,7 +5057,9 @@
       "阿尔巴尼亚",
       "阿尔巴尼亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Balkan States",
       "Southeast Europe",
@@ -4949,7 +5113,9 @@
       "安哥拉",
       "安哥拉共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa"
     ],
@@ -5015,7 +5181,9 @@
       "亚美尼亚",
       "亚美尼亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia",
@@ -5083,7 +5251,9 @@
       "奥地利",
       "奥地利共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Central Europe",
       "European Union"
@@ -5153,7 +5323,9 @@
       "阿塞拜疆",
       "阿塞拜疆共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia",
@@ -5226,7 +5398,9 @@
       "白俄罗斯",
       "白俄罗斯共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Eastern Europe",
       "Post-Soviet States"
@@ -5281,7 +5455,9 @@
       "贝宁",
       "贝宁共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa"
     ],
@@ -5336,7 +5512,9 @@
       "博茨瓦纳",
       "博茨瓦纳共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Southern Africa",
       "Commonwealth of Nations"
@@ -5400,7 +5578,9 @@
       "保加利亚",
       "保加利亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Balkan States",
       "Southeast Europe",
@@ -5454,7 +5634,9 @@
       "布隆迪",
       "布隆迪共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa"
     ],
@@ -5517,7 +5699,9 @@
       "佛得角",
       "佛得角共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Island States"
@@ -5578,7 +5762,9 @@
       "喀麦隆",
       "喀麦隆共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa",
       "Commonwealth of Nations"
@@ -5644,7 +5830,9 @@
       "乍得",
       "乍得共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa",
       "Sahel Region"
@@ -5704,7 +5892,9 @@
       "智利",
       "智利共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -5765,7 +5955,9 @@
       "哥伦比亚",
       "哥伦比亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -5822,7 +6014,9 @@
       "哥斯达黎加",
       "哥斯达黎加共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Central America",
       "Latin America"
@@ -5894,7 +6088,9 @@
       "科特迪瓦",
       "科特迪瓦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa"
     ],
@@ -5962,7 +6158,9 @@
       "克罗地亚",
       "克罗地亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Balkan States",
       "Southeast Europe",
@@ -6021,7 +6219,9 @@
       "古巴",
       "古巴共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America"
@@ -6090,7 +6290,9 @@
       "塞浦路斯",
       "塞浦路斯共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Southern Europe",
       "European Union",
@@ -6160,7 +6362,9 @@
       "吉布提",
       "吉布提共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa"
     ],
@@ -6217,7 +6421,9 @@
       "厄瓜多尔",
       "厄瓜多尔共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -6274,7 +6480,9 @@
       "萨尔瓦多",
       "萨尔瓦多共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Central America",
       "Latin America"
@@ -6344,7 +6552,9 @@
       "赤道几内亚",
       "赤道几内亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa"
     ],
@@ -6408,7 +6618,9 @@
       "爱沙尼亚",
       "爱沙尼亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "Baltics",
@@ -6477,7 +6689,9 @@
       "斐济",
       "斐济共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Commonwealth of Nations",
@@ -6544,7 +6758,9 @@
       "芬兰",
       "芬兰共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "Nordics",
@@ -6602,7 +6818,9 @@
       "加纳",
       "加纳共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Commonwealth of Nations"
@@ -6659,7 +6877,9 @@
       "危地马拉",
       "危地马拉共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Central America",
       "Latin America"
@@ -6719,7 +6939,9 @@
       "几内亚",
       "几内亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa"
     ],
@@ -6783,7 +7005,9 @@
       "几内亚比绍",
       "几内亚比绍共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa"
     ],
@@ -6838,7 +7062,9 @@
       "海地",
       "海地共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America"
@@ -6891,7 +7117,9 @@
       "洪都拉斯",
       "洪都拉斯共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Central America",
       "Latin America"
@@ -6954,7 +7182,9 @@
       "印度",
       "印度共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "South Asia",
@@ -7020,7 +7250,9 @@
       "印度尼西亚",
       "印度尼西亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia",
@@ -7080,7 +7312,9 @@
       "伊拉克",
       "伊拉克共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -7142,7 +7376,9 @@
       "爱尔兰",
       "爱尔兰共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "European Union",
@@ -7213,7 +7449,9 @@
       "哈萨克斯坦",
       "哈萨克斯坦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Central Asia",
@@ -7275,7 +7513,9 @@
       "肯尼亚",
       "肯尼亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Commonwealth of Nations"
@@ -7348,7 +7588,9 @@
       "韩国",
       "大韩民国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "East Asia"
@@ -7417,7 +7659,9 @@
       "拉脱维亚",
       "拉脱维亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "Baltics",
@@ -7480,7 +7724,9 @@
       "利比里亚",
       "利比里亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa"
     ],
@@ -7547,7 +7793,9 @@
       "立陶宛",
       "立陶宛共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "Baltics",
@@ -7608,7 +7856,9 @@
       "马达加斯加",
       "马达加斯加共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Island States"
@@ -7664,7 +7914,9 @@
       "马拉维",
       "马拉维共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Commonwealth of Nations"
@@ -7716,7 +7968,9 @@
       "马里",
       "马里共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Sahel Region"
@@ -7772,7 +8026,9 @@
       "马耳他",
       "马耳他共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Southern Europe",
       "European Union",
@@ -7835,7 +8091,9 @@
       "毛里求斯",
       "毛里求斯共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Commonwealth of Nations",
@@ -7901,7 +8159,9 @@
       "摩尔多瓦",
       "摩尔多瓦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Eastern Europe",
       "Post-Soviet States"
@@ -7961,7 +8221,9 @@
       "莫桑比克",
       "莫桑比克共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Commonwealth of Nations"
@@ -8022,7 +8284,9 @@
       "纳米比亚",
       "纳米比亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Southern Africa",
       "Commonwealth of Nations"
@@ -8076,7 +8340,9 @@
       "瑙鲁",
       "瑙鲁共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Micronesian",
@@ -8136,7 +8402,9 @@
       "尼加拉瓜",
       "尼加拉瓜共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Central America",
       "Latin America"
@@ -8194,7 +8462,9 @@
       "尼日尔",
       "尼日尔共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Sahel Region"
@@ -8270,7 +8540,9 @@
       "北馬其頓",
       "北馬其頓共和國"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Balkan States",
       "Southeast Europe",
@@ -8326,7 +8598,9 @@
       "帕劳",
       "帕劳共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Micronesian",
@@ -8381,7 +8655,9 @@
       "巴拿马",
       "巴拿马共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Central America",
       "Latin America"
@@ -8442,7 +8718,9 @@
       "巴拉圭",
       "巴拉圭共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -8501,7 +8779,9 @@
       "秘鲁",
       "秘鲁共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -8568,7 +8848,9 @@
       "波兰",
       "波兰共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Central Europe",
       "NATO",
@@ -8626,7 +8908,9 @@
       "卢旺达",
       "卢旺达共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Commonwealth of Nations"
@@ -8681,7 +8965,9 @@
       "塞内加尔",
       "塞内加尔共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Sahel Region"
@@ -8745,7 +9031,9 @@
       "塞尔维亚",
       "塞尔维亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Balkan States",
       "Southeast Europe"
@@ -8810,7 +9098,9 @@
       "塞舌尔",
       "塞舌尔共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Commonwealth of Nations",
@@ -8867,7 +9157,9 @@
       "塞拉利昂",
       "塞拉利昂共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Commonwealth of Nations"
@@ -8925,7 +9217,9 @@
       "جمہوریہ سنگاپور",
       "新加坡"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia",
@@ -8993,7 +9287,9 @@
       "斯洛文尼亚",
       "斯洛文尼亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Balkan States",
       "Central Europe",
@@ -9063,7 +9359,9 @@
       "南非",
       "南非共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Southern Africa",
       "Commonwealth of Nations"
@@ -9141,7 +9439,9 @@
       "南苏丹",
       "南苏丹共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa"
     ],
@@ -9197,7 +9497,9 @@
       "苏里南",
       "苏里南共和国"
     ],
-    "continents": [],
+    "continents": [
+      "South America"
+    ],
     "groups": [
       "South America",
       "Latin America"
@@ -9267,7 +9569,9 @@
       "塔吉克斯坦",
       "塔吉克斯坦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Central Asia",
@@ -9321,7 +9625,9 @@
       "刚果",
       "刚果共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Middle Africa"
     ],
@@ -9378,7 +9684,9 @@
       "冈比亚",
       "冈比亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa",
       "Commonwealth of Nations"
@@ -9447,7 +9755,9 @@
       "马尔代夫",
       "马尔代夫共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "South Asia",
@@ -9521,7 +9831,9 @@
       "马绍尔群岛",
       "马绍尔群岛共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Micronesian",
@@ -9590,7 +9902,9 @@
       "菲律宾",
       "菲律宾共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia",
@@ -9653,7 +9967,9 @@
       "苏丹",
       "苏丹共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Northern Africa",
       "Sahel Region"
@@ -9717,7 +10033,9 @@
       "缅甸",
       "缅甸联邦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia"
@@ -9784,7 +10102,9 @@
       "特立尼达和多巴哥",
       "特立尼达和多巴哥共和国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -9855,7 +10175,9 @@
       "土耳其",
       "土耳其共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia",
@@ -9915,7 +10237,9 @@
       "乌干达",
       "乌干达共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Commonwealth of Nations"
@@ -9978,7 +10302,9 @@
       "乌兹别克斯坦",
       "乌兹别克斯坦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Central Asia",
@@ -10030,7 +10356,9 @@
       "瓦努阿图",
       "瓦努阿图共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Commonwealth of Nations"
@@ -10089,7 +10417,9 @@
       "也门",
       "也门共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -10148,7 +10478,9 @@
       "赞比亚",
       "赞比亚共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Commonwealth of Nations"
@@ -10206,7 +10538,9 @@
       "津巴布韦",
       "津巴布韦共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa"
     ],
@@ -10252,7 +10586,9 @@
       "رومانیہ",
       "罗马尼亚"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Balkan States",
       "Southeast Europe",
@@ -10322,7 +10658,9 @@
       "俄罗斯",
       "俄罗斯联邦"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Eastern Europe",
       "Post-Soviet States"
@@ -10362,7 +10700,9 @@
       "سینٹ لوسیا",
       "圣卢西亚"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -10417,7 +10757,9 @@
       "سینٹ وینسینٹ و گریناڈائنز",
       "圣文森特和格林纳丁斯"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Caribbean",
       "Latin America",
@@ -10485,7 +10827,9 @@
       "斯洛伐克",
       "斯洛伐克共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Central Europe",
       "NATO",
@@ -10546,7 +10890,9 @@
       "越南",
       "越南社会主义共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Southeast Asia"
@@ -10597,7 +10943,9 @@
       "جزائر سلیمان",
       "所罗门群岛"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Commonwealth of Nations",
@@ -10660,7 +11008,9 @@
       "ریاستِ ارتریا",
       "厄立特里亚"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa"
     ],
@@ -10717,7 +11067,9 @@
       "以色列",
       "以色列国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -10780,7 +11132,9 @@
       "科威特",
       "科威特国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -10841,7 +11195,9 @@
       "利比亚",
       "利比亚国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Northern Africa"
     ],
@@ -10896,7 +11252,9 @@
       "卡塔尔",
       "卡塔尔国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -10954,7 +11312,9 @@
       "阿曼",
       "阿曼苏丹国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -11025,7 +11385,9 @@
       "瑞士",
       "瑞士联邦"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Western Europe",
       "Central Europe"
@@ -11093,7 +11455,9 @@
       "叙利亚",
       "叙利亚阿拉伯共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -11150,7 +11514,9 @@
       "多哥",
       "多哥共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Western Africa"
     ],
@@ -11216,7 +11582,9 @@
       "突尼斯",
       "突尼斯共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Northern Africa"
     ],
@@ -11258,7 +11626,9 @@
       "ترکمانستان",
       "土库曼斯坦"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Central Asia",
@@ -11290,7 +11660,9 @@
       "Тувалу",
       "图瓦卢"
     ],
-    "continents": [],
+    "continents": [
+      "Oceania"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Polynesia",
@@ -11333,7 +11705,9 @@
       "یوکرین",
       "乌克兰"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Eastern Europe",
       "Post-Soviet States"
@@ -11403,7 +11777,9 @@
       "科摩罗",
       "科摩罗联盟"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Island States"
@@ -11456,7 +11832,9 @@
       "متحدہ عرب امارات",
       "阿拉伯联合酋长国"
     ],
-    "continents": [],
+    "continents": [
+      "Asia"
+    ],
     "groups": [
       "Asia and the Pacific",
       "Western Asia"
@@ -11528,7 +11906,9 @@
       "英国",
       "大不列颠及北爱尔兰联合王国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Northern Europe",
       "NATO",
@@ -11594,7 +11974,9 @@
       "墨西哥",
       "墨西哥合众国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "Latin America"
     ],
@@ -11658,7 +12040,9 @@
       "坦桑尼亚",
       "坦桑尼亚联合共和国"
     ],
-    "continents": [],
+    "continents": [
+      "Africa"
+    ],
     "groups": [
       "Eastern Africa",
       "Commonwealth of Nations"
@@ -11723,7 +12107,9 @@
       "美国",
       "美利坚合众国"
     ],
-    "continents": [],
+    "continents": [
+      "North America"
+    ],
     "groups": [
       "NATO"
     ],
@@ -11784,7 +12170,9 @@
       "梵蒂冈",
       "梵蒂冈城国"
     ],
-    "continents": [],
+    "continents": [
+      "Europe"
+    ],
     "groups": [
       "Southern Europe"
     ],
