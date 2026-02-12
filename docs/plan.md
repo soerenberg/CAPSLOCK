@@ -18,7 +18,7 @@ For a single country the following data is required:
 - `aliases` This should be a list of strings of common names the country is referred to. For instance, the sovereign state "United States of America" is also referred to as "USA", or the sovereign state of "Turkey" is also referred to as "Türkiye".
 - `continents` This should be a list of continents the country is associated with. For instance, for "Germany" it should only be "Europe" for countries like "Russia" or "Turkey" the list could consist of "Asia" and "Europe". Use the 7 continent model.
 - `groups` This should be a list of regions or even loose cultural groups the country is associated with. For instance, for "Sweden" it could be something along the way of "Scandinavia", "European Union", "NATO".
-- `capitals` in the layout `capitals: [{ name, aliases, lat, lon }]` This should be a list of names of the country's capital and their aliases as strings. It should include the official name but also localized names, e.g. "Rome" and "Roma". The first item should be the most common and used capital name and alias.
+- `capitals` in the layout `capitals: [{ name, aliases }]` This should be a list of names of the country's capital and their aliases as strings. It should include the official name but also localized names, e.g. "Rome" and "Roma". The first item should be the most common and used capital name and alias.
 - `flag:` { path, source, license, attributionRequired: boolean }
 
 Use Wikipedia as a convenience for initial collection, but the inclusion rule is UN members with ISO 3166-1 codes.
@@ -92,7 +92,7 @@ The initial screen of the web app should be a nice, stylish "main menu" style sc
     c. Connect capitals and countries (actual name just a suggestion, feel free to find a better, nicer phrase).
     d. Guess countries from flags (actual name just a suggestion, feel free to find a better, nicer phrase).
     e. Guess flags from country names (actual name just a suggestion, feel free to find a better, nicer phrase).
-    f. Locate capitals on a map (actual name just a suggestion, feel free to find a better, nicer phrase).
+    f. Locate countries on a map (actual name just a suggestion, feel free to find a better, nicer phrase).
     g. Show countries, capitals, flags (actual name just a suggestion, feel free to find a better, nicer phrase).
 2. "Where?" This should provide a selection to select a part of the world that should be included in the quiz. There should be a clear distinction between the following item groups below. That is the following things should be selectable (the user can only select one though):
     a. entire world. This should also be the default
@@ -118,12 +118,12 @@ Once the "start" button is pressed the following information should be preserved
 
 Depending on the selection from the main menu a run of a quiz should occur in the following subsections.
 Before a new run (independently of the kind of quiz selected) we introduce and initialize some variables:
+* <CORRECT_GUESSES_LIST> a list initialized to be empty
 * <WRONG_GUESSES_LIST> a list initialized to be empty
 * <NUM_CORRECT_GUESSES> an integer initialized to be 0.
 * <NUM_WRONG_GUESSES> an integer initialized to be 0.
 * <NUM_SKIPPED_GUESSES> an integer initialized to be 0.
 * <SKIPPED_GUESSES_LIST> a list initialized to be empty
-* <GAME_USES_POINT_SCORE> a boolean initialized to `false`.
 * <POINT_SCORE> an integer initialized to be 0.
 * <MAX_POINT_SCORE> an integer initialized to be 0.
 
@@ -135,7 +135,7 @@ We also define the notion of a `PromptItem`:
 ```
 PromptItem = { kind: "country" | "capital" | "flag", id: string }
 ```
-As a general rule, <WRONG_GUESSES_LIST> and <SKIPPED_GUESSES_LIST> should be homogenous lists of PromptItems, i.e., for a given game kind both list will only contain only a single kind of `PromptItems`, which is deteremined by the kind of the game.
+As a general rule, <CORRECT_GUESSES_LIST>, <WRONG_GUESSES_LIST>, and <SKIPPED_GUESSES_LIST> should be homogenous lists of PromptItems, i.e., for a given game kind both list will only contain only a single kind of `PromptItems`, which is deteremined by the kind of the game.
 As a further general rule, the `id` field of a PromptItem should match one unique `id` of a country (as introduced above) so that any `PromptItem` (of any kind) is always associated with a unique country.
 
 
@@ -145,7 +145,7 @@ This quiz should make the user guess the capital of a given country one by one. 
 In this game all `PromptItems` will be of `kind` `country`.
 Below should be a text field in which the user can make their guess. This text field should automatically have selected focus so that during doing a run the user does not need to use the mouse to repeatedly click on the (empty) text field to select focus. The textfield should have an appropriate placeholder text such "enter your guess" or similar.
 Once the guess was confirmed by hitting the enter key by the user one of the following things should happen:
-1. If the guess was correct, quickly show a green (use Catppuccin color) alert saying "Correct" for 0.5 seconds next to the guess, then advance to guessing the next capital. Here, a guess should be deemed correct if the user guesses any of the correct capital names. Apply the method of comparison explained above. Clear the input text and advance.
+1. If the guess was correct, quickly show a green (use Catppuccin color) alert saying "Correct" for 0.5 seconds next to the guess, then advance to guessing the next capital. Here, a guess should be deemed correct if the user guesses any of the correct capital names. Apply the method of comparison explained above. Add the current `PromptItem` to the <CORRECT_GUESSES_LIST> list. Clear the input text and advance.
 2. If the guess was incorrect, quickly show a red (use Catppuccin color) alert saying "Wrong" for 1 second next to the guess. Then, let the user guess again. Do not clear the text but highlight it. If a wrong guess has been entered for given country then that country should be appended to a list <WRONG_GUESSES_LIST> (unless it is already contained in that list) and <NUM_WRONG_GUESSES> should be increased by one.
 
 Right next to the textfield should be two buttons:
@@ -186,7 +186,7 @@ Now the following behavior should be implemented:
 
 We define 'valid drag and drop' event if either a country item is dropped onto a capital item or a capital item is dropped onto a country item.
 After a valid drag and drop event occurs (meaning either a country being dropped onto a capital, or a capital being dropped onto a country), exactly one of the two things should happen:
-1. If the guess was correct, i.e. the capital involved belongs to the country involved, then there should be a very quick and subtle green (use Catppuccin colors) flash or alert on the screen letting the user know the guess was correct. Both the correctly guessed country and capitals should be removed from their respective columns, so that after a correct guess the lengths of both columns decreases by one (but have otherwise always equal lengths), where length denotes the number of items (countries or capitals). Also, increase <NUM_CORRECT_GUESSES> by one.
+1. If the guess was correct, i.e. the capital involved belongs to the country involved, then there should be a very quick and subtle green (use Catppuccin colors) flash or alert on the screen letting the user know the guess was correct. Add the current country to the <CORRECT_GUESSES_LIST> list. Both the correctly guessed country and capitals should be removed from their respective columns, so that after a correct guess the lengths of both columns decreases by one (but have otherwise always equal lengths), where length denotes the number of items (countries or capitals). Also, increase <NUM_CORRECT_GUESSES> by one.
 2. If the guess was incorrect then there should be a quick and subtle red (Catppuccin colors) flash or alert on the screen letting the user know that the guess was incorrect. The drag element should return to its original position so that the state before performing the action is reproduced. Additionally, the country involved in the guess should be added to the list <WRONG_GUESSES_LIST> (unless it is already contained in that list) and <NUM_WRONG_GUESSES> should be increased by one.
 In case an invalid 'drag and drop event' occurs, e.g. if an item is dropped somewhere else, or a country items is dropped on another country item, or in free space, nothing should happen.
 
@@ -201,7 +201,7 @@ This quiz should make the user guess a country's name from its flag.
 In this game all `PromptItems` will be of `kind` `flag`.
 To this end, for a given country its flag should be rendered centered (horizontally) on the screen. For all purposes, this game is equal to the "Guess countries from capitals" game with the following exceptions:
 * instead of the capital being revealed, the flag is rendered as outlined above.
-* the lists <WRONG_GUESSES_LIST> and <SKIPPED_GUESSES_LIST> will contain flags not countries. In the evaluation screen flags should be rendered as images or icons of the height being equal to the text size / height.
+* the lists <CORRECT_GUESSES_LIST>, <WRONG_GUESSES_LIST>, and <SKIPPED_GUESSES_LIST> will contain flags not countries. In the evaluation screen flags should be rendered as images or icons of the height being equal to the text size / height.
 
 
 #### If "Guess flags from country names" was selected in the main menu
@@ -218,7 +218,7 @@ At the very button of the screen frozen, there should be 3 buttons displayed in 
 Below this button row should be a small text saying "<NUM_CORRECT_GUESSES> guesses made, <GUESSES_PENDING> pending" where <NUM_CORRECT_GUESSES> should be replaced by the number the user already entered correctly (do not count skipped) and <GUESSES_PENDING> by the number of guesses needed to clear the guessing queue.
 
 Once the guess was confirmed by clicking on the "confirm" button one of the following things should happen:
-1. If the guess was correct, meaning that the selected flag belongs to the current country then quickly show a green (use Catppuccin color) alert saying "Correct" for 0.5 seconds next to the guess, then advance to guessing the next capital. Again, hide the "confirm" button, remove the correctly guessed flag from the grid, and advance to the next country, or (if the queue is empty) advance to the evaluation screen.
+1. If the guess was correct, meaning that the selected flag belongs to the current country then quickly show a green (use Catppuccin color) alert saying "Correct" for 0.5 seconds next to the guess, then advance to guessing the next capital. Add the current `PromptItem` to the <CORRECT_GUESSES_LIST> list. Again, hide the "confirm" button, remove the correctly guessed flag from the grid, and advance to the next country, or (if the queue is empty) advance to the evaluation screen.
 2. If the guess was not correct, quickly show a red (use Catppuccin color) alert saying "Wrong" for 1 second next to the guess. Then, let the user guess again. Clear the selection and hide the "confirm" button. If a wrong guess has been confirmed for given country then that country should be appended to a list <WRONG_GUESSES_LIST> (unless it is already contained in that list) and <NUM_WRONG_GUESSES> should be increased by one.
 
 In case there are no more guesses to be made, meaning that the guessing queue is empty, then the app should advance to the evaluation screen.
@@ -226,23 +226,22 @@ In case there are no more guesses to be made, meaning that the guessing queue is
 The initial guessing queue should of course be the countries (or group thereof) selected in the main menu in random order.
 At the very bottom right should be a small timer showing the time elapsed since starting the run. The time should be displayed in format HH:MM:SS.
 
-#### If "Locate capitals on a map" was selected in the main menu
+#### If "Locate countries on a map" was selected in the main menu
 
-In this game the user's objective is to locate capitals on a world map.
-At the beginning change <GAME_USES_POINT_SCORE> to `true`.
+In this game the user's objective is to locate countries on a world map.
 
-At the top line the flag (fitting to text) the country's name, a separator ` - ` and the country's capital should be shown.
+At the top line the flag (fitting to text) and the country's name should be shown.
 
 Spanning the width of the usable screen there should be rendered a world map showing country borders. This map should be zoomable, so that
 * on a mac if the user holds the command key and turns the scroll wheel on a mouse-like input device, the user is able to zoom in and out on that map.
 * define a similar way to scroll on Windows and Linux desktop machines by adhering to common key combinations (perhaps by replacing the roll of the mac command key by the control key?).
 * on a mobile device a pinch zoom action enables the user is able to zoom in and out on that map.
 
-Next, a click on the map should display a clear distinctive marker on the map at the location of the map. This location (henceforth, referred to as <GUESS_GEO_LOCATION>) should be projected and represented as geo location (e.g. in latitude and longitude), so that the location remains on the same geographical location if the user zooms or scrolls (horizontally or vertically on the map).
-Performing another click on the map should remove the previous marker and create a new one on the location of the last click.
+On the map countries should be selectable, where a selection should be clearly visible: either by coloring the selected country in a distinctive color (e.g. Catppuccin red) or placing a bounding box around the selected country. 
+Performing another click on the map should remove the previous selection and create a new one on the location of the last click.
 
 At the very button of the screen frozen, there should be the followings buttons displayed in a single row:
-* A button with the caption "confirm". This button should initially be disabled or "inactive". If a marker is set on the map, this button should be enabled.
+* A button with the caption "confirm". This button should initially be disabled or "inactive". If a selection was made on the map, this button should be enabled.
 * A button with the caption "skip". Pressing this button should advance to the next guess and add the current `PromptItem` to the end of the guessing queue. Additionally, the `PromptItem` to be skipped should be added to a list <SKIPPED_GUESSES_LIST> (unless it is already on that list). Also increase <NUM_SKIPPED_GUESSES> by one.
 * A button "reset view" that resets the view (any zoom or scroll actions performed by the user).
 * A red button with the caption "abort". This button should end the quiz and advances to the evaluation screen described below. If the "abort" button is pressed and 'inifinity mode' was not selected, all items in the queue should be appended to <SKIPPED_GUESSES_LIST> and <NUM_SKIPPED_GUESSES> should be increased by the size of the queue, so that effectively all remaining items will be considered as skipped.
@@ -251,15 +250,9 @@ Below this button row should be a small text saying "<NUM_CORRECT_GUESSES> guess
 The initial guessing queue should of course be the countries (or group thereof) selected in the main menu in random order.
 At the very bottom right should be a small timer showing the time elapsed since starting the run. The time should be displayed in format HH:MM:SS.
 
-If the user confirmed their guess, that is, the marker was placed at least once on the map and the "confirm" was clicked, do the following:
-1. Increase <MAX_POINT_SCORE> by 100.
-2. Compute the haversine distances between the last set marker and all of the current country's capitals (if more than one) in kilometres.
-3. Out of those distances determine the smallest distance <MIN_DISTANCE_KM>.
-4. If <MIN_DISTANCE_KM> <= 100 then increase <POINT_SCORE> by 100.
-   Else if <MIN_DISTANCE_KM> <= 500 increase <POINT_SCORE> by `floor((500 - <MIN_DISTANCE_KM>) / 4)`.
-   Else (<MIN_DISTANCE_KM> > 500) do not increase <POINT_SCORE>.
-5. If the guessing queue is empty advance to the evaluation screen, otherwise carry on with the next item on this list.
-6. Advance to the next country to guess. Remove the marker from the map, do not reset any zoom or scroll levels the users might have done.
+Once the user confirmed their guess, that is, the marker was placed at least once on the map and the "confirm" was clicked, do the following:
+If the guess was correct, that is, the country selected matches the country from the current `PromptItem`, quickly show a green (use Catppuccin color) alert saying "Correct" for 0.5 seconds on screen. Add the current `PromptItem` to the <CORRECT_GUESSES_LIST> list then advance to guessing the next `PromptItem`. Remove the selection from the map, do not reset any zoom or scroll levels the users might have done.
+If the guess was not correct, quickly show a red (use Catppuccin color) alert saying "Wrong" for 1 seconds on screen. Then, let the user guess again. Clear the selection and hide the "confirm" button again. If a wrong guess has been confirmed for given `PromptItem` then that `PromptItem` should be appended to a list <WRONG_GUESSES_LIST> (unless it is already contained in that list) and <NUM_WRONG_GUESSES> should be increased by one.
 
 
 #### If "Show countries, capitals, flags" was selected in the main menu
@@ -284,10 +277,7 @@ At the very button of the screen frozen, there should be a single buttons "back 
 
 Once a single quiz run has been finished, either by completing the guesses by guessing all items correctly or by deliberately aborting a single run, the app should advance to the evaluation screen.
 The evaluation screen should be structured as follows:
-* If <GAME_USES_POINT_SCORE> is `false`:
-    Then: Display the number of correct, wrong and skipped guesses: "<NUM_CORRECT_GUESSES> correct, <NUM_WRONG_GUESSES> mistakes, <NUM_SKIPPED_GUESSES> skipped".
-  Else if <GAME_USES_POINT_SCORE> is `true`:
-    Display "Score: <POINT_SCORE> out of <MAX_POINT_SCORE>".
+* Display the number of correct, wrong and skipped guesses: "<NUM_CORRECT_GUESSES> correct, <NUM_WRONG_GUESSES> mistakes, <NUM_SKIPPED_GUESSES> skipped".
 * Display the time the user needed to finish the run. That is, the time between the user clicking the "start" button on the main menu and finishing the run (advancing to the evaluation screen). The time should be displayed in format HH:MM:SS.
 * Display the following buttons in a single line:
     * "rerun mistakes" this should start a fresh run (of the same kind of quiz as the previous run) with the selected guessing items equal to <WRONG_GUESSES_LIST>.
@@ -295,6 +285,7 @@ The evaluation screen should be structured as follows:
     * "rerun mistakes & skips" this should start a fresh run (of the same kind of quiz as the previous run) with the selected guessing items equal to the deduplicated union of the two lists <WRONG_GUESSES_LIST> and <SKIPPED_GUESSES_LIST>.
     * "reveal answers" (only show for games "Guess capitals from countries", "Guess countries from capitals", "Connect capitals and countries", "Guess countries from flags", "Guess flags from country names") this should send the app to "Show countries, capitals, flags" with the selected items equal to the deduplicated union of the two lists <WRONG_GUESSES_LIST> and <SKIPPED_GUESSES_LIST>.
     * "to main menu" this should bring the user back to the main menu as if they just started the app.
+* Show a vertically arranged list of correctly guessed items (that is, <CORRECT_GUESSES_LIST>). That is, if the objective was to guess capitals from countries then this should display countries (and vice versa). In case the user chose "Connect capitals and countries" then it should only list countries.
 * Show a vertically arranged list of wrongly guessed items (that is, <WRONG_GUESSES_LIST>). That is, if the objective was to guess capitals from countries then this should display countries (and vice versa). In case the user chose "Connect capitals and countries" then it should only list countries.
 * Show a vertically arranged list of skipped guessed items (that is, <SKIPPED_GUESSES_LIST>). That is, if the objective was to guess capitals from countries then this should display countries (and vice versa). In case the user chose "Connect capitals and countries" then it should only list countries.
 
