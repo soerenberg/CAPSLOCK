@@ -21,7 +21,6 @@ import {
   useDroppable,
 } from '@dnd-kit/core';
 import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from 'react-simple-maps';
-import { geoEqualEarth } from 'd3-geo';
 import './App.css';
 
 const MODE = {
@@ -30,7 +29,7 @@ const MODE = {
   CONNECT: 'connect',
   GUESS_FROM_FLAGS: 'guess-from-flags',
   GUESS_FLAGS: 'guess-flags',
-  LOCATE_CAPITALS: 'locate-capitals',
+  LOCATE_CAPITALS: 'locate-countries',
   SHOW_TABLE: 'show-table',
 };
 
@@ -70,7 +69,7 @@ const MODE_META = {
     answerAccept: 'Flag',
   },
   [MODE.LOCATE_CAPITALS]: {
-    label: 'Locate capitals on a map',
+    label: 'Locate countries on a map',
     promptLabel: 'Country',
     answerAccept: 'Location',
   },
@@ -120,19 +119,6 @@ const shuffle = (items) => {
     [result[i], result[j]] = [result[j], result[i]];
   }
   return result;
-};
-
-const haversineKm = (lat1, lon1, lat2, lon2) => {
-  const toRad = (deg) => (deg * Math.PI) / 180;
-  const dLat = toRad(lat2 - lat1);
-  const dLon = toRad(lon2 - lon1);
-  const rLat1 = toRad(lat1);
-  const rLat2 = toRad(lat2);
-  const a =
-    Math.sin(dLat / 2) ** 2 +
-    Math.cos(rLat1) * Math.cos(rLat2) * Math.sin(dLon / 2) ** 2;
-  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-  return 6371 * c;
 };
 
 const buildAnswerSet = (values) =>
@@ -214,6 +200,7 @@ function App() {
   const [runConfig, setRunConfig] = useState(null);
   const [queue, setQueue] = useState([]);
   const [currentAnswerMap, setCurrentAnswerMap] = useState({});
+  const [correctItems, setCorrectItems] = useState([]);
   const [wrongItems, setWrongItems] = useState([]);
   const [skippedItems, setSkippedItems] = useState([]);
   const [correctCount, setCorrectCount] = useState(0);
@@ -221,9 +208,6 @@ function App() {
   const [skippedCount, setSkippedCount] = useState(0);
   const [startTime, setStartTime] = useState(null);
   const [finishTime, setFinishTime] = useState(null);
-  const [usesPointScore, setUsesPointScore] = useState(false);
-  const [pointScore, setPointScore] = useState(0);
-  const [maxPointScore, setMaxPointScore] = useState(0);
   const elapsed = useTimer(screen !== 'menu' && screen !== 'table' && !finishTime, startTime);
   const finalElapsed = finishTime && startTime ? finishTime - startTime : elapsed;
 
@@ -251,14 +235,12 @@ function App() {
   const selectedCount = selectedCountries.length;
 
   const resetRunStats = () => {
+    setCorrectItems([]);
     setWrongItems([]);
     setSkippedItems([]);
     setCorrectCount(0);
     setWrongCount(0);
     setSkippedCount(0);
-    setPointScore(0);
-    setMaxPointScore(0);
-    setUsesPointScore(false);
   };
 
   const startRun = ({ customQueue = null, customMode = null } = {}) => {
@@ -299,7 +281,6 @@ function App() {
     setStartTime(Date.now());
     setFinishTime(null);
     setScreen(runMode === MODE.SHOW_TABLE ? 'table' : 'run');
-    setUsesPointScore(runMode === MODE.LOCATE_CAPITALS);
   };
 
   const finishRun = () => {
@@ -328,6 +309,11 @@ function App() {
   const recordWrong = (item) => {
     setWrongCount((prev) => prev + 1);
     setWrongItems((prev) => uniqueBy([...prev, item], (p) => `${p.kind}-${p.id}`));
+  };
+
+  const recordCorrect = (item) => {
+    setCorrectCount((prev) => prev + 1);
+    setCorrectItems((prev) => uniqueBy([...prev, item], (p) => `${p.kind}-${p.id}`));
   };
 
   const recordSkipped = (item) => {
@@ -379,7 +365,7 @@ function App() {
           answerAccept={runConfig.answerAccept}
           onAbort={() => handleAbort('country')}
           onFinish={finishRun}
-          onCorrect={() => setCorrectCount((prev) => prev + 1)}
+          onCorrect={(item) => recordCorrect(item)}
           onWrong={recordWrong}
           onSkip={recordSkipped}
           correctCount={correctCount}
@@ -399,7 +385,7 @@ function App() {
           answerAccept={runConfig.answerAccept}
           onAbort={() => handleAbort('capital')}
           onFinish={finishRun}
-          onCorrect={() => setCorrectCount((prev) => prev + 1)}
+          onCorrect={(item) => recordCorrect(item)}
           onWrong={recordWrong}
           onSkip={recordSkipped}
           correctCount={correctCount}
@@ -418,7 +404,7 @@ function App() {
           answerAccept={runConfig.answerAccept}
           onAbort={() => handleAbort('flag')}
           onFinish={finishRun}
-          onCorrect={() => setCorrectCount((prev) => prev + 1)}
+          onCorrect={(item) => recordCorrect(item)}
           onWrong={recordWrong}
           onSkip={recordSkipped}
           correctCount={correctCount}
@@ -434,7 +420,7 @@ function App() {
           countries={countries}
           onAbort={() => handleAbort('country')}
           onFinish={finishRun}
-          onCorrect={() => setCorrectCount((prev) => prev + 1)}
+          onCorrect={(item) => recordCorrect(item)}
           onWrong={recordWrong}
           onSkip={recordSkipped}
           correctCount={correctCount}
@@ -452,7 +438,7 @@ function App() {
             finishRun();
           }}
           onFinish={finishRun}
-          onCorrect={() => setCorrectCount((prev) => prev + 1)}
+          onCorrect={(item) => recordCorrect(item)}
           onWrong={recordWrong}
           correctCount={correctCount}
           elapsed={elapsed}
@@ -467,11 +453,8 @@ function App() {
           onAbort={() => handleAbort('country')}
           onFinish={finishRun}
           onSkip={recordSkipped}
-          onScore={(points, maxPoints) => {
-            setPointScore((prev) => prev + points);
-            setMaxPointScore((prev) => prev + maxPoints);
-          }}
-          onCorrect={() => setCorrectCount((prev) => prev + 1)}
+          onWrong={recordWrong}
+          onCorrect={(item) => recordCorrect(item)}
           elapsed={elapsed}
           countMode={countMode}
           correctCount={correctCount}
@@ -493,13 +476,11 @@ function App() {
           correctCount={correctCount}
           wrongCount={wrongCount}
           skippedCount={skippedCount}
+          correctItems={correctItems}
           wrongItems={wrongItems}
           skippedItems={skippedItems}
           countries={countries}
           elapsed={finalElapsed}
-          usesPointScore={usesPointScore}
-          pointScore={pointScore}
-          maxPointScore={maxPointScore}
           onRerunMistakes={() => rerunFromList(wrongItems)}
           onRerunSkips={() => rerunFromList(skippedItems)}
           onRerunAll={() => rerunFromList(uniqueBy([...wrongItems, ...skippedItems], (i) => i.id))}
@@ -718,7 +699,7 @@ const TextGuessGame = ({
     if (answers.has(normalized)) {
       setFeedback({ type: 'success', text: 'Correct' });
       setInput('');
-      onCorrect();
+      onCorrect({ kind: mode === MODE.GUESS_COUNTRIES ? 'capital' : 'country', id: currentId });
       setQueue((prev) => prev.slice(1));
       setTimeout(() => setFeedback(null), 500);
     } else {
@@ -826,7 +807,7 @@ const FlagGuessTextGame = ({
     if (answers.has(normalized)) {
       setFeedback({ type: 'success', text: 'Correct' });
       setInput('');
-      onCorrect();
+      onCorrect({ kind: 'flag', id: currentId });
       setQueue((prev) => prev.slice(1));
       setTimeout(() => setFeedback(null), 500);
     } else {
@@ -928,7 +909,7 @@ const FlagSelectionGame = ({
     if (!selectedFlag) return;
     if (selectedFlag === currentId) {
       setFeedback({ type: 'success', text: 'Correct' });
-      onCorrect();
+      onCorrect({ kind: 'country', id: currentId });
       setQueue((prev) => prev.slice(1));
       setAvailableFlags((prev) => prev.filter((id) => id !== currentId));
       setSelectedFlag(null);
@@ -1021,7 +1002,7 @@ const ConnectGame = ({ queue, countries, onAbort, onFinish, onCorrect, onWrong, 
 
     if (countryId === matchId) {
       setFlash('success');
-      onCorrect();
+      onCorrect({ kind: 'country', id: countryId });
       setLeftIds((prev) => prev.filter((id) => id !== countryId));
       setRightIds((prev) => prev.filter((id) => id !== matchId));
     } else {
@@ -1125,17 +1106,29 @@ const MapGame = ({
   onAbort,
   onFinish,
   onSkip,
-  onScore,
+  onWrong,
   onCorrect,
   elapsed,
   countMode,
   correctCount,
 }) => {
-  const [marker, setMarker] = useState(null);
+  const [selectedId, setSelectedId] = useState(null);
+  const [feedback, setFeedback] = useState(null);
   const [zoom, setZoom] = useState(1);
   const [center, setCenter] = useState([0, 20]);
-  const mapRef = useRef(null);
   const projectionConfig = { scale: 160 };
+  const nameLookup = useMemo(() => {
+    const map = {};
+    countries.forEach((c) => {
+      const names = [c.name, ...(c.aliases || [])];
+      names.forEach((name) => {
+        const key = normalize(name);
+        if (!key) return;
+        if (!map[key]) map[key] = c.id;
+      });
+    });
+    return map;
+  }, [countries]);
 
   useEffect(() => {
     if (!queue.length) onFinish();
@@ -1145,46 +1138,33 @@ const MapGame = ({
   const country = countries.find((c) => c.id === currentId);
   if (!country) return null;
 
-  const promptCapital = country.capitals?.[0]?.name || 'Unknown';
-
-  const handleClick = (event) => {
-    if (!mapRef.current) return;
-    const svg = mapRef.current.querySelector('svg');
-    if (!svg) return;
-    const point = svg.createSVGPoint();
-    point.x = event.clientX;
-    point.y = event.clientY;
-    const svgPoint = point.matrixTransform(svg.getScreenCTM().inverse());
-    const projection = geoEqualEarth().scale(projectionConfig.scale).translate([400, 250]);
-    const coords = projection.invert([svgPoint.x, svgPoint.y]);
-    if (coords) {
-      setMarker({ coordinates: coords });
+  const handleConfirm = () => {
+    if (!selectedId) return;
+    if (selectedId === currentId) {
+      setFeedback({ type: 'success', text: 'Correct' });
+      onCorrect({ kind: 'country', id: currentId });
+      setQueue((prev) => {
+        const rest = prev.slice(1);
+        if (countMode === COUNT_MODE.INFINITE && rest.length === 0) {
+          return shuffle(prev);
+        }
+        return rest;
+      });
+      setSelectedId(null);
+      setTimeout(() => setFeedback(null), 500);
+      return;
     }
+    setFeedback({ type: 'danger', text: 'Wrong' });
+    setSelectedId(null);
+    onWrong({ kind: 'country', id: currentId });
+    setTimeout(() => setFeedback(null), 1000);
   };
 
-  const handleConfirm = () => {
-    if (!marker) return;
-    const capitals = country.capitals || [];
-    const distances = capitals
-      .map((cap) => haversineKm(marker.coordinates[1], marker.coordinates[0], cap.lat, cap.lon))
-      .filter((d) => Number.isFinite(d));
-    const minDistance = distances.length ? Math.min(...distances) : 9999;
-    let points = 0;
-    if (minDistance <= 100) {
-      points = 100;
-    } else if (minDistance <= 500) {
-      points = Math.floor((500 - minDistance) / 4);
-    }
-    onScore(points, 100);
-    onCorrect();
-    setQueue((prev) => {
-      const rest = prev.slice(1);
-      if (countMode === COUNT_MODE.INFINITE && rest.length === 0) {
-        return shuffle(prev);
-      }
-      return rest;
-    });
-    setMarker(null);
+  const handleSelect = (geo) => {
+    const name = geo?.properties?.name;
+    if (!name) return;
+    const matchId = nameLookup[normalize(name)];
+    if (matchId) setSelectedId(matchId);
   };
 
   const handleSkip = () => {
@@ -1196,7 +1176,7 @@ const MapGame = ({
       }
       return [...rest, currentId];
     });
-    setMarker(null);
+    setSelectedId(null);
   };
 
   const resetView = () => {
@@ -1216,16 +1196,13 @@ const MapGame = ({
       <div className="map-header">
         <img src={getFlagPath(country)} alt={country.name} />
         <span>{country.name}</span>
-        <span className="map-sep">-</span>
-        <span>{promptCapital}</span>
       </div>
-      <div className="map-container" ref={mapRef} onWheel={handleWheel}>
+      <div className="map-container" onWheel={handleWheel}>
         <ComposableMap
           projection="geoEqualEarth"
           projectionConfig={projectionConfig}
           width={800}
           height={500}
-          onClick={handleClick}
         >
           <ZoomableGroup center={center} zoom={zoom} onMoveEnd={({ coordinates, zoom: z }) => {
             setCenter(coordinates);
@@ -1233,21 +1210,26 @@ const MapGame = ({
           }}>
             <Geographies geography={GEO_URL}>
               {({ geographies }) =>
-                geographies.map((geo) => (
-                  <Geography key={geo.rsmKey} geography={geo} className="map-geo" />
-                ))
+                geographies.map((geo) => {
+                  const name = geo?.properties?.name || '';
+                  const geoId = nameLookup[normalize(name)];
+                  const isSelected = selectedId && geoId === selectedId;
+                  return (
+                    <Geography
+                      key={geo.rsmKey}
+                      geography={geo}
+                      className={`map-geo ${isSelected ? 'selected' : ''}`}
+                      onClick={() => handleSelect(geo)}
+                    />
+                  );
+                })
               }
             </Geographies>
-            {marker && (
-              <Marker coordinates={marker.coordinates}>
-                <circle r={5} className="map-marker" />
-              </Marker>
-            )}
           </ZoomableGroup>
         </ComposableMap>
       </div>
       <div className="button-row fixed-actions">
-        <Button variant="primary" onClick={handleConfirm} disabled={!marker}>
+        <Button variant="primary" onClick={handleConfirm} disabled={!selectedId}>
           Confirm
         </Button>
         <Button variant="secondary" onClick={handleSkip}>
@@ -1264,6 +1246,11 @@ const MapGame = ({
         <span>
           {correctCount} guesses made, {queue.length} pending
         </span>
+        {feedback && (
+          <Alert className={`feedback feedback-${feedback.type}`} variant={feedback.type}>
+            {feedback.text}
+          </Alert>
+        )}
         <span className="timer">{formatDuration(elapsed)}</span>
       </div>
     </Container>
@@ -1337,19 +1324,18 @@ const EvaluationScreen = ({
   correctCount,
   wrongCount,
   skippedCount,
+  correctItems,
   wrongItems,
   skippedItems,
   countries,
   elapsed,
-  usesPointScore,
-  pointScore,
-  maxPointScore,
   onRerunMistakes,
   onRerunSkips,
   onRerunAll,
   onReveal,
   onMainMenu,
 }) => {
+  const correctList = correctItems.map((item) => renderPromptItem(item, countries));
   const wrongList = wrongItems.map((item) => renderPromptItem(item, countries));
   const skippedList = skippedItems.map((item) => renderPromptItem(item, countries));
   const showReveal =
@@ -1359,9 +1345,7 @@ const EvaluationScreen = ({
     <Container className="evaluation-screen">
       <div className="evaluation-title">Run complete</div>
       <div className="evaluation-score">
-        {usesPointScore
-          ? `Score: ${pointScore} out of ${maxPointScore}`
-          : `${correctCount} correct, ${wrongCount} mistakes, ${skippedCount} skipped`}
+        {correctCount} correct, {wrongCount} mistakes, {skippedCount} skipped
       </div>
       <div className="evaluation-time">Time: {formatDuration(elapsed)}</div>
       <div className="button-row">
@@ -1392,11 +1376,15 @@ const EvaluationScreen = ({
         </Button>
       </div>
       <Row className="evaluation-lists">
-        <Col md={6}>
+        <Col md={4}>
+          <div className="list-title">Correct</div>
+          {correctList.length ? correctList : <div className="empty">None</div>}
+        </Col>
+        <Col md={4}>
           <div className="list-title">Wrong guesses</div>
           {wrongList.length ? wrongList : <div className="empty">None</div>}
         </Col>
-        <Col md={6}>
+        <Col md={4}>
           <div className="list-title">Skipped</div>
           {skippedList.length ? skippedList : <div className="empty">None</div>}
         </Col>

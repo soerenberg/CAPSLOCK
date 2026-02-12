@@ -265,12 +265,9 @@ const buildAliases = (country) => {
 
 const buildCapitals = (country) => {
   const names = country.capital || [];
-  const coords = country.capitalInfo?.latlng;
   return names.map((name) => ({
     name,
     aliases: [],
-    lat: Array.isArray(coords) ? coords[0] : null,
-    lon: Array.isArray(coords) ? coords[1] : null,
   }));
 };
 

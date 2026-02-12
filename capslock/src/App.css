@@ -314,6 +314,14 @@
   stroke-width: 0.5;
 }
 
+.map-geo:hover {
+  fill: var(--ctp-sapphire);
+}
+
+.map-geo.selected {
+  fill: var(--ctp-red);
+}
+
 .map-marker {
   fill: var(--ctp-peach);
   stroke: var(--ctp-crust);
