@@ -1,13 +1,99 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&display=swap');
+
+:root {
+  --ctp-rosewater: #f2d5cf;
+  --ctp-flamingo: #eebebe;
+  --ctp-pink: #f4b8e4;
+  --ctp-mauve: #ca9ee6;
+  --ctp-red: #e78284;
+  --ctp-maroon: #ea999c;
+  --ctp-peach: #ef9f76;
+  --ctp-yellow: #e5c890;
+  --ctp-green: #a6d189;
+  --ctp-teal: #81c8be;
+  --ctp-sky: #99d1db;
+  --ctp-sapphire: #85c1dc;
+  --ctp-blue: #8caaee;
+  --ctp-lavender: #babbf1;
+  --ctp-text: #c6d0f5;
+  --ctp-subtext1: #b5bfe2;
+  --ctp-subtext0: #a5adce;
+  --ctp-overlay2: #949cbb;
+  --ctp-overlay1: #838ba7;
+  --ctp-overlay0: #737994;
+  --ctp-surface2: #626880;
+  --ctp-surface1: #51576d;
+  --ctp-surface0: #414559;
+  --ctp-base: #303446;
+  --ctp-mantle: #292c3c;
+  --ctp-crust: #232634;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Monaco, Consolas, 'Liberation Mono',
+    'Courier New', monospace;
+  background: radial-gradient(circle at top, #3a3f55 0%, var(--ctp-base) 35%, var(--ctp-crust) 100%);
+  color: var(--ctp-text);
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}
+
+.btn-primary {
+  background-color: var(--ctp-blue);
+  border-color: var(--ctp-blue);
+  color: var(--ctp-crust);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #7da2f6;
+  border-color: #7da2f6;
+  color: var(--ctp-crust);
+}
+
+.btn-secondary {
+  background-color: var(--ctp-surface1);
+  border-color: var(--ctp-surface1);
+  color: var(--ctp-text);
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background-color: var(--ctp-surface2);
+  border-color: var(--ctp-surface2);
+}
+
+.btn-outline-light {
+  border-color: var(--ctp-overlay0);
+  color: var(--ctp-subtext1);
+}
+
+.btn-outline-light:hover,
+.btn-outline-light:focus {
+  background-color: var(--ctp-surface0);
+  border-color: var(--ctp-overlay1);
+}
+
+.btn-danger {
+  background-color: var(--ctp-red);
+  border-color: var(--ctp-red);
+  color: var(--ctp-crust);
+}
+
+.btn-danger:hover,
+.btn-danger:focus {
+  background-color: #f07f82;
+  border-color: #f07f82;
 }
