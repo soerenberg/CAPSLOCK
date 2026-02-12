@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CAPSLOCK/static/css/main.6939d749.css",
-    "main.js": "/CAPSLOCK/static/js/main.be581c83.js",
+    "main.js": "/CAPSLOCK/static/js/main.088a407c.js",
     "static/js/453.bef9dfe8.chunk.js": "/CAPSLOCK/static/js/453.bef9dfe8.chunk.js",
     "index.html": "/CAPSLOCK/index.html",
     "main.6939d749.css.map": "/CAPSLOCK/static/css/main.6939d749.css.map",
-    "main.be581c83.js.map": "/CAPSLOCK/static/js/main.be581c83.js.map",
+    "main.088a407c.js.map": "/CAPSLOCK/static/js/main.088a407c.js.map",
     "453.bef9dfe8.chunk.js.map": "/CAPSLOCK/static/js/453.bef9dfe8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6939d749.css",
-    "static/js/main.be581c83.js"
+    "static/js/main.088a407c.js"
   ]
 }
